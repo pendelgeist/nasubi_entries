@@ -1282,3 +1282,176 @@
 | 野菜詰め合わせ                        | Vegetable assortment                                                    | x       | 08                          |
 | 広末涼子サイン入りTシャツ                  | Hirosue Ryoko autographed T-shirt                                       | x       | 08                          |
 | 広末涼子サイン入り等身大ポスター               | Hirosue Ryoko autographed life-size poster                              | x       | 08                          |
+| ポテトスナック                        | Potato snacks                                                           | x       | 09                          |
+| ドライブルーベリー                      | Dried blueberries                                                       | x       | 09                          |
+| プラモデル「ガンダム」                    | Plastic model "Gundam"                                                  | x       | 09                          |
+| ラジカセ                           | Radio cassette player                                                   | x       | 09                          |
+| タイヤ (4本)                       | Tires (4 pieces)                                                        | x       | 09                          |
+| ビデオ                            | Video                                                                   | x       | 09                          |
+| 「CM美少女15秒のシンデレラ」               | "CM Bishojo 15 Seconds of Cinderella"                                   | x       | 09                          |
+| モーニング娘。ステッカ                    | Morning Musume. Stickers                                                | x       | 09                          |
+| 指輪                             | Rings                                                                   | x       | 09                          |
+| キャンディ                          | Candy                                                                   | x       | 09                          |
+| チョコスナック                        | Chocolate snacks                                                        | x       | 09                          |
+| フライパン                          | Frying pan                                                              | x       | 09                          |
+| ピングーのホットケーキパン                  | Pingu's hotcake pan                                                     | x       | 09                          |
+| 万年筆一                           | Fountain pen                                                            | x       | 09                          |
+| ディズニー3Dアートボックス                 | Disney 3D art box                                                       | x       | 09                          |
+| K-1ジッポライタ                      | K-1 Zippo lighter                                                       | x       | 09                          |
+| 腕時計                            | Watch                                                                   | x       | 09                          |
+| 馬刺し(300g)                      | Horse meat sashimi (300g)                                               | x       | 09                          |
+| 和菓子                            | Japanese sweets                                                         | x       | 09                          |
+| 米(3kg)                         | Rice (3kg)                                                              | x       | 09                          |
+| ビーフジャーキー                       | Beef jerky                                                              | x       | 09                          |
+| ハチミツ                           | Honey                                                                   | x       | 09                          |
+| 女性用水着                          | Women's swimsuit                                                        | x       | 09                          |
+| 商品券10万円                        | 100,000 yen gift certificate                                            | x       | 09                          |
+| パソコン                           | Computer                                                                | x       | 09                          |
+| カーオーディオ                        | Car audio                                                               | x       | 09                          |
+| 宇宙ツアー参加費1,000万円分               | Space tour participation fee 10 million yen                             | x       | 09                          |
+| セガサターンゲームソフト10枚組               | 10-disc set of Sega Saturn games                                        | x       | 09                          |
+| 体脂肪計                           | Body fat meter                                                          | x       | 09                          |
+| カリブ海旅行                         | Caribbean trip                                                          | x       | 09                          |
+| アメリカメジャーリーグ                    | American Major League Baseball                                          | x       | 09                          |
+| 観戦ツアー                          | Watching tour                                                           | x       | 09                          |
+| アメリカスーパーボール                    | American Super Bowl                                                     | x       | 09                          |
+| 観戦ツアー                          | Watching tour                                                           | x       | 09                          |
+| 自転車                            | Bicycle                                                                 | x       | 09                          |
+| キティちゃんのクッション                   | Hello Kitty cushion                                                     | x       | 09                          |
+| ぶどう                            | Grapes                                                                  | x       | 09                          |
+| ホテル宿泊券                         | Hotel accommodation voucher                                             | x       | 09                          |
+| 日産「ラシーン・フォルザ」他                 | Nissan "Rasheen Forza" and others                                       | x       | 09                          |
+| トレーニングマシーン                     | Training machine                                                        | x       | 09                          |
+| クイズ賞金1,000万円                   | Quiz prize money 10 million yen                                         | x       | 09                          |
+| パソコン                           | Computer                                                                | x       | 09                          |
+| フォード「フェステバ・ミニワゴン」              | Ford "Festeva Mini Wagon"                                               | x       | 09                          |
+| 旅行券10万円                        | 100,000 yen travel voucher                                              | x       | 09                          |
+| MDコンポ                          | MD component                                                            | x       | 09                          |
+| 沖繩旅行                           | Okinawa trip                                                            | x       | 09                          |
+| アメリカ・ディズニーワールド旅行               | American Disney World trip                                              | x       | 09                          |
+| オーストラリア旅行                      | Australia trip                                                          | x       | 09                          |
+| ハワイ旅行                          | Hawaii trip                                                             | x       | 09                          |
+| エーゲ海旅行                         | Aegean trip                                                             | x       | 09                          |
+| バスケットボール                       | Basketball                                                              | x       | 09                          |
+| 顕微鏡 OR 双眼鏡                     | Microscope OR Binoculars                                                | x       | 09                          |
+| ボディソープ                         | Body soap                                                               | x       | 09                          |
+| ごま豆腐                           | Sesame tofu                                                             | x       | 09                          |
+| フライパン                          | Frying pan                                                              | x       | 09                          |
+| アルコール飲料                        | Alcoholic drinks                                                        | x       | 09                          |
+| 調味料セット                         | Seasoning set                                                           | x       | 09                          |
+| 自動水やり機                         | Automatic watering machine                                              | x       | 09                          |
+| 野球グローブ                         | Baseball glove                                                          | x       | 09                          |
+| ダイエット食品                        | Diet food                                                               | x       | 09                          |
+| パリ旅行                           | Trip to Paris                                                           | x       | 09                          |
+| ルパン3世グッズ                       | Lupin III goods                                                         | x       | 09                          |
+| 高級ライター                         | Luxury lighter                                                          | x       | 09                          |
+| バルセロナ旅行                        | Trip to Barcelona                                                       | x       | 09                          |
+| ロンドン旅行                         | Trip to London                                                          | x       | 09                          |
+| 香港旅行                           | Trip to Hong Kong                                                       | x       | 09                          |
+| アカプルコ旅行                        | Trip to Acapulco                                                        | x       | 09                          |
+| ふりかけ                           | Furikake                                                                | x       | 09                          |
+| ゲーム「あつめてゴジラ」& カップうどん           | Game "Godzilla Collection" & Cup udon                                   | x       | 09                          |
+| 青木裕子テレカ                        | Yuko Aoki telephone card                                                | x       | 09                          |
+| ポテトスナック                        | Potato snacks                                                           | x       | 09                          |
+| 腕時計                            | Watch                                                                   | x       | 09                          |
+| 自転車                            | Bicycle                                                                 | x       | 09                          |
+| カメラ                            | Camera                                                                  | x       | 09                          |
+| テレビ                            | Television                                                              | x       | 09                          |
+| テント                            | Tent                                                                    | x       | 09                          |
+| リュックサック                        | Backpack                                                                | x       | 09                          |
+| ラジカセー                          | Radio cassette player                                                   | x       | 09                          |
+| 電気シェーバー                        | Electric shaver                                                         | x       | 09                          |
+| サングラス                          | Sunglasses                                                              | x       | 09                          |
+| ゼリー                            | Jelly                                                                   | x       | 09                          |
+| カレー粉                           | Curry powder                                                            | x       | 09                          |
+| とうもろこし                         | Corn                                                                    | x       | 09                          |
+| 味付ごま                           | Flavored sesame                                                         | x       | 09                          |
+| 布団                             | Futon                                                                   | x       | 09                          |
+| MDプレイヤー                        | MD player                                                               | x       | 09                          |
+| ビデオカメラ                         | Video camera                                                            | x       | 09                          |
+| ビデオプリンター                       | Video printer                                                           | x       | 09                          |
+| FAX                            | FAX                                                                     | x       | 09                          |
+| ミニコンポ                          | Mini component system                                                   | x       | 09                          |
+| インターネットターミナル                   | Internet terminal                                                       | x       | 09                          |
+| 全国地図 CD-ROM                    | National map CD-ROM                                                     | x       | 09                          |
+| 広末涼子テレカ                        | Hirosue Ryoko telephone card                                            | x       | 09                          |
+| 広末涼子ポスター                       | Hirosue Ryoko poster                                                    | x       | 09                          |
+| ポテトスナック                        | Potato snacks                                                           | x       | 09                          |
+| 豆乳                             | Soy milk                                                                | x       | 09                          |
+| ボードゲーム「人生ゲーム平成版X」              | Board game "Game of Life Heisei Edition X"                              | x       | 09                          |
+| ダイエット食品                        | Diet foods                                                              | x       | 09                          |
+| ディズニー3Dアートボックス                 | Disney 3D Art Box                                                       | x       | 09                          |
+| 文字放送用チューナー                     | Teletext tuner                                                          | x       | 09                          |
+| 塩                              | Salt                                                                    | x       | 09                          |
+| ネクタイ                           | Tie                                                                     | x       | 09                          |
+| 育毛剤                            | Hair growth agent                                                       | x       | 09                          |
+| 手袋                             | Gloves                                                                  | x       | 09                          |
+| 竹製シートカバー                       | Bamboo seat cover                                                       | x       | 09                          |
+| ゴルフシューズ                        | Golf shoes                                                              | x       | 09                          |
+| 万能ナイフ                          | All-purpose knife                                                       | x       | 09                          |
+| 電動歯ブラシ                         | Electric toothbrush                                                     | x       | 09                          |
+| インスタント食品                       | Instant food                                                            | x       | 09                          |
+| チーズかまぼこ                        | Cheese kamaboko                                                         | x       | 09                          |
+| しょうが                           | Ginger                                                                  | x       | 09                          |
+| 野菜ジュース                         | Vegetable juice                                                         | x       | 09                          |
+| しょうゆ                           | Soy sauce                                                               | x       | 09                          |
+| 長いも                            | Yam                                                                     | x       | 09                          |
+| ラジコンカー                         | Radio-controlled car                                                    | x       | 09                          |
+| 台湾往復航空券                        | Taiwan round-trip air ticket                                            | x       | 09                          |
+| オレンジカード                        | Orange card                                                             | x       | 09                          |
+| 本「中田英寿編集長 アッカ!!」               | Book "Editor-in-Chief Nakata Hidetoshi ACCA!!"                          | x       | 09                          |
+| ビデオ「ロベルト・バッジオ」                 | Video "Roberto Baggio"                                                  | x       | 09                          |
+| サファイアのアクセサリー・                  | Sapphire accessories                                                    | x       | 09                          |
+| デジタルカメラ                        | Digital camera                                                          | x       | 09                          |
+| 液晶テレビ                          | LCD TV                                                                  | x       | 09                          |
+| 食品包装ラップ                        | Food packaging wrap                                                     | x       | 09                          |
+| 目もと用バック                        | Eye bag                                                                 | x       | 09                          |
+| ヨーヨー                           | Yo-yo                                                                   | x       | 09                          |
+| アントニオ猪木写真集                     | Antonio Inoki photo book                                                | x       | 09                          |
+| ジュース                           | Juice                                                                   | x       | 09                          |
+| イス                             | Chair                                                                   | x       | 09                          |
+| モーニング娘ポスター                     | Morning Musume poster                                                   | x       | 09                          |
+| ビデオ「ビーバップハイスクール」               | Video "Be-Bop High School"                                              | x       | 09                          |
+| ゲームソフト OR ハイウェイカード             | Game software OR Highway card                                           | x       | 09                          |
+| じゃがいも、ごぼう、にんじん、かぼちゃ            | Potato, burdock, carrot, pumpkin                                        | x       | 09                          |
+| イクラ、カレイ、ししゃも                   | Salmon roe, flounder, shishamo                                          | x       | 09                          |
+| 組み立て式ワゴン                       | Assembled wagon                                                         | x       | 09                          |
+| 電動歯ブラシ                         | Electric toothbrush                                                     | x       | 09                          |
+| バッグ                            | Bag                                                                     | x       | 09                          |
+| クッキングスケールー                     | Cooking scale                                                           | x       | 09                          |
+| フライパン                          | Frying pan                                                              | x       | 09                          |
+| オーケストラコンサート招待券                 | Invitation to orchestra concert                                         | x       | 09                          |
+| サングラス                          | Sunglasses                                                              | x       | 09                          |
+| 現金1万円                          | 10,000 yen in cash                                                      | x       | 09                          |
+| レストラン食事券                       | Restaurant meal voucher                                                 | x       | 09                          |
+| カーナビー                          | Carnaby                                                                 | x       | 09                          |
+| ヒゲ剃り                           | Shaver                                                                  | x       | 09                          |
+| ゴマだれ                           | Sesame sauce                                                            | x       | 09                          |
+| ぶどう(2kg)                       | Grapes (2kg)                                                            | x       | 09                          |
+| チョコレート                         | Chocolate                                                               | x       | 09                          |
+| 油絵セット OR 色鉛筆セット                | Oil painting set OR Colored pencil set                                  | x       | 09                          |
+| ポテトスナック                        | Potato snack                                                            | x       | 09                          |
+| あゆの姿煮                          | Simmered sweetfish                                                      | x       | 09                          |
+| 梨 (5kg)                        | Pear (5kg)                                                              | x       | 09                          |
+| さつまいも (5kg)                    | Sweet potato (5kg)                                                      | x       | 09                          |
+| りんご(5kg)                       | Apple (5kg)                                                             | x       | 09                          |
+| 鮭(1kg)                         | Salmon (1kg)                                                            | x       | 09                          |
+| さんま(1kg)                       | Sanma (1kg)                                                             | x       | 09                          |
+| 柿                              | Persimmon                                                               | x       | 09                          |
+| まぐろブツ                          | Tuna chunks                                                             | x       | 09                          |
+| 栗きんとん                          | Chestnut paste                                                          | x       | 09                          |
+| みそ汁                            | Miso soup                                                               | x       | 09                          |
+| 工具箱                            | Tool box                                                                | x       | 09                          |
+| クッキー                           | Cookies                                                                 | x       | 09                          |
+| リップクリーム                        | Lip balm                                                                | x       | 09                          |
+| 豆腐                             | Tofu                                                                    | x       | 09                          |
+| ぶどうオイル                         | Grape oil                                                               | x       | 09                          |
+| クイズ賞金1万円                       | Quiz prize money 10,000 yen                                             | x       | 09                          |
+| 電卓                             | Calculator                                                              | x       | 09                          |
+| プレイステーション&ゲームソフト               | PlayStation & game software                                             | x       | 09                          |
+| カップラーメンー                       | Cup ramen                                                               | x       | 09                          |
+| 広末涼子生写真 OR クリアファイル             | Hirosue Ryoko photo OR Clear file                                       | x       | 09                          |
+| 広末涼子ファンクラブ会報                   | Hirosue Ryoko fan club newsletter                                       | x       | 09                          |
+| 広末涼子ポストカード OR ビデオ「R.H」         | Hirosue Ryoko postcard OR Video "R.H"                                   | x       | 09                          |
+| 広末涼子サイン入りテレカ                   | Hirosue Ryoko autographed phone card                                    | x       | 09                          |
+| 広末涼子ペンケース                      | Hirosue Ryoko pencil case                                               | x       | 09                          |
