@@ -127,188 +127,187 @@
 
 | 日本語                           | English                                                        | Entries | Month |
 |-------------------------------|----------------------------------------------------------------|---------|-------|
-| 電車でGO                         | Densha de Go                                                   | x       | 03    |
-| サバイバルナイフ                      | Survival knife                                                 | x       | 03    |
-| バドワイザー (24)                   | Budweiser (24)                                                 | x       | 03    |
-| たまご酒(3本)                      | Egg sake (3 bottles)                                           | x       | 03    |
-| 笹かまぼこ詰め合わせ                    | Assorted bamboo-flavored fish cakes                            | x       | 03    |
-| ちくわ詰め合わせ                      | Assorted chikuwa                                               | x       | 03    |
-| フライパン(直径14cm)                 | Frying pan (14cm diameter)                                     | x       | 03    |
-| はちみつ                          | Honey                                                          | x       | 03    |
-| チョコレート                        | Chocolate                                                      | x       | 03    |
-| ラブラブラーメン                      | ■Love Love Ramen                                               | x       | 03    |
-| ジグソーパズル(1,000ピース)             | Jigsaw puzzle (1,000 pieces)                                   | x       | 03    |
-| イラストクイズ(賞金総額35万円)             | Illustration quiz (total prize money 350,000 yen)              | x       | 03    |
-| カップラーメン (12食)                 | Cup ramen (12 servings)                                        | x       | 03    |
-| ビスケット (400g)                  | Biscuits (400g)                                                | x       | 03    |
-| 米(1kg)                        | Rice (1kg)                                                     | x       | 03    |
-| クロスワードパズル(賞金総額25万円)           | Crossword puzzle (total prize money 250,000 yen)               | x       | 03    |
-| 伊藤園俳句大賞                       | Itoen Haiku Grand Prize                                        | x       | 03    |
-| 醬油 (750g)                     | Soy sauce (750g)                                               | x       | 03    |
-| 吉四六清                          | Kichishirokusei                                                | x       | 03    |
-| ポケモンデスクマット                    | Pokemon desk mat                                               | x       | 03    |
-| 神戸牛モモ肉 (150g)                 | Kobe beef thigh meat (150g)                                    | x       | 03    |
-| カジキマグロ(カス漬け&みそ漬け)             | Marlin (pickled in kasu and miso)                              | x       | 03    |
-| 栃木のきゅうり                       | Tochigi cucumber                                               | x       | 03    |
-| 「スポーン」 Tシャツ                   | "Spawn" T-shirt                                                | x       | 03    |
-| 新宿300年委員会 Tシャツ                | Shinjuku 300th Anniversary Committee T-shirt                   | x       | 03    |
-| ジャンボぬいぐるみ                     | Jumbo stuffed toy                                              | x       | 03    |
-| 和菓子セット                        | Japanese sweets set                                            | x       | 03    |
-| 帽子                            | Hat                                                            | x       | 03    |
-| スカイラインGT-R(71年式)              | Skyline GT-R (1971 model)                                      | x       | 03    |
-| トヨタプリウス                       | Toyota Prius                                                   | x       | 03    |
-| マツダロードスター                     | Mazda Roadster                                                 | x       | 03    |
-| 香港旅行                          | Hong Kong trip                                                 | x       | 03    |
-| 広末涼子ノベルティ(クリアファイル)            | Hirosue Ryoko novelty (clear file)                             | x       | 03    |
-| 広末涼子のフィギュアー                   | Hirosue Ryoko figure                                           | x       | 03    |
-| モデルさん使用済パンティ(さきちゃん)           | Model's used panties (Saki-chan)                               | x       | 03    |
-| モデルさん使用済パンティ(はるかちゃん)          | Model's used panties (Haruka-chan)                             | x       | 03    |
-| モデルさん使用済パンティ(かいりちゃん)          | Model's used panties (Kairi-chan)                              | x       | 03    |
-| ブルマとTシャツ(レオナちゃん)              | Bloomers and T-shirt (Leona-chan)                              | x       | 03    |
-| 茶わんで丼ドン (中華、牛、親子、各5食)         | Rice bowl don (Chinese, beef, parent and child, 5 meals each)  | x       | 03    |
-| モバイルコンピューター「カシオペア」            | Mobile computer "Cassiopeia"                                   | x       | 03    |
-| タオルー                          | Tao Lo                                                         | x       | 03    |
-| ハワイ旅行                         | Hawaii trip                                                    | x       | 03    |
-| てんてんの一口ギョウザ (100個)            | Ten Ten's bite-sized gyoza (100 pieces)                        | x       | 03    |
-| NISSAN 「サファリ」                 | NISSAN "Safari"                                                | x       | 03    |
-| めんたいドレッシング                    | Mentaiko dressing                                              | x       | 03    |
-| アルコール飲料「フーチ」 (6缶)             | Alcoholic drink "Fuchi" (6 cans)                               | x       | 03    |
-| カレーのル                         | Curry no Ru                                                    | x       | 03    |
-| きつねうどん、かき揚げ天うどんセット            | Kitsune udon, kakiage tempura udon set                         | x       | 03    |
-| アニメヒーロー人形「デビルマン               | Anime hero doll "Devilman"                                     | x       | 03    |
-| 和菓子「かまくらカスター」(12個)            | Japanese sweets "Kamakura Custard" (12 pieces)                 | x       | 03    |
-| 「タイタニック」 写真入りブック              | "Titanic" Photo book                                           | x       | 03    |
-| キティとミミィのぬいぐるみ                 | Hello Kitty and Mimmy stuffed toys                             | x       | 03    |
-| アーモンドミックスナッツセット               | Almond mixed nuts set                                          | x       | 03    |
-| 野菜ジュース                        | Vegetable juice                                                | x       | 03    |
-| マグカップ                         | Mug                                                            | x       | 03    |
-| 竹の子(福岡産2本)                    | Bamboo shoots (2 from Fukuoka)                                 | x       | 03    |
-| 日本海の魚詰め合わせ                    | Assorted fish from the Sea of ​​Japan                          | x       | 03    |
-| 現金100万円                       | 1 million yen in cash                                          | x       | 03    |
-| 現金50万円                        | 500,000 yen in cash                                            | x       | 03    |
-| 現金30万円                        | 300,000 yen in cash                                            | x       | 03    |
-| ワイドテレビ                        | Wide-screen TV                                                 | x       | 03    |
-| ステレオ                          | Stereo                                                         | x       | 03    |
-| プレイステーション                     | PlayStation                                                    | x       | 03    |
-| イギリス旅行(4泊6日)またはビスケット          | Trip to England (4 nights, 6 days) or biscuits                 | x       | 03    |
-| テレビデオ                         | TV/video                                                       | x       | 03    |
-| FAX                           | Fax                                                            | x       | 03    |
-| 電子レンジー                        | Microwave                                                      | x       | 03    |
-| MDコンポ                         | MD component                                                   | x       | 03    |
-| 冷威庫一                          | Refrigerator                                                   | x       | 03    |
-| コーヒーメーカー                      | Coffee maker                                                   | x       | 03    |
-| 地球儀                           | Globe                                                          | x       | 03    |
-| 天体望遠鏡                         | Telescope                                                      | x       | 03    |
-| 手持望遠鏡                         | Handheld telescope                                             | x       | 03    |
-| キティちゃんの鍋                      | Hello Kitty pot                                                | x       | 03    |
-| ドクター中松、頭においしい食品セット            | Dr. Nakamatsu, delicious food for your head set                | x       | 03    |
-| 野菜タンメン(12食)                   | Vegetable tanmen (12 meals)                                    | x       | 03    |
-| カップ麺(12食)                     | Cup noodles (12 meals)                                         | x       | 03    |
-| 「きちみ製カレーめん (3個)               | Kichimi curry noodles (3 pieces)                               | x       | 03    |
-| 漬物6点セット                       | 6-piece pickle set                                             | x       | 03    |
-| アルミの鍋(直径20cm)                 | Aluminum pot (20cm diameter)                                   | x       | 03    |
-| JAの米 「真球伝説」 (5kg)             | JA rice "Shinkyu Densetsu" (5kg)                               | x       | 03    |
-| 栃木コシヒカリ「穂の香」 (5kg)            | Tochigi Koshihikari "Honoka" (5kg)                             | x       | 03    |
-| レブロンの口紅                       | Revlon lipstick                                                | x       | 03    |
-| 「フルーツ缶詰(6缶)                   | Canned fruit (6 cans)                                          | x       | 03    |
-| ナタデココヨーグルト(10個)               | Nata de coco yogurt (10 pieces)                                | x       | 03    |
-| ツナカレー缶 (3缶)                   | Tuna curry can (3 cans)                                        | x       | 03    |
-| MDプレイヤー                       | MD player                                                      | x       | 03    |
-| ミッキーとミニーのバススポンジ               | Mickey and Minnie bath sponge                                  | x       | 03    |
-| クロスワードクイズ(賞金総額25万円)           | Crossword quiz (total prize money 250,000 yen)                 | x       | 03    |
-| しいたけ(300g)                    | Shiitake mushrooms (300g)                                      | x       | 03    |
-| リラックスチェアー                     | Relax chair                                                    | x       | 03    |
-| サザンオールスターズ、旅行キット              | Southern All Stars, travel kit                                 | x       | 03    |
-| ダイエットマシン                      | Diet machine                                                   | x       | 03    |
-| 鮭の中骨スナック                      | Salmon backbone snack                                          | x       | 03    |
-| 「マッサージ券 (5,000円分)             | "Massage voucher (5,000 yen)                                   | x       | 03    |
-| ダイエット食品・ナチュラルビスキュイ(5個)        | Diet food, natural biscuit (5 pieces)                          | x       | 03    |
-| ズワイガニ (4ハイ)                   | Snow crab (4 high)                                             | x       | 03    |
-| 三菱の自動車                        | Mitsubishi car                                                 | x       | 03    |
-| シンガポール旅行(2泊4日)                | Singapore trip (2 nights, 4 days)                              | x       | 03    |
-| バリ島旅行(3泊5日)                   | Bali trip (3 nights, 5 days)                                   | x       | 03    |
-| 「モルディブ島旅行 (4泊6日)              | "Maldives trip (4 nights, 6 days)                              | x       | 03    |
-| MDウォークマン                      | MD Walkman                                                     | x       | 03    |
-| Gショック                         | G-Shock                                                        | x       | 03    |
-| ビデオカメラ                        | Video camera                                                   | x       | 03    |
-| チーズ詰め合わせ1                     | Cheese assortment 1                                            | x       | 03    |
-| イスラエルのみかん                     | Israeli mandarins                                              | x       | 03    |
-| 全員トンガリボウシ(新種のキャベツ)            | All tongari-boushi (a new type of cabbage)                     | x       | 03    |
-| 黒豚焼豚(3本)                      | Black pork roast pork (3 pieces)                               | x       | 03    |
-| ルパン3世の皿                       | Lupin III plate                                                | x       | 03    |
-| 豚みそ漬 (800g)                   | Pork miso pickles (800g)                                       | x       | 03    |
-| アラのチリ鍋セット(5人前)                | Ara chili hot pot set (5 servings)                             | x       | 03    |
-| 日本全国郷土の味(20種類)                | Local flavors from all over Japan (20 types)                   | x       | 03    |
-| 備蓄米 (2kg)                     | Stock rice (2kg)                                               | x       | 03    |
-| ??? (12個)                     | ??? (12 pieces)                                                | x       | 03    |
-| 凍スパゲティ                        | Frozen spaghetti                                               | x       | 03    |
-| アルコール飲料「ザ・カクテルバー」「サクラフィズ」)    | Alcoholic drinks "The Cocktail Bar" and "Sakura Fizz")         | x       | 03    |
-| 「お菓子「一六タルト                    | Sweets "Ichiroku Tart"                                         | x       | 03    |
-| パソコン、プリンタ、デジタルカメラ他            | Computers, printers, digital cameras, etc.                     | x       | 03    |
-| お子様うどん (6個)                   | Children's udon (6 pieces)                                     | x       | 03    |
-| くもんの学習国語辞典                    | Kumon learning Japanese dictionary                             | x       | 03    |
-| フルーツ缶詰(6缶)                    | Canned fruit (6 cans)                                          | x       | 03    |
-| オリーブドレッシング(2本)                | Olive dressing (2 bottles)                                     | x       | 03    |
-| 掃除機                           | Vacuum cleaner                                                 | x       | 03    |
-| 毛剤(ダークブラックとオリーブブラウンとアップルレッド)  | Hair polish (dark black, olive brown, and apple red)           | x       | 03    |
-| ハーゲンダッツのアイス(12個)              | Häagen-Dazs ice cream (12 pieces)                              | x       | 03    |
-| 刺青シール (3枚)                    | Tattoo stickers (3 sheets)                                     | x       | 03    |
-| ヒゲ剃り (3枚刃)                    | Shaver (3-blade)                                               | x       | 03    |
-| あぶらとり紙 (300枚)                 | Oil blotting paper (300 sheets)                                | x       | 03    |
-| D&D、使用済のフラフープー                | D&D, used hula hoop                                            | x       | 03    |
-| 十徳ナイフ                         | Jutoku knife                                                   | x       | 03    |
-| 広末涼子サイン色紙+カップメン(12食)          | Ryoko Hirosue autographed color paper + cup noodles (12 meals) | x       | 03    |
-| スズキ「セルポ」                      | Suzuki "Celpo"                                                 | x       | 03    |
-| スズキ「ワゴンR」                     | Suzuki "Wagon R"                                               | x       | 03    |
-| スズキ「アルトワークス」                  | Suzuki "Alto Works"                                            | x       | 03    |
-| 茶碗ときゅうす-                      | Rice bowls and teacups -                                       | x       | 03    |
-| 手作りパン (11種セット)                | Homemade bread (11-item set)                                   | x       | 03    |
-| 三輪車(ジェット機タイプ)                 | Tricycle (jet plane type)                                      | x       | 03    |
-| 牛皮製ハンドバッグ                     | Handbag made from cowhide                                      | x       | 03    |
-| ボディソープ                        | Body soap                                                      | x       | 03    |
-| トマトケチャップ、トマトソース、ホールトマト        | Tomato ketchup, tomato sauce, whole tomatoes                   | x       | 03    |
-| ちらし寿司のたね                      | Sushi toppings                                                 | x       | 03    |
-| パンに塗るゴマクリーム(黒ゴマ、白ゴマ)          | Sesame cream for bread (black sesame, white sesame)            | x       | 03    |
-| 魚の一夜干しセット(9枚)                 | Dried fish set (9 pieces)                                      | x       | 03    |
-| 栃木のトマト (2kg)                  | Tomatoes from Tochigi (2kg)                                    | x       | 03    |
-| 鋼で作ったハム                       | Ham made of steel                                              | x       | 03    |
-| 発汗促進剤                         | Sweat enhancer                                                 | x       | 03    |
-| アニメヒーロー人形(ルパン三世)              | Anime hero doll (Lupin III)                                    | x       | 03    |
-| アニメヒーロー人形(不動明TVバージョン)         | Anime hero doll (Fudo Akira TV version)                        | x       | 03    |
-| ???一ロ一人射像、急敬太郎人セットで)          | ???One-man projection, one-man set)                            | x       | 03    |
-| サッポロポテト(3種セット)一               | Sapporo potato (3-type set)                                    | x       | 03    |
-| 飲茶セット                         | Dim sum set                                                    | x       | 03    |
-| トーストセット                       | Toast set                                                      | x       | 03    |
-| ピアス(18K)                      | Earrings (18K)                                                 | x       | 03    |
-| ポラロイドカメラR刑事コロンボの台本            | Polaroid camera R Detective Columbo script                     | x       | 03    |
-| ベルサーチのサイフ                     | Versace wallet                                                 | x       | 03    |
-| 堂本光一、使用済のなべ・                  | Koichi Domoto, used pot                                        | x       | 03    |
-| 大麦牛(ステーキ用850g)                | Barley beef (850g for steak)                                   | x       | 03    |
-| ステーキ用フライパン                    | Steak frying pan                                               | x       | 03    |
-| フォークとナイフセット                   | Fork and knife set                                             | x       | 03    |
-| 辛子高菜                          | Mustard takana                                                 | x       | 03    |
-| FAX                           | FAX                                                            | x       | 03    |
-| ハンディーマッサージ「スーパーフィットくん」        | Handy massage "Super Fit-kun"                                  | x       | 03    |
-| 浄水器                           | Water purifier                                                 | x       | 03    |
-| 掃除機                           | Vacuum cleaner                                                 | x       | 03    |
-| 毛動画(オレンジブラウン、アップルメイド、ハニーブラウン) | Hair video (orange brown, apple maid, honey brown)             | x       | 03    |
-| 化粧品セット(UVカット製品他)              | Cosmetics set (UV cut products, etc.)                          | x       | 03    |
-| ウィダーinゼリー(ポーチ付き)              | Weider in jelly (with pouch)                                   | x       | 03    |
-| ポテトチップスセットー 52通               | Potato chips set - 52 letters                                  | x       | 03    |
-| ストッキング(3点セット)・                | Stockings (3-piece set)                                        | x       | 03    |
-| 栄養シリアル「イートシステム」               | Nutritional cereal "Eat System"                                | x       | 03    |
-| 歯みがきセット                       | Toothbrush set                                                 | x       | 03    |
-| 本「黄金ボキャブラ天国」                  | Book "Golden Vocabulary Heaven"                                | x       | 03    |
-| ギョーザ (100個)                   | Gyoza (100 pieces)                                             | x       | 03    |
-| MGのウォッチ                       | MG watch                                                       | x       | 03    |
-| 玄米かゆセット                       | Brown rice porridge set                                        | x       | 03    |
-| フルーツトマト                       | Fruit tomato                                                   | x       | 03    |
-| 牛タン (塩とみそ漬け)                  | Beef tongue (salted and miso-pickled)                          | x       | 03    |
-| 栃木のうど                         | Tochigi udo                                                    | x       | 03    |
-| アンキモ                          | Ankimo                                                         | x       | 03    |
-| 広末涼子のバッグ-                     | Hirosue Ryoko's bag                                            | x       | 03    |
-| 日産「ウイングロード」                   | Nissan "Wingroad"                                              | x       | 03    |
-| 「おれは男だ!」 目覚し時計                | "I'm a man!" Alarm clock                                       | x       | 03    |
+| 電車でGO                         | Densha de Go                                                   | 5       | 03    |
+| サバイバルナイフ                      | Survival knife                                                 | 50      | 03    |
+| バドワイザー (24)                   | Budweiser (24)                                                 | 1       | 03    |
+| たまご酒(3本)                      | Egg sake (3 bottles)                                           | 50      | 03    |
+| 笹かまぼこ詰め合わせ                    | Assorted bamboo-flavored fish cakes                            | 50      | 03    |
+| ちくわ詰め合わせ                      | Assorted chikuwa                                               | 50      | 03    |
+| フライパン(直径14cm)                 | Frying pan (14cm diameter)                                     | 50      | 03    |
+| はちみつ                          | Honey                                                          | 100     | 03    |
+| チョコレート                        | Chocolate                                                      | 210     | 03    |
+| ラブラブラーメン                      | ■Love Love Ramen                                               | 120     | 03    |
+| ジグソーパズル(1,000ピース)             | Jigsaw puzzle (1,000 pieces)                                   | 10      | 03    |
+| イラストクイズ(賞金総額35万円)             | Illustration quiz (total prize money 350,000 yen)              | 20      | 03    |
+| カップラーメン (12食)                 | Cup ramen (12 servings)                                        | 50      | 03    |
+| ビスケット (400g)                  | Biscuits (400g)                                                | 50      | 03    |
+| 米(1kg)                        | Rice (1kg)                                                     | 50      | 03    |
+| クロスワードパズル(賞金総額25万円)           | Crossword puzzle (total prize money 250,000 yen)               | 10      | 03    |
+| 伊藤園俳句大賞                       | Itoen Haiku Grand Prize                                        | 2       | 03    |
+| 醬油 (750g)                     | Soy sauce (750g)                                               | 50      | 03    |
+| 吉四六清                          | Kichishirokusei                                                | 50      | 03    |
+| ポケモンデスクマット                    | Pokemon desk mat                                               | 5       | 03    |
+| 神戸牛モモ肉 (150g)                 | Kobe beef thigh meat (150g)                                    | 50      | 03    |
+| カジキマグロ(カス漬け&みそ漬け)             | Marlin (pickled in kasu and miso)                              | 50      | 03    |
+| 栃木のきゅうり                       | Tochigi cucumber                                               | 50      | 03    |
+| 「スポーン」 Tシャツ                   | "Spawn" T-shirt                                                | 50      | 03    |
+| 新宿300年委員会 Tシャツ                | Shinjuku 300th Anniversary Committee T-shirt                   | 50      | 03    |
+| ジャンボぬいぐるみ                     | Jumbo stuffed toy                                              | 5       | 03    |
+| 和菓子セット                        | Japanese sweets set                                            | 50      | 03    |
+| 帽子                            | Hat                                                            | 50      | 03    |
+| スカイラインGT-R(71年式)              | Skyline GT-R (1971 model)                                      | 50      | 03    |
+| トヨタプリウス                       | Toyota Prius                                                   | 100     | 03    |
+| マツダロードスター                     | Mazda Roadster                                                 | 50      | 03    |
+| 香港旅行                          | Hong Kong trip                                                 | 50      | 03    |
+| 広末涼子ノベルティ(クリアファイル)            | Hirosue Ryoko novelty (clear file)                             | 5       | 03    |
+| 広末涼子のフィギュアー                   | Hirosue Ryoko figure                                           | 5       | 03    |
+| モデルさん使用済パンティ(さきちゃん)           | Model's used panties (Saki-chan)                               | 1       | 03    |
+| モデルさん使用済パンティ(はるかちゃん)          | Model's used panties (Haruka-chan)                             | 1       | 03    |
+| モデルさん使用済パンティ(かいりちゃん)          | Model's used panties (Kairi-chan)                              | 1       | 03    |
+| ブルマとTシャツ(レオナちゃん)              | Bloomers and T-shirt (Leona-chan)                              | 1       | 03    |
+| 茶わんで丼ドン (中華、牛、親子、各5食)         | Rice bowl don (Chinese, beef, parent and child, 5 meals each)  | 50      | 03    |
+| モバイルコンピューター「カシオペア」            | Mobile computer "Cassiopeia"                                   | 50      | 03    |
+| タオルー                          | Tao Lo                                                         | 50      | 03    |
+| ハワイ旅行                         | Hawaii trip                                                    | 50      | 03    |
+| てんてんの一口ギョウザ (100個)            | Ten Ten's bite-sized gyoza (100 pieces)                        | 50      | 03    |
+| NISSAN 「サファリ」                 | NISSAN "Safari"                                                | 50      | 03    |
+| めんたいドレッシング                    | Mentaiko dressing                                              | 50      | 03    |
+| アルコール飲料「フーチ」 (6缶)             | Alcoholic drink "Fuchi" (6 cans)                               | 50      | 03    |
+| カレーのル                         | Curry no Ru                                                    | 50      | 03    |
+| きつねうどん、かき揚げ天うどんセット            | Kitsune udon, kakiage tempura udon set                         | 50      | 03    |
+| アニメヒーロー人形「デビルマン               | Anime hero doll "Devilman"                                     | 5       | 03    |
+| 和菓子「かまくらカスター」(12個)            | Japanese sweets "Kamakura Custard" (12 pieces)                 | 50      | 03    |
+| 「タイタニック」 写真入りブック              | "Titanic" Photo book                                           | 7       | 03    |
+| キティとミミィのぬいぐるみ                 | Hello Kitty and Mimmy stuffed toys                             | 5       | 03    |
+| アーモンドミックスナッツセット               | Almond mixed nuts set                                          | 50      | 03    |
+| 野菜ジュース                        | Vegetable juice                                                | 100     | 03    |
+| マグカップ                         | Mug                                                            | 50      | 03    |
+| 竹の子(福岡産2本)                    | Bamboo shoots (2 from Fukuoka)                                 | 50      | 03    |
+| 日本海の魚詰め合わせ                    | Assorted fish from the Sea of ​​Japan                          | 50      | 03    |
+| 現金100万円                       | 1 million yen in cash                                          | 50      | 03    |
+| 現金50万円                        | 500,000 yen in cash                                            | 50      | 03    |
+| 現金30万円                        | 300,000 yen in cash                                            | 50      | 03    |
+| ワイドテレビ                        | Wide-screen TV                                                 | 100     | 03    |
+| ステレオ                          | Stereo                                                         | 50      | 03    |
+| プレイステーション                     | PlayStation                                                    | 70      | 03    |
+| イギリス旅行(4泊6日)またはビスケット          | Trip to England (4 nights, 6 days) or biscuits                 | 50      | 03    |
+| テレビデオ                         | TV/video                                                       | 1       | 03    |
+| FAX                           | Fax                                                            | 1       | 03    |
+| 電子レンジー                        | Microwave                                                      | 1       | 03    |
+| MDコンポ                         | MD component                                                   | 1       | 03    |
+| 冷威庫一                          | Refrigerator                                                   | 1       | 03    |
+| コーヒーメーカー                      | Coffee maker                                                   | 1       | 03    |
+| 地球儀                           | Globe                                                          | 1       | 03    |
+| 天体望遠鏡                         | Telescope                                                      | 1       | 03    |
+| 手持望遠鏡                         | Handheld telescope                                             | 1       | 03    |
+| キティちゃんの鍋                      | Hello Kitty pot                                                | 1       | 03    |
+| ドクター中松、頭においしい食品セット            | Dr. Nakamatsu, delicious food for your head set                | 50      | 03    |
+| 野菜タンメン(12食)                   | Vegetable tanmen (12 meals)                                    | 30      | 03    |
+| カップ麺(12食)                     | Cup noodles (12 meals)                                         | 30      | 03    |
+| 「きちみ製カレーめん (3個)               | Kichimi curry noodles (3 pieces)                               | 50      | 03    |
+| 漬物6点セット                       | 6-piece pickle set                                             | 50      | 03    |
+| アルミの鍋(直径20cm)                 | Aluminum pot (20cm diameter)                                   | 50      | 03    |
+| JAの米 「真球伝説」 (5kg)             | JA rice "Shinkyu Densetsu" (5kg)                               | 100     | 03    |
+| 栃木コシヒカリ「穂の香」 (5kg)            | Tochigi Koshihikari "Honoka" (5kg)                             | 100     | 03    |
+| レブロンの口紅                       | Revlon lipstick                                                | 1       | 03    |
+| 「フルーツ缶詰(6缶)                   | Canned fruit (6 cans)                                          | 100     | 03    |
+| ナタデココヨーグルト(10個)               | Nata de coco yogurt (10 pieces)                                | 100     | 03    |
+| ツナカレー缶 (3缶)                   | Tuna curry can (3 cans)                                        | 1       | 03    |
+| MDプレイヤー                       | MD player                                                      | 51      | 03    |
+| ミッキーとミニーのバススポンジ               | Mickey and Minnie bath sponge                                  | 1       | 03    |
+| クロスワードクイズ(賞金総額25万円)           | Crossword quiz (total prize money 250,000 yen)                 | 20      | 03    |
+| しいたけ(300g)                    | Shiitake mushrooms (300g)                                      | 50      | 03    |
+| リラックスチェアー                     | Relax chair                                                    | 1       | 03    |
+| サザンオールスターズ、旅行キット              | Southern All Stars, travel kit                                 | 1       | 03    |
+| ダイエットマシン                      | Diet machine                                                   | 1       | 03    |
+| 鮭の中骨スナック                      | Salmon backbone snack                                          | 50      | 03    |
+| 「マッサージ券 (5,000円分)             | "Massage voucher (5,000 yen)                                   | 1       | 03    |
+| ダイエット食品・ナチュラルビスキュイ(5個)        | Diet food, natural biscuit (5 pieces)                          | 50      | 03    |
+| ズワイガニ (4ハイ)                   | Snow crab (4 high)                                             | 50      | 03    |
+| 三菱の自動車                        | Mitsubishi car                                                 | 50      | 03    |
+| シンガポール旅行(2泊4日)                | Singapore trip (2 nights, 4 days)                              | 1       | 03    |
+| バリ島旅行(3泊5日)                   | Bali trip (3 nights, 5 days)                                   | 1       | 03    |
+| 「モルディブ島旅行 (4泊6日)              | "Maldives trip (4 nights, 6 days)                              | 1       | 03    |
+| MDウォークマン                      | MD Walkman                                                     | 1       | 03    |
+| Gショック                         | G-Shock                                                        | 1       | 03    |
+| ビデオカメラ                        | Video camera                                                   | 20      | 03    |
+| チーズ詰め合わせ1                     | Cheese assortment 1                                            | 100     | 03    |
+| イスラエルのみかん                     | Israeli mandarins                                              | 50      | 03    |
+| 全員トンガリボウシ(新種のキャベツ)            | All tongari-boushi (a new type of cabbage)                     | 50      | 03    |
+| 黒豚焼豚(3本)                      | Black pork roast pork (3 pieces)                               | 50      | 03    |
+| ルパン3世の皿                       | Lupin III plate                                                | 1       | 03    |
+| 豚みそ漬 (800g)                   | Pork miso pickles (800g)                                       | 50      | 03    |
+| アラのチリ鍋セット(5人前)                | Ara chili hot pot set (5 servings)                             | 50      | 03    |
+| 日本全国郷土の味(20種類)                | Local flavors from all over Japan (20 types)                   | 200     | 03    |
+| 備蓄米 (2kg)                     | Stock rice (2kg)                                               | 100     | 03    |
+| 凍スパゲティ(12個)                         | Frozen spaghetti                                               | 5       | 03    |
+| アルコール飲料「ザ・カクテルバー」「サクラフィズ」)    | Alcoholic drinks "The Cocktail Bar" and "Sakura Fizz")         | 5       | 03    |
+| 「お菓子「一六タルト                    | Sweets "Ichiroku Tart"                                         | 50      | 03    |
+| パソコン、プリンタ、デジタルカメラ他            | Computers, printers, digital cameras, etc.                     | 50      | 03    |
+| お子様うどん (6個)                   | Children's udon (6 pieces)                                     | 5 0     | 03    |
+| くもんの学習国語辞典                    | Kumon learning Japanese dictionary                             | 5       | 03    |
+| フルーツ缶詰(6缶)                    | Canned fruit (6 cans)                                          | 50      | 03    |
+| オリーブドレッシング(2本)                | Olive dressing (2 bottles)                                     | 5       | 03    |
+| 掃除機                           | Vacuum cleaner                                                 | 5       | 03    |
+| 毛剤(ダークブラックとオリーブブラウンとアップルレッド)  | Hair polish (dark black, olive brown, and apple red)           | 6       | 03    |
+| ハーゲンダッツのアイス(12個)              | Häagen-Dazs ice cream (12 pieces)                              | 50      | 03    |
+| 刺青シール (3枚)                    | Tattoo stickers (3 sheets)                                     | 5       | 03    |
+| ヒゲ剃り (3枚刃)                    | Shaver (3-blade)                                               | 5       | 03    |
+| あぶらとり紙 (300枚)                 | Oil blotting paper (300 sheets)                                | 5       | 03    |
+| D&D、使用済のフラフープー                | D&D, used hula hoop                                            | 1       | 03    |
+| 十徳ナイフ                         | Jutoku knife                                                   | 51      | 03    |
+| 広末涼子サイン色紙+カップメン(12食)          | Ryoko Hirosue autographed color paper + cup noodles (12 meals) | 1       | 03    |
+| スズキ「セルポ」                      | Suzuki "Celpo"                                                 | 50      | 03    |
+| スズキ「ワゴンR」                     | Suzuki "Wagon R"                                               | 100     | 03    |
+| スズキ「アルトワークス」                  | Suzuki "Alto Works"                                            | 50      | 03    |
+| 茶碗ときゅうす-                      | Rice bowls and teacups -                                       | 1       | 03    |
+| 手作りパン (11種セット)                | Homemade bread (11-item set)                                   | 50      | 03    |
+| 三輪車(ジェット機タイプ)                 | Tricycle (jet plane type)                                      | 5       | 03    |
+| 牛皮製ハンドバッグ                     | Handbag made from cowhide                                      | 5       | 03    |
+| ボディソープ                        | Body soap                                                      | 5       | 03    |
+| トマトケチャップ、トマトソース、ホールトマト        | Tomato ketchup, tomato sauce, whole tomatoes                   | 50      | 03    |
+| ちらし寿司のたね                      | Sushi toppings                                                 | 20      | 03    |
+| パンに塗るゴマクリーム(黒ゴマ、白ゴマ)          | Sesame cream for bread (black sesame, white sesame)            | 20      | 03    |
+| 魚の一夜干しセット(9枚)                 | Dried fish set (9 pieces)                                      | 50      | 03    |
+| 栃木のトマト (2kg)                  | Tomatoes from Tochigi (2kg)                                    | 50      | 03    |
+| 鋼で作ったハム                       | Ham made of steel                                              | 50      | 03    |
+| 発汗促進剤                         | Sweat enhancer                                                 | 50      | 03    |
+| アニメヒーロー人形(ルパン三世)              | Anime hero doll (Lupin III)                                    | 5       | 03    |
+| アニメヒーロー人形(不動明TVバージョン)         | Anime hero doll (Fudo Akira TV version)                        | 5       | 03    |
+| ???一ロ一人射像、急敬太郎人セットで)          | ???One-man projection, one-man set)                            | 5       | 03    |
+| サッポロポテト(3種セット)一               | Sapporo potato (3-type set)                                    | 1       | 03    |
+| 飲茶セット                         | Dim sum set                                                    | 50      | 03    |
+| トーストセット                       | Toast set                                                      | 50      | 03    |
+| ピアス(18K)                      | Earrings (18K)                                                 | 50      | 03    |
+| ポラロイドカメラR刑事コロンボの台本            | Polaroid camera R Detective Columbo script                     | 1       | 03    |
+| ベルサーチのサイフ                     | Versace wallet                                                 | 5       | 03    |
+| 堂本光一、使用済のなべ・                  | Koichi Domoto, used pot                                        | 1       | 03    |
+| 大麦牛(ステーキ用850g)                | Barley beef (850g for steak)                                   | 50      | 03    |
+| ステーキ用フライパン                    | Steak frying pan                                               | 50      | 03    |
+| フォークとナイフセット                   | Fork and knife set                                             | 50      | 03    |
+| 辛子高菜                          | Mustard takana                                                 | 50      | 03    |
+| FAX                           | FAX                                                            | 50      | 03    |
+| ハンディーマッサージ「スーパーフィットくん」        | Handy massage "Super Fit-kun"                                  | 60      | 03    |
+| 浄水器                           | Water purifier                                                 | 50      | 03    |
+| 掃除機                           | Vacuum cleaner                                                 | 10      | 03    |
+| 毛動画(オレンジブラウン、アップルメイド、ハニーブラウン) | Hair video (orange brown, apple maid, honey brown)             | 51      | 03    |
+| 化粧品セット(UVカット製品他)              | Cosmetics set (UV cut products, etc.)                          | 50      | 03    |
+| ウィダーinゼリー(ポーチ付き)              | Weider in jelly (with pouch)                                   | 201     | 03    |
+| ポテトチップスセットー 52通               | Potato chips set - 52 letters                                  | 52      | 03    |
+| ストッキング(3点セット)・                | Stockings (3-piece set)                                        | 5       | 03    |
+| 栄養シリアル「イートシステム」               | Nutritional cereal "Eat System"                                | 50      | 03    |
+| 歯みがきセット                       | Toothbrush set                                                 | 50      | 03    |
+| 本「黄金ボキャブラ天国」                  | Book "Golden Vocabulary Heaven"                                | 1       | 03    |
+| ギョーザ (100個)                   | Gyoza (100 pieces)                                             | 50      | 03    |
+| MGのウォッチ                       | MG watch                                                       | 60      | 03    |
+| 玄米かゆセット                       | Brown rice porridge set                                        | 50      | 03    |
+| フルーツトマト                       | Fruit tomato                                                   | 50      | 03    |
+| 牛タン (塩とみそ漬け)                  | Beef tongue (salted and miso-pickled)                          | 50      | 03    |
+| 栃木のうど                         | Tochigi udo                                                    | 50      | 03    |
+| アンキモ                          | Ankimo                                                         | 50      | 03    |
+| 広末涼子のバッグ-                     | Hirosue Ryoko's bag                                            | 5       | 03    |
+| 日産「ウイングロード」                   | Nissan "Wingroad"                                              | 30      | 03    |
+| 「おれは男だ!」 目覚し時計                | "I'm a man!" Alarm clock                                       | 1       | 03    |
 
 | 日本語                       | English                                                                           | Entries | Month |
 |---------------------------|-----------------------------------------------------------------------------------|---------|-------|
