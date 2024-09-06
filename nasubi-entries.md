@@ -4,127 +4,126 @@
 
 | 日本語                              | English                                                                                         | Entries | Month |
 |----------------------------------|-------------------------------------------------------------------------------------------------|---------|-------|
-| エプロン                             | Apron                                                                                           | x       | 01-02 |
-| 寿がきやの力もちうどん                      | Sugakiya's Chikaramochi Udon                                                                    | x       | 01-02 |
-| キムチ                              | Kimchi                                                                                          | x       | 01-02 |
-| 乳酸飲料24本                          | Lactic acid drink 24 bottles                                                                    | x       | 01-02 |
-| ウッドペッカートレーナー                     | Woodpecker sweatshirt                                                                           | x       | 01-02 |
-| でん六マメスポーツ観戦セット                   | Denroku Mame Sports viewing set                                                                 | x       | 01-02 |
-| ディレクTVオリジナルTシャツ                  | DirectTV original T-shirt                                                                       | x       | 01-02 |
-| モデルさん使用済パンティ(まいちゃん)              | Model's used panties (Mai-chan)                                                                 | x       | 01-02 |
-| モデルさん使用済パンティ(あられちゃん)             | Model's used panties (Arare-chan)                                                               | x       | 01-02 |
-| 「きかんしゃトーマス」ブリーフ2枚                | "Thomas the Tank Engine" briefs 2 pairs                                                         | x       | 01-02 |
-| 「ゴー/ゴー/コニーちゃん」 パンティ              | "Go/Go/Connie-chan" panties                                                                     | x       | 01-02 |
-| 梅干ラーメン12食                        | Umeboshi ramen 12 servings                                                                      | x       | 01-02 |
-| ウェンディーズ、ロゴ入りバスタオル                | Wendy's logo bath towel                                                                         | x       | 01-02 |
-| タケダ健康茶24本                        | Takeda Healthy Tea 24 bottles                                                                   | x       | 01-02 |
-| 鮭の中骨スナッククラッカー                    | Salmon backbone snack crackers                                                                  | x       | 01-02 |
-| プライマルスクリーム日本公演 Tシャツ              | Primal Scream Japan performance T-shirt                                                         | x       | 01-02 |
-| テディベアトレーナー                       | Teddy bear sweatshirt                                                                           | x       | 01-02 |
-| エアレデュオ(デザート系ムース)                 | Aire Duo (dessert mousse)                                                                       | x       | 01-02 |
-| 缶                                | Can                                                                                             | x       | 01-02 |
-| 「元気一番・ヨーグルト味12                   | "Genki Ichiban Yogurt Flavor 12 bottles                                                         | x       | 01-02 |
-| パイオニアLD/CDプレーヤー                  | Pioneer LD/CD player                                                                            | x       | 01-02 |
-| 薬膳そば 「そばがいい」                     | Medicinal soba "Soba ga Ii"                                                                     | x       | 01-02 |
-| 飲むゼリー「ファイバーゼリー」                  | Drinkable jelly "Fiber Jelly"                                                                   | x       | 01-02 |
-| ブラザーFAX                          | Brother FAX                                                                                     | x       | 01-02 |
-| リーバイスGパン・                        | Levi's jeans                                                                                    | x       | 01-02 |
-| ドゥニームGパン                         | Denime jeans                                                                                    | x       | 01-02 |
-| 雑誌オリジナルTシャツ                      | Magazine original T-shirt                                                                       | x       | 01-02 |
-| 体温計・時計・山田まりやテレカ(のうちひとつ)          | Thermometer, watch, Yamada Mariya telephone card (one of the following)                         | x       | 01-02 |
-| 生さば 5匹                           | Fresh mackerel 5 fish                                                                           | x       | 01-02 |
-| 甘酒6缶                             | 6 cans of sweet sake                                                                            | x       | 01-02 |
-| スパゲティギフトセット                      | Spaghetti gift set                                                                              | x       | 01-02 |
-| ロッテのガム (12個) -                   | Lotte gum (12 pieces) -                                                                         | x       | 01-02 |
-| セーターまたは現金3万円~2千円                 | Sweater or cash 30,000-2,000 yen                                                                | x       | 01-02 |
-| 賞金総額10万円・                        | Total prize money 100,000 yen                                                                   | x       | 01-02 |
-| 青汁&野菜ジュース(6本)                    | Green juice & vegetable juice (6 bottles)                                                       | x       | 01-02 |
-| モーターボート連合会・産ジャンパー                | Motorboat Association - San jumper                                                              | x       | 01-02 |
-| モデルさん使用済パンティ(ひとみチャン)             | Model's used panties (Hitomi-chan)                                                              | x       | 01-02 |
-| モデルさん使用済パンティ(えみチャン)              | Model's used panties (Emi-chan)                                                                 | x       | 01-02 |
-| 23区のポーチまたは現金2万円~3千円              | 23 Wards pouch or cash 20,000-3,000 yen                                                         | x       | 01-02 |
-| 健康センター「ゆめの鳥」オリジナルタオル             | Health Center "Yume no Tori" original towel                                                     | x       | 01-02 |
-| 温州みかん酒(6缶)                       | Unshu mandarin liquor (6 cans)                                                                  | x       | 01-02 |
-| チョコレート                           | Chocolate                                                                                       | x       | 01-02 |
-| ホンダNSXまたは時計                      | Honda NSX or watch                                                                              | x       | 01-02 |
-| 高級石鹸セット                          | Luxury soap set                                                                                 | x       | 01-02 |
-| 明治野菜気分でヨーグルトー                    | Meiji vegetable-style yogurt                                                                    | x       | 01-02 |
-| 折りたたみ自転車                         | Folding bicycle                                                                                 | x       | 01-02 |
-| 東芝・炊飯ジャー・                        | Toshiba - Rice cooker                                                                           | x       | 01-02 |
-| 栃木コシヒカリ「穂の香」(5kg)                | Tochigi Koshihikari "Honoka" (5kg)                                                              | x       | 01-02 |
-| コシヒカリのアイス(12コ)                   | Koshihikari ice cream (12 pieces)                                                               | x       | 01-02 |
-| 青森産りんご (5kg)                     | Aomori apples (5kg)                                                                             | x       | 01-02 |
-| 栃木のいちご (4パック)                    | Tochigi strawberries (4 packs)                                                                  | x       | 01-02 |
-| 鳴戸のわかめ                           | Naruto wakame                                                                                   | x       | 01-02 |
-| ラーメン(12食)                        | Ramen (12 servings)                                                                             | x       | 01-02 |
-| うどん(12食)-                        | Udon (12 servings)-                                                                             | x       | 01-02 |
-| 象印の鍋                             | Zojirushi hot pot                                                                               | x       | 01-02 |
-| 生さば5匹                            | 5 fresh mackerel                                                                                | x       | 01-02 |
-| 日産バルサー                           | Nissan Pulsar                                                                                   | x       | 01-02 |
-| パワーマッキントッシュ                      | Power Macintosh                                                                                 | x       | 01-02 |
-| イタリア旅行(6泊8日)                     | Trip to Italy (6 nights, 8 days)                                                                | x       | 01-02 |
-| アメリカ旅行 (4泊6日)                    | Trip to the US (4 nights, 6 days)                                                               | x       | 01-02 |
-| 桐島屋旅館宿泊券(1名のみ)                   | Kirishimaya Ryokan accommodation voucher (1 person only)                                        | x       | 01-02 |
-| スナック風漬物こんじり (10袋)                | Snack-style pickled konjiri (10 bags)                                                           | x       | 01-02 |
-| 有明海苔(3袋)                         | Ariake nori (3 bags)                                                                            | x       | 01-02 |
-| シャンプーセット                         | Shampoo set                                                                                     | x       | 01-02 |
-| 日清ヌードル(12食)                      | Nissin noodles (12 servings)                                                                    | x       | 01-02 |
-| クッキー                             | Cookies                                                                                         | x       | 01-02 |
-| アーモンドー                           | Almond dough                                                                                    | x       | 01-02 |
-| ウニ風味のソース(2本)                     | Sea urchin-flavored sauce (2 bottles)                                                           | x       | 01-02 |
-| シューマイ                            | Shumai                                                                                          | x       | 01-02 |
-| タオル                              | Towels                                                                                          | x       | 01-02 |
-| 漬物詰め合わせ                          | Assorted pickles                                                                                | x       | 01-02 |
-| オレンジジュース(24本)                    | Orange juice (24 bottles)                                                                       | x       | 01-02 |
-| アンコウ鍋セット(3人前)                    | Monkfish hot pot set (3 servings)                                                               | x       | 01-02 |
-| きじ鍋セット(4~5人前)                    | Pheasant hot pot set (4-5 servings)                                                             | x       | 01-02 |
-| 岩手県土料理「生ひっつみ」(4~6人前)             | Iwate Prefecture local dish "Raw hittsumi" (4-6 servings)                                       | x       | 01-02 |
-| きりたんぽ (3人前)                      | Kiritanpo (3 servings)                                                                          | x       | 01-02 |
-| 南部鉄器・すき焼鍋                        | Nambu ironware sukiyaki pot                                                                     | x       | 01-02 |
-| 牛ロース肉ステーキ用850g)                  | Beef loin steak 850g)                                                                           | x       | 01-02 |
-| さば寿し(3本)                         | Mackerel sushi (3 pieces)                                                                       | x       | 01-02 |
-| あゆ寿し(6尾)                         | Ayu sushi (6 fish)                                                                              | x       | 01-02 |
-| てこね寿司(5~7人分)                     | Tekone sushi (5-7 servings)                                                                     | x       | 01-02 |
-| 柿の葉ずし(さば10個、鮭10個)                | Kaki no ha sushi (10 mackerel, 10 salmon)                                                       | x       | 01-02 |
-| 茶漬けセット(1.2g)                     | Ochazuke set (1.2g)                                                                             | x       | 01-02 |
-| 広島菜詰め合わせ (2.36kg)                | Hiroshima greens assortment (2.36kg)                                                            | x       | 01-02 |
-| 納豆                               | Natto                                                                                           | x       | 01-02 |
-| 信州味噌(500g)                       | Shinshu miso (500g)                                                                             | x       | 01-02 |
-| 信州そば                             | Shinshu soba                                                                                    | x       | 01-02 |
-| 「お菓子「かもめとビット」(8個)                | "Kamome and Bits" sweets (8 pieces)                                                             | x       | 01-02 |
-| 「お菓子「かまくらカスター」(12個)              | "Kamakura Custard sweets" (12 pieces)                                                           | x       | 01-02 |
-| きつねうどん (12食)                     | Kitsune udon (12 servings)                                                                      | x       | 01-02 |
-| かき揚げ天うどん(12食)                    | Kakiage tempura udon (12 servings)                                                              | x       | 01-02 |
-| 健康飲料 「バランスジョイ」                   | Healthy drink "Balance Joy"                                                                     | x       | 01-02 |
-| 石鹸(1個)                           | Soap (1 piece)                                                                                  | x       | 01-02 |
-| ハンドクリームセット                       | Hand cream set                                                                                  | x       | 01-02 |
-| 防火造(入選30万円、佳作2万円)                | Hakkenzo (selected 300,000 yen, honorable mention 20,000 yen)                                   | x       | 01-02 |
-| ナイスシングルライブ                       | Nice single live                                                                                | x       | 01-02 |
-| あむしまマリンパーク・アシカの名[訪万円分側)          | Amushima Marine Park - Name of the Sea Lion [10,000 yen visit side]                             | x       | 01-02 |
-| 缶切り                              | Can opener                                                                                      | x       | 01-02 |
-| イラストクイズ(賞金10万円、賞品多数)             | Illustration quiz (100,000 yen prize, many prizes)                                              | x       | 01-02 |
-| たまご酒(3本)                         | Egg sake (3 bottles)                                                                            | x       | 01-02 |
-| ワインサワー(赤3本、白3本)                  | Wine sour (3 red, 3 white)                                                                      | x       | 01-02 |
-| グミ(グレープフルーツ味 10袋)                | Gummy candy (10 bags of grapefruit flavor)                                                      | x       | 01-02 |
-| おかめのお豆セッ                         | Okame bean set                                                                                  | x       | 01-02 |
-| ぬいぐるみとTシャツ                       | Plush toy and T-shirt                                                                           | x       | 01-02 |
-| 帽子とTシャツ                          | Hat and T-shirt                                                                                 | x       | 01-02 |
-| 馬場俊英のタオル                         | Baba Toshihide towel                                                                            | x       | 01-02 |
-| 米沢牛スキヤキ肉 (500g)                  | Yonezawa beef sukiyaki meat (500g)                                                              | x       | 01-02 |
-| めんたい味ドレッシング(1本)                  | Mentaiko flavored dressing (1 bottle)                                                           | x       | 01-02 |
-| カップうどん 「ぐっどん」(12食)               | Cup udon "Goodon" (12 meals)                                                                    | x       | 01-02 |
-| エドウィンロゴ入りTシャツ                    | T-shirt with Edwin logo                                                                         | x       | 01-02 |
-| 生あわび生さざえ (各500g)                 | Raw abalone and raw turban shell (500g each)                                                    | x       | 01-02 |
-| スモークサーモン (200g)                  | Smoked salmon (200g)                                                                            | x       | 01-02 |
-| トヨタプリウス(他賞金もあり)                  | Toyota Prius (other prizes also available)                                                      | x       | 01-02 |
-| ささみの燻製                           | Smoked chicken breast                                                                           | x       | 01-02 |
-| 和菓子                              | Japanese sweets                                                                                 | x       | 01-02 |
-| 赤ワインキャンディ                        | Red wine candy                                                                                  | x       | 01-02 |
-| アニメヒーロー人形(コンドルのジョー)              | Anime hero doll (Condor Joe)                                                                    | x       | 01-02 |
-| アニメヒーロー人形(大薫の麓)                  | Anime hero doll (Okuno no Fumoto)                                                               | x       | 01-02 |
-| アニメヒーロー人形(力石徹)                   | Anime hero doll (Chikaraishi Toru)                                                              | x       | 01-02 |
-| モデルさん使用済パンティ (由美子チャン)            | Model's used panties (Yumiko-chan)                                                              | x       | 01-02 |
-| 日本女子体育大学Tシャツ                     | Japan Women's College of Physical Education T-shirt                                             | x       | 01-02 |
+| エプロン                             | Apron                                                                                           | 12      | 01-02 |
+| 寿がきやの力もちうどん                      | Sugakiya's Chikaramochi Udon                                                                    | 11      | 01-02 |
+| キムチ                              | Kimchi                                                                                          | 1       | 01-02 |
+| 乳酸飲料24本                          | Lactic acid drink 24 bottles                                                                    | 12      | 01-02 |
+| ウッドペッカートレーナー                     | Woodpecker sweatshirt                                                                           | 30      | 01-02 |
+| でん六マメスポーツ観戦セット                   | Denroku Mame Sports viewing set                                                                 | 30      | 01-02 |
+| ディレクTVオリジナルTシャツ                  | DirectTV original T-shirt                                                                       | 1       | 01-02 |
+| モデルさん使用済パンティ(まいちゃん)              | Model's used panties (Mai-chan)                                                                 | 1       | 01-02 |
+| モデルさん使用済パンティ(あられちゃん)             | Model's used panties (Arare-chan)                                                               | 1       | 01-02 |
+| 「きかんしゃトーマス」ブリーフ2枚                | "Thomas the Tank Engine" briefs 2 pairs                                                         | 12      | 01-02 |
+| 「ゴー/ゴー/コニーちゃん」 パンティ              | "Go/Go/Connie-chan" panties                                                                     | 12      | 01-02 |
+| 梅干ラーメン12食                        | Umeboshi ramen 12 servings                                                                      | 13      | 01-02 |
+| ウェンディーズ、ロゴ入りバスタオル                | Wendy's logo bath towel                                                                         | 30      | 01-02 |
+| タケダ健康茶24本                        | Takeda Healthy Tea 24 bottles                                                                   | 50      | 01-02 |
+| 鮭の中骨スナッククラッカー                    | Salmon backbone snack crackers                                                                  | 50      | 01-02 |
+| プライマルスクリーム日本公演 Tシャツ              | Primal Scream Japan performance T-shirt                                                         | 200     | 01-02 |
+| テディベアトレーナー                       | Teddy bear sweatshirt                                                                           | 50      | 01-02 |
+| エアレデュオ(デザート系ムース)                 | Aire Duo (dessert mousse)                                                                       | 70      | 01-02 |
+| 元気一番・ヨーグルト味12                    | Genki Ichiban Yogurt Flavor 12 bottles                                                         | 50      | 01-02 |
+| パイオニアLD/CDプレーヤー                  | Pioneer LD/CD player                                                                            | 50      | 01-02 |
+| 薬膳そば 「そばがいい」                     | Medicinal soba "Soba ga Ii"                                                                     | 100     | 01-02 |
+| 飲むゼリー「ファイバーゼリー」                  | Drinkable jelly "Fiber Jelly"                                                                   | 30      | 01-02 |
+| ブラザーFAX                          | Brother FAX                                                                                     | 50      | 01-02 |
+| リーバイスGパン・                        | Levi's jeans                                                                                    | 150     | 01-02 |
+| ドゥニームGパン                         | Denime jeans                                                                                    | 100     | 01-02 |
+| 雑誌オリジナルTシャツ                      | Magazine original T-shirt                                                                       | 100     | 01-02 |
+| 体温計・時計・山田まりやテレカ(のうちひとつ)          | Thermometer, watch, Yamada Mariya telephone card (one of the following)                         | 2       | 01-02 |
+| 生さば 5匹                           | Fresh mackerel 5 fish                                                                           | 20      | 01-02 |
+| 甘酒6缶                             | 6 cans of sweet sake                                                                            | 1       | 01-02 |
+| スパゲティギフトセット                      | Spaghetti gift set                                                                              | 1       | 01-02 |
+| ロッテのガム (12個) -                   | Lotte gum (12 pieces) -                                                                         | 1       | 01-02 |
+| セーターまたは現金3万円~2千円                 | Sweater or cash 30,000-2,000 yen                                                                | 20      | 01-02 |
+| 賞金総額10万円・                        | Total prize money 100,000 yen                                                                   | 10      | 01-02 |
+| 青汁&野菜ジュース(6本)                    | Green juice & vegetable juice (6 bottles)                                                       | 10      | 01-02 |
+| モーターボート連合会・産ジャンパー                | Motorboat Association - San jumper                                                              | 50      | 01-02 |
+| モデルさん使用済パンティ(ひとみチャン)             | Model's used panties (Hitomi-chan)                                                              | 1       | 01-02 |
+| モデルさん使用済パンティ(えみチャン)              | Model's used panties (Emi-chan)                                                                 | 1       | 01-02 |
+| 23区のポーチまたは現金2万円~3千円              | 23 Wards pouch or cash 20,000-3,000 yen                                                         | 30      | 01-02 |
+| 健康センター「ゆめの鳥」オリジナルタオル             | Health Center "Yume no Tori" original towel                                                     | 50      | 01-02 |
+| 温州みかん酒(6缶)                       | Unshu mandarin liquor (6 cans)                                                                  | 162     | 01-02 |
+| チョコレート                           | Chocolate                                                                                       | 220     | 01-02 |
+| ホンダNSXまたは時計                      | Honda NSX or watch                                                                              | 50      | 01-02 |
+| 高級石鹸セット                          | Luxury soap set                                                                                 | 100     | 01-02 |
+| 明治野菜気分でヨーグルトー                    | Meiji vegetable-style yogurt                                                                    | 50      | 01-02 |
+| 折りたたみ自転車                         | Folding bicycle                                                                                 | 50      | 01-02 |
+| 東芝・炊飯ジャー・                        | Toshiba - Rice cooker                                                                           | 50      | 01-02 |
+| 栃木コシヒカリ「穂の香」(5kg)                | Tochigi Koshihikari "Honoka" (5kg)                                                              | 110     | 01-02 |
+| コシヒカリのアイス(12コ)                   | Koshihikari ice cream (12 pieces)                                                               | 50      | 01-02 |
+| 青森産りんご (5kg)                     | Aomori apples (5kg)                                                                             | 50      | 01-02 |
+| 栃木のいちご (4パック)                    | Tochigi strawberries (4 packs)                                                                  | 150     | 01-02 |
+| 鳴戸のわかめ                           | Naruto wakame                                                                                   | 50      | 01-02 |
+| ラーメン(12食)                        | Ramen (12 servings)                                                                             | 50      | 01-02 |
+| うどん(12食)-                        | Udon (12 servings)-                                                                             | 100     | 01-02 |
+| 象印の鍋                             | Zojirushi hot pot                                                                               | 50      | 01-02 |
+| 生さば5匹                            | 5 fresh mackerel                                                                                | 20      | 01-02 |
+| 日産バルサー                           | Nissan Pulsar                                                                                   | 50      | 01-02 |
+| パワーマッキントッシュ                      | Power Macintosh                                                                                 | 2       | 01-02 |
+| イタリア旅行(6泊8日)                     | Trip to Italy (6 nights, 8 days)                                                                | 2       | 01-02 |
+| アメリカ旅行 (4泊6日)                    | Trip to the US (4 nights, 6 days)                                                               | 2       | 01-02 |
+| 桐島屋旅館宿泊券(1名のみ)                   | Kirishimaya Ryokan accommodation voucher (1 person only)                                        | 30      | 01-02 |
+| スナック風漬物こんじり (10袋)                | Snack-style pickled konjiri (10 bags)                                                           | 100     | 01-02 |
+| 有明海苔(3袋)                         | Ariake nori (3 bags)                                                                            | 2       | 01-02 |
+| シャンプーセット                         | Shampoo set                                                                                     | 2       | 01-02 |
+| 日清ヌードル(12食)                      | Nissin noodles (12 servings)                                                                    | 110     | 01-02 |
+| クッキー                             | Cookies                                                                                         | 110     | 01-02 |
+| アーモンドー                           | Almond dough                                                                                    | 50      | 01-02 |
+| ウニ風味のソース(2本)                     | Sea urchin-flavored sauce (2 bottles)                                                           | 50      | 01-02 |
+| シューマイ                            | Shumai                                                                                          | 50      | 01-02 |
+| タオル                              | Towels                                                                                          | 100     | 01-02 |
+| 漬物詰め合わせ                          | Assorted pickles                                                                                | 440     | 01-02 |
+| オレンジジュース(24本)                    | Orange juice (24 bottles)                                                                       | 50      | 01-02 |
+| アンコウ鍋セット(3人前)                    | Monkfish hot pot set (3 servings)                                                               | 50      | 01-02 |
+| きじ鍋セット(4~5人前)                    | Pheasant hot pot set (4-5 servings)                                                             | 50      | 01-02 |
+| 岩手県土料理「生ひっつみ」(4~6人前)             | Iwate Prefecture local dish "Raw hittsumi" (4-6 servings)                                       | 50      | 01-02 |
+| きりたんぽ (3人前)                      | Kiritanpo (3 servings)                                                                          | 50      | 01-02 |
+| 南部鉄器・すき焼鍋                        | Nambu ironware sukiyaki pot                                                                     | 50      | 01-02 |
+| 牛ロース肉ステーキ用850g)                  | Beef loin steak 850g)                                                                           | 50      | 01-02 |
+| さば寿し(3本)                         | Mackerel sushi (3 pieces)                                                                       | 60      | 01-02 |
+| あゆ寿し(6尾)                         | Ayu sushi (6 fish)                                                                              | 30      | 01-02 |
+| てこね寿司(5~7人分)                     | Tekone sushi (5-7 servings)                                                                     | 30      | 01-02 |
+| 柿の葉ずし(さば10個、鮭10個)                | Kaki no ha sushi (10 mackerel, 10 salmon)                                                       | 30      | 01-02 |
+| 茶漬けセット(1.2g)                     | Ochazuke set (1.2g)                                                                             | 30      | 01-02 |
+| 広島菜詰め合わせ (2.36kg)                | Hiroshima greens assortment (2.36kg)                                                            | 30      | 01-02 |
+| 納豆                               | Natto                                                                                           | 50      | 01-02 |
+| 信州味噌(500g)                       | Shinshu miso (500g)                                                                             | 30      | 01-02 |
+| 信州そば                             | Shinshu soba                                                                                    | 30      | 01-02 |
+| 「お菓子「かもめとビット」(8個)                | "Kamome and Bits" sweets (8 pieces)                                                             | 50      | 01-02 |
+| 「お菓子「かまくらカスター」(12個)              | "Kamakura Custard sweets" (12 pieces)                                                           | 50      | 01-02 |
+| きつねうどん (12食)                     | Kitsune udon (12 servings)                                                                      | 50      | 01-02 |
+| かき揚げ天うどん(12食)                    | Kakiage tempura udon (12 servings)                                                              | 50      | 01-02 |
+| 健康飲料 「バランスジョイ」                   | Healthy drink "Balance Joy"                                                                     | 50      | 01-02 |
+| 石鹸(1個)                           | Soap (1 piece)                                                                                  | 50      | 01-02 |
+| ハンドクリームセット                       | Hand cream set                                                                                  | 50      | 01-02 |
+| 防火造(入選30万円、佳作2万円)                | Hakkenzo (selected 300,000 yen, honorable mention 20,000 yen)                                   | 3       | 01-02 |
+| ナイスシングルライブ                       | Nice single live                                                                                | 1       | 01-02 |
+| あむしまマリンパーク・アシカの名[訪万円分側)          | Amushima Marine Park - Name of the Sea Lion [10,000 yen visit side]                             | 50      | 01-02 |
+| 缶切り                              | Can opener                                                                                      | 50      | 01-02 |
+| イラストクイズ(賞金10万円、賞品多数)             | Illustration quiz (100,000 yen prize, many prizes)                                              | 60      | 01-02 |
+| たまご酒(3本)                         | Egg sake (3 bottles)                                                                            | 50      | 01-02 |
+| ワインサワー(赤3本、白3本)                  | Wine sour (3 red, 3 white)                                                                      | 100     | 01-02 |
+| グミ(グレープフルーツ味 10袋)                | Gummy candy (10 bags of grapefruit flavor)                                                      | 50      | 01-02 |
+| おかめのお豆セッ                         | Okame bean set                                                                                  | 50      | 01-02 |
+| ぬいぐるみとTシャツ                       | Plush toy and T-shirt                                                                           | 50      | 01-02 |
+| 帽子とTシャツ                          | Hat and T-shirt                                                                                 | 50      | 01-02 |
+| 馬場俊英のタオル                         | Baba Toshihide towel                                                                            | 1       | 01-02 |
+| 米沢牛スキヤキ肉 (500g)                  | Yonezawa beef sukiyaki meat (500g)                                                              | 1       | 01-02 |
+| めんたい味ドレッシング(1本)                  | Mentaiko flavored dressing (1 bottle)                                                           | 50      | 01-02 |
+| カップうどん 「ぐっどん」(12食)               | Cup udon "Goodon" (12 meals)                                                                    | 50      | 01-02 |
+| エドウィンロゴ入りTシャツ                    | T-shirt with Edwin logo                                                                         | 1       | 01-02 |
+| 生あわび生さざえ (各500g)                 | Raw abalone and raw turban shell (500g each)                                                    | 50      | 01-02 |
+| スモークサーモン (200g)                  | Smoked salmon (200g)                                                                            | 50      | 01-02 |
+| トヨタプリウス(他賞金もあり)                  | Toyota Prius (other prizes also available)                                                      | 20      | 01-02 |
+| ささみの燻製                           | Smoked chicken breast                                                                           | 50      | 01-02 |
+| 和菓子                              | Japanese sweets                                                                                 | 100     | 01-02 |
+| 赤ワインキャンディ                        | Red wine candy                                                                                  | 50      | 01-02 |
+| アニメヒーロー人形(コンドルのジョー)              | Anime hero doll (Condor Joe)                                                                    | 5       | 01-02 |
+| アニメヒーロー人形(大薫の麓)                  | Anime hero doll (Okuno no Fumoto)                                                               | 5       | 01-02 |
+| アニメヒーロー人形(力石徹)                   | Anime hero doll (Chikaraishi Toru)                                                              | 5       | 01-02 |
+| モデルさん使用済パンティ (由美子チャン)            | Model's used panties (Yumiko-chan)                                                              | 1       | 01-02 |
+| 日本女子体育大学Tシャツ                     | Japan Women's College of Physical Education T-shirt                                             | 50      | 01-02 |
 | 電車でGO                            | Densha de Go                                                                                    | x       | 03    |
 | サバイバルナイフ                         | Survival knife                                                                                  | x       | 03    |
 | バドワイザー (24)                      | Budweiser (24)                                                                                  | x       | 03    |
