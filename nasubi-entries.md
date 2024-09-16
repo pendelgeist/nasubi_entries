@@ -883,7 +883,7 @@
 | パスタ&ソース&チーズ他                | Pasta, sauce, cheese, etc.                                  | 35      | 06      |
 | SPEED主演映画「アントロメティア」 招待券     | Tickets for the movie "Anthrometia" starring SPEED          | 1       | 06      |
 | 広末涼子サイン&イラスト入りサンタル          | Santal with Hirosue Ryoko's autograph and illustration      | 2       | 06      |
-| 広末涼子テレカ                     | Hirosue Ryoko phone card                                    | 3       | 06    1 
+| 広末涼子テレカ                     | Hirosue Ryoko phone card                                    | 3       | 06    1 |
 | 広末涼子ホワイトボードー                | Hirosue Ryoko whiteboard                                    | 10      | 06      | 
 
 | 日本語                    | English                                         | Entries | Month |
