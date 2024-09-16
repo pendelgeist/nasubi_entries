@@ -659,232 +659,232 @@
 | 広末涼子テレカ                        | Hirosue Ryoko phone card                                          | 2       | 05    |
 | 広末涼子ポスター                       | Hirosue Ryoko poster                                              | 8       | 05    |
 
-| 日本語                         | English                                                     | Entries | Month |
-|-----------------------------|-------------------------------------------------------------|---------|-------|
-| 高級バッグ                       | Luxury bags                                                 | x       | 06    |
-| 腕時計 セイコー & シチズン & カシオ)      | Watches (Seiko & Citizen & Casio)                           | x       | 06    |
-| フェンディのポーチ                   | Fendi pouch                                                 | x       | 06    |
-| パールペンダント                    | Pearl pendant                                               | x       | 06    |
-| スケートボード                     | Skateboard                                                  | x       | 06    |
-| リュックサック                     | Backpack                                                    | x       | 06    |
-| セガサターン                      | Sega Saturn                                                 | x       | 06    |
-| 栃木ゴシヒカリ「穂の香」(5kg)           | Tochigi Goshihikari "Honoka" (5kg)                          | x       | 06    |
-| ノートパソコン                     | Notebook computer                                           | x       | 06    |
-| デジタルカメラ&プリンター               | Digital camera & printer                                    | x       | 06    |
-| DVDプレイヤー                    | DVD player                                                  | x       | 06    |
-| FAX                         | Fax                                                         | x       | 06    |
-| カーナビゲーション                   | Car navigation system                                       | x       | 06    |
-| MDコンポー                      | MD component                                                | x       | 06    |
-| CDプレイヤー                     | CD player                                                   | x       | 06    |
-| ビデオカメラ                      | Video camera                                                | x       | 06    |
-| ワイドテレビ                      | Wide-screen TV                                              | x       | 06    |
-| クッキー                        | Cookies                                                     | x       | 06    |
-| カステラ                        | Castella                                                    | x       | 06    |
-| 滝沢秀明使用済みキャップ                | Used cap by Hideaki Takizawa                                | x       | 06    |
-| ともさかりえ CD                   | Tomosaka Rie CD                                             | x       | 06    |
-| 商品券 (100万円分&1万円分)           | Gift certificate (1 million yen worth & 10,000 yen worth)   | x       | 06    |
-| あんみつセット                     | Anmitsu set                                                 | x       | 06    |
-| ナショナル電化製品50万円分              | National electrical appliances worth 500,000 yen            | x       | 06    |
-| 旅行券(100万円分&20万円分)           | Travel vouchers (1 million yen worth & 200,000 yen worth)   | x       | 06    |
-| マッサージ機                      | Massage machine                                             | x       | 06    |
-| 瘦身美容器                       | Body-slimming beauty device                                 | x       | 06    |
-| 電気自動車                       | Electric car                                                | x       | 06    |
-| 空気清浄器                       | Air purifier                                                | x       | 06    |
-| ハワイカタログショッピング               | Hawaii catalog shopping                                     | x       | 06    |
-| ボルボVORパールネックレスORTのテレカ       | Volvo VOR pearl necklace ORT telephone card                 | x       | 06    |
-| デンマーク旅行                     | Denmark trip                                                | x       | 06    |
-| アメリカ旅行                      | USA trip                                                    | x       | 06    |
-| ハワイ旅行                       | Hawaii trip                                                 | x       | 06    |
-| ソウル旅行                       | Seoul trip                                                  | x       | 06    |
-| サングラス                       | Sunglasses                                                  | x       | 06    |
-| スイカー                        | Sweetener                                                   | x       | 06    |
-| ティッシュペーパー                   | Tissue paper                                                | x       | 06    |
-| アイスクリーム                     | Ice cream                                                   | x       | 06    |
-| チョコレート                      | Chocolate                                                   | x       | 06    |
-| GLAYポスター                    | GLAY poster                                                 | x       | 06    |
-| ジープ「チェロキー」                  | Jeep "Cherokee"                                             | x       | 06    |
-| ヒデオ「深夜特急」完全版3巻セット           | Hideo "Midnight Express" complete edition 3-volume set      | x       | 06    |
-| 体重計                         | Weight scale                                                | x       | 06    |
-| 指輪(バール&ダイヤモンド他)             | Ring (crowbar & diamond etc.)                               | x       | 06    |
-| 現金1万円                       | 10,000 yen in cash                                          | x       | 06    |
-| 天ぷら                         | Tempura                                                     | x       | 06    |
-| 天ぷら鍋セット110通                 | Tempura pot set 110 copies                                  | x       | 06    |
-| 黒田美礼ビデオORゲームソフト             | Mirei Kuroda video or game software                         | x       | 06    |
-| カップ焼きそば                     | Cup yakisoba                                                | x       | 06    |
-| スピーカー                       | Speakers                                                    | x       | 06    |
-| 図書券 (5,000円分)               | Book vouchers (5,000 yen worth)                             | x       | 06    |
-| 室内用プラネタリウム                  | Indoor planetarium                                          | x       | 06    |
-| 水ようかん                       | Mizu yokan                                                  | x       | 06    |
-| 大月みやこコマ劇場招待券                | Otsuki Miyako Koma Theater invitation ticket                | x       | 06    |
-| パソコン GATEWAY OR Power Mac   | PC GATEWAY OR Power Mac                                     | x       | 06    |
-| 手作りソーセージキット                 | Homemade sausage kit                                        | x       | 06    |
-| カップラーメン                     | Cup ramen                                                   | x       | 06    |
-| 野菜ジュース                      | Vegetable juice                                             | x       | 06    |
-| サラダドレッシング                   | Salad dressing                                              | x       | 06    |
-| キムチスープー                     | Kimchi soup                                                 | x       | 06    |
-| スチームアイロン                    | Steam iron                                                  | x       | 06    |
-| フライパン(直径24cm)               | Frying pan (diameter 24cm)                                  | x       | 06    |
-| さくらんぼ                       | Cherries                                                    | x       | 06    |
-| MAX・コンサートパンフレット             | MAX concert pamphlet                                        | x       | 06    |
-| 日本ダービーポスターー                 | Japan Derby poster                                          | x       | 06    |
-| NINTENDO64 OR THREA ???     | Nintendo 64 or Threa???                                     | x       | 06    |
-| 三波春夫コンサート招待券                | Haruo Minami concert invitation ticket                      | x       | 06    |
-| 「日産「テラノ」                    | Nissan Terrano                                              | x       | 06    |
-| 広末涼子ポスタ                     | Ryoko Hirosue poster                                        | x       | 06    |
-| スクーター「スズキ・ヴェルテ」             | Scooter Suzuki Verte                                        | x       | 06    |
-| CDラジカセ他                     | CD radio cassette player etc.                               | x       | 06    |
-| コンパクトカメラー                   | Compact camera                                              | x       | 06    |
-| ベイキャニオンズのテレカ                | Bay Canyons telephone card                                  | x       | 06    |
-| プレイステーション                   | PlayStation                                                 | x       | 06    |
-| カチューシャ                      | Headband                                                    | x       | 06    |
-| PHS                         | PHS                                                         | x       | 06    |
-| ゲームソフト「スーパーロボット大戦F」他        | Game software Super Robot Wars F etc.                       | x       | 06    |
-| 男性用化粧品セット                   | Men's cosmetics set                                         | x       | 06    |
-| ヘッドホン                       | Headphones                                                  | x       | 06    |
-| ハウンドドッグの肩たたき                | Hound Dog shoulder massage                                  | x       | 06    |
-| フィギュア「初代ゴジラ」                | Figure "First Godzilla"                                     | x       | 06    |
-| ビデオ「ピンクパンサー」3巻セット           | Video "Pink Panther" 3-volume set                           | x       | 06    |
-| 電光掲示ダーツDA麻雀牌                | Electronic display darts DA mahjong tiles                   | x       | 06    |
-| 山形米 「はえぬき」 (5kg)            | Yamagata rice "Haenuki" (5kg)                               | x       | 06    |
-| 「タカラ「人生ゲームEX」               | "Takara "Game of Life EX"                                   | x       | 06    |
-| エレキギター                      | Electric guitar                                             | x       | 06    |
-| インターネット接続機                  | Internet connection device                                  | x       | 06    |
-| サイパン旅行                      | Saipan trip                                                 | x       | 06    |
-| ふりかけ                        | Furikake                                                    | x       | 06    |
-| ざるうどん、ひやむぎ、そうめんセット          | Zaru udon, hiyamugi, somen set                              | x       | 06    |
-| ビーフン                        | Rice vermicelli                                             | x       | 06    |
-| 中山美穂ノベルティー「クローハー鉢植え｣        | Nakayama Miho novelty "Crowher potted plant"                | x       | 06    |
-| ハーブ栽培セット                    | Herb cultivation set                                        | x       | 06    |
-| ポラロイドカメラ&フィルム               | Polaroid camera & film                                      | x       | 06    |
-| 竹垣根                         | Bamboo fence roots                                          | x       | 06    |
-| ドッグフード(ドライ)                 | Dog food (dry)                                              | x       | 06    |
-| キャットフード(ドライ)                | Cat food (dry)                                              | x       | 06    |
-| ブルーベリー                      | Blueberries                                                 | x       | 06    |
-| ダイエット食品                     | Diet food                                                   | x       | 06    |
-| 淨水器                         | Water purification device                                   | x       | 06    |
-| うどん詰め合わせ                    | Udon assortment                                             | x       | 06    |
-| ビデオ「アントニオ猪木 引退試合1・2」        | Video "Antonio Inoki "Retirement Match 1 & 2"               | x       | 06    |
-| 写真集「アントニオ猪木」                | Photobook "Antonio Inoki"                                   | x       | 06    |
-| スチームアイロン                    | Steam iron                                                  | x       | 06    |
-| 育毛剤                         | Hair growth agent                                           | x       | 06    |
-| 体脂肪計                        | Body fat scale                                              | x       | 06    |
-| 「香水「ヒューゴ」                   | Perfume "Hugo"                                              | x       | 06    |
-| フルーツゼリー詰め合わせ                | Assorted fruit jellies                                      | x       | 06    |
-| メロン(2玉)                     | Melon (2 pieces)                                            | x       | 06    |
-| グッチのバッグ                     | Gucci bag                                                   | x       | 06    |
-| ドコモ「モバイル・ギア」                | Docomo "Mobile Gear"                                        | x       | 06    |
-| ミニカーセット                     | Mini car set                                                | x       | 06    |
-| バレンチノの傘                     | Valentino umbrella                                          | x       | 06    |
-| アクセサリー(シルハーOAプラチナ)          | Accessories (Silhar OA Platinum)                            | x       | 06    |
-| ビデオデッキRテレカ                  | Video deck R telephone card                                 | x       | 06    |
-| だしつゆセット-                    | Dashi soup set -                                            | x       | 06    |
-| ミッキーマウスの爪切り                 | Mickey Mouse nail clippers                                  | x       | 06    |
-| シューズラック                     | Shoe rack                                                   | x       | 06    |
-| ナイキのバッグ                     | Nike bag                                                    | x       | 06    |
-| シャープ「パワーザウルス」               | Sharp "Powersaurus"                                         | x       | 06    |
-| MDプレイヤー                     | MD player                                                   | x       | 06    |
-| ゴルフクラブ&キャディバッグ              | Golf clubs & caddy bag                                      | x       | 06    |
-| 自転車                         | Bicycle                                                     | x       | 06    |
-| ゴルフボール(1ダース)                | Golf balls (1 dozen)                                        | x       | 06    |
-| 「ホテル「マイユクール」(1,000円分)       | Hotel "Maille Coeur" (1,000 yen)                            | x       | 06    |
-| アロマキャンドル                    | Aromatherapy candle                                         | x       | 06    |
-| レストラン「カプリチョーザ」 食事券(4名分)     | Restaurant "Capricciosa" meal ticket (4 people)             | x       | 06    |
-| 携帯ゲーム｢てくてくエンジェル」            | Mobile game "Tekuteku Angel"                                | x       | 06    |
-| レストラン「ロックンロールダイナー」 食事券      | Restaurant "Rock 'n' Roll Diner" Meal ticket                | x       | 06    |
-| キティちゃんのシール                  | Hello Kitty sticker                                         | x       | 06    |
-| ポテトスナックー                    | Potato snack                                                | x       | 06    |
-| カヌー                         | Canoe                                                       | x       | 06    |
-| グアム旅行(4日間)                  | Trip to Guam (4 days)                                       | x       | 06    |
-| MDプレイヤー                     | MD player                                                   | x       | 06    |
-| ゲームソフト「億万長者への道」             | Game software "The Road to Millionaire"                     | x       | 06    |
-| 香水「サムライ」                    | Perfume "Samurai"                                           | x       | 06    |
-| スニーカー                       | Sneakers                                                    | x       | 06    |
-| MD                          | MD                                                          | x       | 06    |
-| スウェードの靴                     | Suede shoes                                                 | x       | 06    |
-| 双眼鏡                         | Binoculars                                                  | x       | 06    |
-| 十徳ナイフ                       | Seven-in-one knife                                          | x       | 06    |
-| ラルク・アン・シエルの計算機              | L'Arc-en-Ciel calculator                                    | x       | 06    |
-| コードレス電話機                    | Cordless phone                                              | x       | 06    |
-| 香水「サニー・フルッティ」               | Perfume "Sunny Frutti"                                      | x       | 06    |
-| アメリカ旅行 5泊7日 OA CDプレイヤー      | Trip to America 5 nights 7 days OA CD player                | x       | 06    |
-| プラチナ・ネックレスー                 | Platinum necklace                                           | x       | 06    |
-| 矢部美穂ビデオORゲームソフト             | Miho Yabe video OR Game software                            | x       | 06    |
-| ゲームソフト「ザ・キング・オブ・ファイターズ '97」 | Game software "The King of Fighters '97"                    | x       | 06    |
-| サッカーボールOR日本代表応ハッピ 子         | Soccer ball OR Japan national team happi coat               | x       | 06    |
-| ルアープ セットDA OR CDプレーヤー       | Lurep set DA OR CD player                                   | x       | 06    |
-| 水ようかん詰め合わせ                  | Mizu-yokan assortment                                       | x       | 06    |
-| 栄養食品                        | Nutritional foods                                           | x       | 06    |
-| 女性用水着                       | Women's swimsuit                                            | x       | 06    |
-| ざるうどん、ひやむぎ、そうめん             | Zaru udon, hiyamugi, somen                                  | x       | 06    |
-| 電動シェーバー                     | Electric shaver                                             | x       | 06    |
-| ゴルフ用日傘                      | Golf parasol                                                | x       | 06    |
-| 本「ルアーフィッシング入門」              | Book "Introduction to lure fishing"                         | x       | 06    |
-| 携帯電話ハンズフリーキット               | Cell phone hands-free kit                                   | x       | 06    |
-| とうもろこし(5kg)                 | Corn (5kg)                                                  | x       | 06    |
-| ぶどう「デラウェア (2kg)             | Grapes "Delaware" (2kg)                                     | x       | 06    |
-| ドッグフード(ドライ&生タイプ)            | Dog food (dry & fresh)                                      | x       | 06    |
-| コーヒー詰め合わせ&カップマフィンセット        | Coffee assortment & cup muffin set                          | x       | 06    |
-| 光岡自動車「ビュート」                 | Mitsuoka Motors "Viewt"                                     | x       | 06    |
-| 沖縄往復航空券                     | Round-trip air ticket to Okinawa                            | x       | 06    |
-| テレビデオ (21型)                 | TV (21-inch)                                                | x       | 06    |
-| 電子ジャー                       | Electric rice cooker                                        | x       | 06    |
-| 掃除機                         | Vacuum cleaner                                              | x       | 06    |
-| 洗濯機                         | Washing machine                                             | x       | 06    |
-| 電子レンジ                       | Microwave                                                   | x       | 06    |
-| 冷藏庫                         | Refrigerator                                                | x       | 06    |
-| パスタ パスタソース&オリーフオイル          | Pasta with pasta sauce & olive oil                          | x       | 06    |
-| バナナシェイクソフトー                 | Banana shake soft serve                                     | x       | 06    |
-| 裁縫セット                       | Sewing set                                                  | x       | 06    |
-| 梅酒                          | Plum wine                                                   | x       | 06    |
-| 納豆                          | Natto                                                       | x       | 06    |
-| ヨーグルト飲料                     | Yogurt drink                                                | x       | 06    |
-| フランスW杯トレーティングカード            | France World Cup trading card                               | x       | 06    |
-| 布袋寅泰テレカ                     | Tomoyasu Hotei phone card                                   | x       | 06    |
-| パソコン「VAIO」                  | Computer "VAIO"                                             | x       | 06    |
-| ドコモ 「ポケットボード」               | Docomo "Pocket Board"                                       | x       | 06    |
-| 広末涼子の折りたたみ傘OR サイン入りボラ       | Hirosue Ryoko's folding umbrella OR signed mullet           | x       | 06    |
-| バリ旅行 OR 商品券5万円 他            | Bali trip OR 50,000 yen gift certificate Others             | x       | 06    |
-| ファッションショーチケット他              | Fashion show tickets, etc.                                  | x       | 06    |
-| 旅行券30万円分                    | Travel vouchers worth 300,000 yen                           | x       | 06    |
-| ビデオ「南仏プロヴァンス花の旅」            | Video "Flower Journey in Provence, France"                  | x       | 06    |
-| ゲムソフト「鉄拳2」他9枚組(PS用)         | Game software "Tekken 2" and other 9-disc set (for PS)      | x       | 06    |
-| ウインドサーフィン・レッスンチケット          | Windsurfing lesson tickets                                  | x       | 06    |
-| はちみつ                        | Honey                                                       | x       | 06    |
-| フルーツジュース                    | Fruit juice                                                 | x       | 06    |
-| 米「ひとめぼれ」(5kgOR2kg)          | Rice "Hitomebore" (5kg or 2kg)                              | x       | 06    |
-| ボディーローション                   | Body lotion                                                 | x       | 06    |
-| 冷凍食品「パンケーキ」他                | Frozen food "Pancakes" and others                           | x       | 06    |
-| 美白エッセンス                     | Whitening essence                                           | x       | 06    |
-| 歯みがきセットー                    | Toothbrush set                                              | x       | 06    |
-| レトルト食品&カップラーメン・             | Retort food & cup ramen,                                    | x       | 06    |
-| インスタントスパゲティ                 | Instant spaghetti                                           | x       | 06    |
-| ゲームソフト「ワールドカップフランス99」他      | Game software "World Cup France 99" and others              | x       | 06    |
-| アクセサリー                      | Accessories                                                 | x       | 06    |
-| 婦人用衣類他                      | Women's clothing, etc.                                      | x       | 06    |
-| クイズ賞金総額12万円ORテレカ            | Quiz prize money total 120,000 yen or telephone card        | x       | 06    |
-| サーフィンイタリアンレストラン 530円        | Surfing Italian restaurant 530 yen                          | x       | 06    |
-| 安西ひろこテレカ                    | Hiroko Anzai phone card                                     | x       | 06    |
-| アルコール飲料                     | Alcoholic drinks                                            | x       | 06    |
-| 水ようかんとゼリーの詰め合わせ             | Mizu-yokan and jelly assortment                             | x       | 06    |
-| ミネラルウォーター                   | Mineral water                                               | x       | 06    |
-| 携帯型ゲーム「バーチャル競馬」             | Handheld game "Virtual horse racing"                        | x       | 06    |
-| 蚊とり器                        | Mosquito repellent                                          | x       | 06    |
-| 「フィギュア「初代ゴジラ」OR「ハニーカール」     | Figure "Original Godzilla" or "Honey Curl"                  | x       | 06    |
-| ルーズソックス                     | Loose socks                                                 | x       | 06    |
-| ドライヤー                       | Hair dryer                                                  | x       | 06    |
-| リンゴジュース                     | Apple juice                                                 | x       | 06    |
-| 電卓                          | Calculator                                                  | x       | 06    |
-| お茶碗セット                      | Rice bowl set                                               | x       | 06    |
-| ところてん手作りキット                 | Tokoroten handmade kit                                      | x       | 06    |
-| 骨付きカルビ・キムチセット               | Bone-in short rib and kimchi set                            | x       | 06    |
-| 鮭の缶詰                        | Canned salmon                                               | x       | 06    |
-| 映画「スパイス・ザ・ムービー」前売券&フィギュア    | Advance tickets and figures for the movie "Spice the Movie" | x       | 06    |
-| スナック菓子                      | Snacks                                                      | x       | 06    |
-| パスタ&ソース&チーズ他                | Pasta, sauce, cheese, etc.                                  | x       | 06    |
-| SPEED主演映画「アントロメティア」 招待券     | Tickets for the movie "Anthrometia" starring SPEED          | x       | 06    |
-| 広末涼子サイン&イラスト入りサンタル          | Santal with Hirosue Ryoko's autograph and illustration      | x       | 06    |
-| 広末涼子テレカ                     | Hirosue Ryoko phone card                                    | x       | 06    |
-| 広末涼子ホワイトボードー                | Hirosue Ryoko whiteboard                                    | x       | 06    | 
+| 日本語                         | English                                                     | Entries | Month   |
+|-----------------------------|-------------------------------------------------------------|---------|---------|
+| 高級バッグ                       | Luxury bags                                                 | 50      | 06      |
+| 腕時計 セイコー & シチズン & カシオ)      | Watches (Seiko & Citizen & Casio)                           | 405     | 06      |
+| フェンディのポーチ                   | Fendi pouch                                                 | 50      | 06      |
+| パールペンダント                    | Pearl pendant                                               | 1       | 06      |
+| スケートボード                     | Skateboard                                                  | 1       | 06      |
+| リュックサック                     | Backpack                                                    | 2       | 06      |
+| セガサターン                      | Sega Saturn                                                 | 2       | 06      |
+| 栃木ゴシヒカリ「穂の香」(5kg)           | Tochigi Goshihikari "Honoka" (5kg)                          | 7       | 06      |
+| ノートパソコン                     | Notebook computer                                           | 10      | 06      |
+| デジタルカメラ&プリンター               | Digital camera & printer                                    | 182     | 06      |
+| DVDプレイヤー                    | DVD player                                                  | 20      | 06      |
+| FAX                         | Fax                                                         | 10      | 06      |
+| カーナビゲーション                   | Car navigation system                                       | 10      | 06      |
+| MDコンポー                      | MD component                                                | 10      | 06      |
+| CDプレイヤー                     | CD player                                                   | 10      | 06      |
+| ビデオカメラ                      | Video camera                                                | 11      | 06      |
+| ワイドテレビ                      | Wide-screen TV                                              | 10      | 06      |
+| クッキー                        | Cookies                                                     | 56      | 06      |
+| カステラ                        | Castella                                                    | 50      | 06      |
+| 滝沢秀明使用済みキャップ                | Used cap by Hideaki Takizawa                                | 1       | 06      |
+| ともさかりえ CD                   | Tomosaka Rie CD                                             | 1       | 06      |
+| 商品券 (100万円分&1万円分)           | Gift certificate (1 million yen worth & 10,000 yen worth)   | 6       | 06      |
+| あんみつセット                     | Anmitsu set                                                 | 101     | 06      |
+| ナショナル電化製品50万円分              | National electrical appliances worth 500,000 yen            | 5       | 06      |
+| 旅行券(100万円分&20万円分)           | Travel vouchers (1 million yen worth & 200,000 yen worth)   | 6       | 06      |
+| マッサージ機                      | Massage machine                                             | 2       | 06      |
+| 瘦身美容器                       | Body-slimming beauty device                                 | 1       | 06      |
+| 電気自動車                       | Electric car                                                | 52      | 06      |
+| 空気清浄器                       | Air purifier                                                | 11      | 06      |
+| ハワイカタログショッピング               | Hawaii catalog shopping                                     | 5       | 06      |
+| ボルボVORパールネックレスORTのテレカ       | Volvo VOR pearl necklace ORT telephone card                 | 50      | 06      |
+| デンマーク旅行                     | Denmark trip                                                | 1       | 06      |
+| アメリカ旅行                      | USA trip                                                    | 20      | 06      |
+| ハワイ旅行                       | Hawaii trip                                                 | 30      | 06      |
+| ソウル旅行                       | Seoul trip                                                  | 5       | 06      |
+| サングラス                       | Sunglasses                                                  | 16      | 06      |
+| スイカー                        | Sweetener                                                   | 100     | 06      |
+| ティッシュペーパー                   | Tissue paper                                                | 110     | 06      |
+| アイスクリーム                     | Ice cream                                                   | 250     | 06      |
+| チョコレート                      | Chocolate                                                   | 135     | 06      |
+| GLAYポスター                    | GLAY poster                                                 | 1       | 06      |
+| ジープ「チェロキー」                  | Jeep "Cherokee"                                             | 1       | 06      |
+| ヒデオ「深夜特急」完全版3巻セット           | Hideo "Midnight Express" complete edition 3-volume set      | 1       | 06      |
+| 体重計                         | Weight scale                                                | 6       | 06      |
+| 指輪(バール&ダイヤモンド他)             | Ring (crowbar & diamond etc.)                               | 56      | 06      |
+| 現金1万円                       | 10,000 yen in cash                                          | 1       | 06      |
+| 天ぷら & 天ぷら鍋セット               | Tempura & Tempura pot set                                   | 110     | 06      |
+| 黒田美礼ビデオORゲームソフト             | Mirei Kuroda video or game software                         | 1       | 06      |
+| カップ焼きそば                     | Cup yakisoba                                                | 1       | 06      |
+| スピーカー                       | Speakers                                                    | 1       | 06      |
+| 図書券 (5,000円分)               | Book vouchers (5,000 yen worth)                             | 1       | 06      |
+| 室内用プラネタリウム                  | Indoor planetarium                                          | 1       | 06      |
+| 水ようかん                       | Mizu yokan                                                  | 50      | 06      |
+| 大月みやこコマ劇場招待券                | Otsuki Miyako Koma Theater invitation ticket                | 1       | 06      |
+| パソコン GATEWAY OR Power Mac   | PC GATEWAY OR Power Mac                                     | 10      | 06      |
+| 手作りソーセージキット                 | Homemade sausage kit                                        | 5       | 06      |
+| カップラーメン                     | Cup ramen                                                   | 351     | 06      |
+| 野菜ジュース                      | Vegetable juice                                             | 21      | 06      |
+| サラダドレッシング                   | Salad dressing                                              | 1       | 06      |
+| キムチスープー                     | Kimchi soup                                                 | 1       | 06      |
+| スチームアイロン                    | Steam iron                                                  | 5       | 06      |
+| フライパン(直径24cm)               | Frying pan (diameter 24cm)                                  | 5       | 06      |
+| さくらんぼ                       | Cherries                                                    | 100     | 06      |
+| MAX・コンサートパンフレット             | MAX concert pamphlet                                        | 1       | 06      |
+| 日本ダービーポスターー                 | Japan Derby poster                                          | 1       | 06      |
+| NINTENDO64 OR THREA ???     | Nintendo 64 or Threa???                                     | 1       | 06      |
+| 三波春夫コンサート招待券                | Haruo Minami concert invitation ticket                      | 1       | 06      |
+| ???                         | ???                                                         | 50      | 06      |
+| 日産「テラノ」                     | Nissan Terrano                                              | 50      | 06      |
+| 広末涼子ポスタ                     | Ryoko Hirosue poster                                        | 11      | 06      |
+| スクーター「スズキ・ヴェルテ」             | Scooter Suzuki Verte                                        | 40      | 06      |
+| CDラジカセ他                     | CD radio cassette player etc.                               | 20      | 06      |
+| コンパクトカメラー                   | Compact camera                                              | 21      | 06      |
+| ベイキャニオンズのテレカ                | Bay Canyons telephone card                                  | 1       | 06      |
+| プレイステーション                   | PlayStation                                                 | 1       | 06      |
+| カチューシャ                      | Headband                                                    | 1       | 06      |
+| PHS                         | PHS                                                         | 20      | 06      |
+| ゲームソフト「スーパーロボット大戦F」他        | Game software Super Robot Wars F etc.                       | 21      | 06      |
+| 男性用化粧品セット                   | Men's cosmetics set                                         | 20      | 06      |
+| ヘッドホン                       | Headphones                                                  | 40      | 06      |
+| ハウンドドッグの肩たたき                | Hound Dog shoulder massage                                  | 1       | 06      |
+| フィギュア「初代ゴジラ」                | Figure "First Godzilla"                                     | 6       | 06      |
+| ビデオ「ピンクパンサー」3巻セット           | Video "Pink Panther" 3-volume set                           | 1       | 06      |
+| 電光掲示ダーツ OR 麻雀牌              | Electronic display darts OR mahjong tiles                   | 1       | 06      |
+| 山形米 「はえぬき」 (5kg)            | Yamagata rice "Haenuki" (5kg)                               | 50      | 06      |
+| タカラ「人生ゲームEX」                | Takara "Game of Life EX"                                    | 5       | 06      |
+| エレキギター                      | Electric guitar                                             | 5       | 06      |
+| インターネット接続機                  | Internet connection device                                  | 5       | 06      |
+| サイパン旅行                      | Saipan trip                                                 | 5       | 06      |
+| ふりかけ                        | Furikake                                                    | 5       | 06      |
+| ざるうどん、ひやむぎ、そうめんセット          | Zaru udon, hiyamugi, somen set                              | 5       | 06      |
+| ビーフン                        | Rice vermicelli                                             | 5       | 06      |
+| 中山美穂ノベルティー「クローハー鉢植え｣        | Nakayama Miho novelty "Crowher potted plant"                | 5       | 06      |
+| ハーブ栽培セット                    | Herb cultivation set                                        | 5       | 06      |
+| ポラロイドカメラ&フィルム               | Polaroid camera & film                                      | 20      | 06      |
+| 竹垣根                         | Bamboo fence roots                                          | 5       | 06      |
+| ドッグフード(ドライ)                 | Dog food (dry)                                              | 5       | 06      |
+| キャットフード(ドライ)                | Cat food (dry)                                              | 5       | 06      |
+| ブルーベリー                      | Blueberries                                                 | 5       | 06      |
+| ダイエット食品                     | Diet food                                                   | 5       | 06      |
+| 淨水器                         | Water purification device                                   | 25      | 06      |
+| うどん詰め合わせ                    | Udon assortment                                             | 5       | 06      |
+| ビデオ「アントニオ猪木 引退試合1・2」        | Video "Antonio Inoki "Retirement Match 1 & 2"               | 10      | 06      |
+| 写真集「アントニオ猪木」                | Photobook "Antonio Inoki"                                   | 10      | 06      |
+| スチームアイロン                    | Steam iron                                                  | 5       | 06      |
+| 育毛剤                         | Hair growth agent                                           | 5       | 06      |
+| 体脂肪計                        | Body fat scale                                              | 16      | 06      |
+| 「香水「ヒューゴ」                   | Perfume "Hugo"                                              | 1       | 06      |
+| フルーツゼリー詰め合わせ                | Assorted fruit jellies                                      | 50      | 06      |
+| メロン(2玉)                     | Melon (2 pieces)                                            | 100     | 06      |
+| グッチのバッグ                     | Gucci bag                                                   | 1       | 06      |
+| ドコモ「モバイル・ギア」                | Docomo "Mobile Gear"                                        | 1       | 06      |
+| ミニカーセット                     | Mini car set                                                | 1       | 06      |
+| バレンチノの傘                     | Valentino umbrella                                          | 1       | 06      |
+| アクセサリー(シルハーOAプラチナ)          | Accessories (Silhar OA Platinum)                            | 50      | 06      |
+| ビデオデッキRテレカ                  | Video deck R telephone card                                 | 50      | 06      |
+| だしつゆセット-                    | Dashi soup set -                                            | 10      | 06      |
+| ミッキーマウスの爪切り                 | Mickey Mouse nail clippers                                  | 1       | 06      |
+| シューズラック                     | Shoe rack                                                   | 1       | 06      |
+| ナイキのバッグ                     | Nike bag                                                    | 1       | 06      |
+| シャープ「パワーザウルス」               | Sharp "Powersaurus"                                         | 50      | 06      |
+| MDプレイヤー                     | MD player                                                   | 50      | 06      |
+| ゴルフクラブ&キャディバッグ              | Golf clubs & caddy bag                                      | 50      | 06      |
+| 自転車                         | Bicycle                                                     | 100     | 06      |
+| ゴルフボール(1ダース)                | Golf balls (1 dozen)                                        | 10      | 06      |
+| ホテル「マイユクール」(1,000円分)        | Hotel "Maille Coeur" (1,000 yen)                            | 1       | 06      |
+| アロマキャンドル                    | Aromatherapy candle                                         | 2       | 06      |
+| レストラン「カプリチョーザ」 食事券(4名分)     | Restaurant "Capricciosa" meal ticket (4 people)             | 1       | 06      |
+| 携帯ゲーム｢てくてくエンジェル」            | Mobile game "Tekuteku Angel"                                | 1       | 06      |
+| レストラン「ロックンロールダイナー」 食事券      | Restaurant "Rock 'n' Roll Diner" Meal ticket                | 1       | 06      |
+| キティちゃんのシール                  | Hello Kitty sticker                                         | 1       | 06      |
+| ポテトスナックー                    | Potato snack                                                | 1       | 06      |
+| カヌー                         | Canoe                                                       | 1       | 06      |
+| グアム旅行(4日間)                  | Trip to Guam (4 days)                                       | 50      | 06      |
+| MDプレイヤー                     | MD player                                                   | 50      | 06      |
+| ゲームソフト「億万長者への道」             | Game software "The Road to Millionaire"                     | 1       | 06      |
+| 香水「サムライ」                    | Perfume "Samurai"                                           | 2       | 06      |
+| スニーカー                       | Sneakers                                                    | 1       | 06      |
+| MD                          | MD                                                          | 1       | 06      |
+| スウェードの靴                     | Suede shoes                                                 | 1       | 06      |
+| 双眼鏡                         | Binoculars                                                  | 11      | 06      |
+| 十徳ナイフ                       | Seven-in-one knife                                          | 1       | 06      |
+| ラルク・アン・シエルの計算機              | L'Arc-en-Ciel calculator                                    | 1       | 06      |
+| コードレス電話機                    | Cordless phone                                              | 50      | 06      |
+| 香水「サニー・フルッティ」               | Perfume "Sunny Frutti"                                      | 50      | 06      |
+| アメリカ旅行 5泊7日 OA CDプレイヤー      | Trip to America 5 nights 7 days OA CD player                | 10      | 06      |
+| プラチナ・ネックレスー                 | Platinum necklace                                           | 10      | 06      |
+| 矢部美穂ビデオORゲームソフト             | Miho Yabe video OR Game software                            | 1       | 06      |
+| ゲームソフト「ザ・キング・オブ・ファイターズ '97」 | Game software "The King of Fighters '97"                    | 1       | 06      |
+| サッカーボールOR日本代表応ハッピ 子         | Soccer ball OR Japan national team happi coat               | 1       | 06      |
+| ルアープ セットDA OR CDプレーヤー       | Lurep set DA OR CD player                                   | 1       | 06      |
+| 水ようかん詰め合わせ                  | Mizu-yokan assortment                                       | 1       | 06      |
+| 栄養食品                        | Nutritional foods                                           | 50      | 06      |
+| 女性用水着                       | Women's swimsuit                                            | 10      | 06      |
+| ざるうどん、ひやむぎ、そうめん             | Zaru udon, hiyamugi, somen                                  | 10      | 06      |
+| 電動シェーバー                     | Electric shaver                                             | 101     | 06      |
+| ゴルフ用日傘                      | Golf parasol                                                | 10      | 06      |
+| 本「ルアーフィッシング入門」              | Book "Introduction to lure fishing"                         | 5       | 06      |
+| 携帯電話ハンズフリーキット               | Cell phone hands-free kit                                   | 1       | 06      |
+| とうもろこし(5kg)                 | Corn (5kg)                                                  | 50      | 06      |
+| ぶどう「デラウェア (2kg)             | Grapes "Delaware" (2kg)                                     | 50      | 06      |
+| ドッグフード(ドライ&生タイプ)            | Dog food (dry & fresh)                                      | 10      | 06      |
+| コーヒー詰め合わせ&カップマフィンセット        | Coffee assortment & cup muffin set                          | 10      | 06      |
+| 光岡自動車「ビュート」                 | Mitsuoka Motors "Viewt"                                     | 55      | 06      |
+| 沖縄往復航空券                     | Round-trip air ticket to Okinawa                            | 55      | 06      |
+| テレビデオ (21型)                 | TV (21-inch)                                                | 55      | 06      |
+| 電子ジャー                       | Electric rice cooker                                        | 55      | 06      |
+| 掃除機                         | Vacuum cleaner                                              | 55      | 06      |
+| 洗濯機                         | Washing machine                                             | 55      | 06      |
+| 電子レンジ                       | Microwave                                                   | 55      | 06      |
+| 冷藏庫                         | Refrigerator                                                | 55      | 06      |
+| パスタ パスタソース&オリーフオイル          | Pasta with pasta sauce & olive oil                          | 20      | 06      |
+| バナナシェイクソフトー                 | Banana shake soft serve                                     | 20      | 06      |
+| 裁縫セット                       | Sewing set                                                  | 20      | 06      |
+| 梅酒                          | Plum wine                                                   | 20      | 06      |
+| 納豆                          | Natto                                                       | 50      | 06      |
+| ヨーグルト飲料                     | Yogurt drink                                                | 30      | 06      |
+| フランスW杯トレーティングカード            | France World Cup trading card                               | 10      | 06      |
+| 布袋寅泰テレカ                     | Tomoyasu Hotei phone card                                   | 1       | 06      |
+| パソコン「VAIO」                  | Computer "VAIO"                                             | 10      | 06      |
+| ドコモ 「ポケットボード」               | Docomo "Pocket Board"                                       | 1       | 06      |
+| 広末涼子の折りたたみ傘OR サイン入りボラ       | Hirosue Ryoko's folding umbrella OR signed mullet           | 106     | 06      |
+| バリ旅行 OR 商品券5万円 他            | Bali trip OR 50,000 yen gift certificate Others             | 60      | 06      |
+| ファッションショーチケット他              | Fashion show tickets, etc.                                  | 11      | 06      |
+| 旅行券30万円分                    | Travel vouchers worth 300,000 yen                           | 50      | 06      |
+| ビデオ「南仏プロヴァンス花の旅」            | Video "Flower Journey in Provence, France"                  | 1       | 06      |
+| ゲムソフト「鉄拳2」他9枚組(PS用)         | Game software "Tekken 2" and other 9-disc set (for PS)      | 1       | 06      |
+| ウインドサーフィン・レッスンチケット          | Windsurfing lesson tickets                                  | 50      | 06      |
+| はちみつ                        | Honey                                                       | 10      | 06      |
+| フルーツジュース                    | Fruit juice                                                 | 10      | 06      |
+| 米「ひとめぼれ」(5kgOR2kg)          | Rice "Hitomebore" (5kg or 2kg)                              | 100     | 06      |
+| ボディーローション                   | Body lotion                                                 | 10      | 06      |
+| 冷凍食品「パンケーキ」他                | Frozen food "Pancakes" and others                           | 10      | 06      |
+| 美白エッセンス                     | Whitening essence                                           | 10      | 06      |
+| 歯みがきセットー                    | Toothbrush set                                              | 20      | 06      |
+| レトルト食品&カップラーメン・             | Retort food & cup ramen,                                    | 10      | 06      |
+| インスタントスパゲティ                 | Instant spaghetti                                           | 50      | 06      |
+| ゲームソフト「ワールドカップフランス99」他      | Game software "World Cup France 99" and others              | 21      | 06      |
+| アクセサリー                      | Accessories                                                 | 11      | 06      |
+| 婦人用衣類他                      | Women's clothing, etc.                                      | 11      | 06      |
+| クイズ賞金総額12万円ORテレカ            | Quiz prize money total 120,000 yen or telephone card        | 1       | 06      |
+| サーフィンイタリアンレストラン 530円        | Surfing Italian restaurant 530 yen                          | 2       | 06      |
+| 安西ひろこテレカ                    | Hiroko Anzai phone card                                     | 1       | 06      |
+| アルコール飲料                     | Alcoholic drinks                                            | 10      | 06      |
+| 水ようかんとゼリーの詰め合わせ             | Mizu-yokan and jelly assortment                             | 10      | 06      |
+| ミネラルウォーター                   | Mineral water                                               | 1       | 06      |
+| 携帯型ゲーム「バーチャル競馬」             | Handheld game "Virtual horse racing"                        | 1       | 06      |
+| 蚊とり器                        | Mosquito repellent                                          | 1       | 06      |
+| 「フィギュア「初代ゴジラ」OR「ハニーカール」     | Figure "Original Godzilla" or "Honey Curl"                  | 30      | 06      |
+| ルーズソックス                     | Loose socks                                                 | 1       | 06      |
+| ドライヤー                       | Hair dryer                                                  | 10      | 06      |
+| リンゴジュース                     | Apple juice                                                 | 10      | 06      |
+| 電卓                          | Calculator                                                  | 10      | 06      |
+| お茶碗セット                      | Rice bowl set                                               | 10      | 06      |
+| ところてん手作りキット                 | Tokoroten handmade kit                                      | 10      | 06      |
+| 骨付きカルビ・キムチセット               | Bone-in short rib and kimchi set                            | 1       | 06      |
+| 鮭の缶詰                        | Canned salmon                                               | 50      | 06      |
+| 映画「スパイス・ザ・ムービー」前売券&フィギュア    | Advance tickets and figures for the movie "Spice the Movie" | 10      | 06      |
+| スナック菓子                      | Snacks                                                      | 10      | 06      |
+| パスタ&ソース&チーズ他                | Pasta, sauce, cheese, etc.                                  | 35      | 06      |
+| SPEED主演映画「アントロメティア」 招待券     | Tickets for the movie "Anthrometia" starring SPEED          | 1       | 06      |
+| 広末涼子サイン&イラスト入りサンタル          | Santal with Hirosue Ryoko's autograph and illustration      | 2       | 06      |
+| 広末涼子テレカ                     | Hirosue Ryoko phone card                                    | 3       | 06    1 
+| 広末涼子ホワイトボードー                | Hirosue Ryoko whiteboard                                    | 10      | 06      | 
 
 | 日本語                    | English                                         | Entries | Month |
 |------------------------|-------------------------------------------------|---------|-------|
