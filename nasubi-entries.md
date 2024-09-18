@@ -1145,7 +1145,7 @@
 | 吉田里深 写真集                 | Yoshida Satomi photo book                              | 1       | 08    |
 | ミッキーマウスの絵 OR クッション       | Mickey Mouse picture OR Cushion                        | 1       | 08    |
 | トースター                    | Toaster                                                | 20      | 08    |
-| ベンツOR ホンダ「キャバ」          | Benz OR Honda "Cabaret"                               | 30      | 08    |
+| ベンツOR ホンダ「キャバ」           | Benz OR Honda "Cabaret"                                | 30      | 08    |
 | パソコン用品                   | Computer supplies                                      | 180     | 08    |
 | オーディオセット                 | Audio set                                              | 135     | 08    |
 | 三菱「パジェロミニ」               | Mitsubishi "Pajero Mini"                               | 30      | 08    |
@@ -1179,7 +1179,7 @@
 | 空気清淨機                    | Air purifier                                           | 1       | 08    |
 | キャンピングセット                | Camping set                                            | 50      | 08    |
 | 旅行券(1万円分)                | Travel voucher (10,000 yen)                            | 5       | 08    |
-| ゲームソフト 「ポケットピカチュウ」                  | Game software "Pocket Pikachu"                                         | 5       | 08    |
+| ゲームソフト 「ポケットピカチュウ」       | Game software "Pocket Pikachu"                         | 5       | 08    |
 | テニスシューズ                  | Tennis shoes                                           | 5       | 08    |
 | 野菜栽培セット                  | Vegetable cultivation set                              | 5       | 08    |
 | もののけ姫CD                  | Princess Mononoke CD                                   | 5       | 08    |
@@ -1219,7 +1219,7 @@
 | 電動歯ブラシ                   | Electric toothbrush                                    | 100     | 08    |
 | 缶ジュース                    | Canned juice                                           | 5       | 08    |
 | 男性用化粧品                   | Men's cosmetics                                        | 5       | 08    |
-| ボードゲーム 「人生ゲーム平成版X」                  | Board game "Game of Life Heisei version X"                                            | 1       | 08    |
+| ボードゲーム 「人生ゲーム平成版X」       | Board game "Game of Life Heisei version X"             | 1       | 08    |
 | サンダル                     | Sandals                                                | 50      | 08    |
 | 米「宮崎コシヒカリ」(3kg)          | Rice "Miyazaki Koshihikari" (3kg)                      | 100     | 08    |
 | アイスクリーム                  | Ice cream                                              | 55      | 08    |
@@ -1252,16 +1252,16 @@
 | スクーター                    | Scooter                                                | 50      | 08    |
 | ボディボード                   | Bodyboard                                              | 200     | 08    |
 | クーラーボックス                 | Cooler box                                             | 50      | 08    |
-| ジャニーズJr 滝沢君使用済リング                  | Johnny's Jr. Takizawa's used ring                                           | 1       | 08    |
+| ジャニーズJr 滝沢君使用済リング        | Johnny's Jr. Takizawa's used ring                      | 1       | 08    |
 | 広末涼子クリアファイル              | Hirosue Ryoko clear file                               | 10      | 08    |
 | 広末涼子テレカ&ポスター             | Hirosue Ryoko telephone card & poster                  | 1       | 08    |
 | 車のシート                    | Car seat                                               | 1       | 08    |
-| カーレース観戦チケット             | Tickets to watch car races                             | 1       | 08    |
+| カーレース観戦チケット              | Tickets to watch car races                             | 1       | 08    |
 | フルーツジュースー                | Fruit juice                                            | 61      | 08    |
 | キーボード                    | Keyboard                                               | 50      | 08    |
 | 東京ディズニーランドパスポート          | Tokyo Disneyland passport                              | 50      | 08    |
 | 包丁                       | Kitchen knife                                          | 15      | 08    |
-| ゲームソフト 「グラディウス外伝」他 | Game software "Gradius Gaiden" and other | 20      | 08    |
+| ゲームソフト 「グラディウス外伝」他       | Game software "Gradius Gaiden" and other               | 20      | 08    |
 | 枝豆                       | Edamame beans                                          | 10      | 08    |
 | ディズニー3Dアートボックス           | Disney 3D art box                                      | 5       | 08    |
 | ドラえもんランチボックス             | Doraemon lunch box                                     | 5       | 08    |
