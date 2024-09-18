@@ -932,7 +932,7 @@
 | クイズ賞金10万円              | Quiz prize money 100,000 yen                          | 50      | 07    |
 | 新車購入資金50万円クーポン         | 500,000 yen coupon for purchasing a new car           | 50      | 07    |
 | 映画「ジャッカル」 オリジナル時計      | Movie "The Jackal" Original watch                     | 10      | 07    |
-| レストラン「カプリチョーザ」 食事券       | Restaurant "Capricciosa" Meal voucher                 | 5       | 07    |
+| レストラン「カプリチョーザ」 食事券     | Restaurant "Capricciosa" Meal voucher                 | 5       | 07    |
 | 横浜ドリームランドチケット          | Yokohama Dreamland ticket                             | 1       | 07    |
 | フィギュア「スパイス・ガールズ」 5体セット | Figure "Spice Girls" 5-piece set                      | 5       | 07    |
 | 現金一万円                  | 10,000 yen cash                                       | 1       | 07    |
@@ -963,7 +963,7 @@
 | ドライブルーベリ               | Dried blueberries                                     | 50      | 07    |
 | 水なす漬                   | Pickled eggplant                                      | 50      | 07    |
 | 水ようかん                  | Mizu yokan                                            | 150     | 07    |
-| 前川清 新宿コマ劇場 公演チケット             | Maekawa Kiyoshi Shinjuku Koma Theater Concert tickets | 1       | 07    |
+| 前川清 新宿コマ劇場 公演チケット      | Maekawa Kiyoshi Shinjuku Koma Theater Concert tickets | 1       | 07    |
 | 日産「セフィーロ」              | Nissan Cefiro                                         | 50      | 07    |
 | TMレボリューションのパーカー        | TM Revolution hoodie                                  | 1       | 07    |
 | アルコール飲料                | Alcoholic drinks                                      | 2       | 07    |
@@ -1007,7 +1007,7 @@
 | 栄養補助食品                 | Dietary supplements                                   | 5       | 07    |
 | アイシングスプレー              | Icing spray                                           | 9       | 07    |
 | ブーツー                   | Boots                                                 | 2       | 07    |
-| プレイステーション用 メモリーカード            | Playstation Memory card                                          | 1       | 07    |
+| プレイステーション用 メモリーカード     | Playstation Memory card                               | 1       | 07    |
 | 殺虫剤                    | Insecticide                                           | 1       | 07    |
 | 女性用水着                  | Women's swimsuits                                     | 1       | 07    |
 | チョコレート                 | Chocolate                                             | 50      | 07    |
@@ -1017,7 +1017,7 @@
 | ラジコンカ                  | Radio-controlled car                                  | 5       | 07    |
 | 東京全日空ホテル食事券            | Tokyo ANA Hotel meal ticket                           | 50      | 07    |
 | キャップ                   | Cap                                                   | 2       | 07    |
-| ゲームソフト 「クレイマン・クレイマン」                | Game software "Clayman Clayman"                                        | 1       | 07    |
+| ゲームソフト 「クレイマン・クレイマン」   | Game software "Clayman Clayman"                       | 1       | 07    |
 | 日産 ラシーン・フォルザ」          | Nissan "Racine Forza"                                 | 35      | 07    |
 | DVDプレーヤー               | DVD player                                            | 35      | 07    |
 | オクマビーチランド宿泊券           | Okuma Beach Land accommodation voucher                | 25      | 07    |
@@ -1029,7 +1029,7 @@
 | 電動自転車                  | Electric bicycle                                      | 70      | 07    |
 | マウンテンバイク               | Mountain bike                                         | 50      | 07    |
 | SMAP中居君使用済ウクレレ         | SMAP Nakai's used ukulele                             | 1       | 07    |
-| 本「人間のあり方」 船井幸雄        | Book: The Way of Humanity" by Funai Yukio            | 1       | 07    |
+| 本「人間のあり方」 船井幸雄         | Book: The Way of Humanity" by Funai Yukio             | 1       | 07    |
 | 松田純テレカ                 | Matsuda Jun telephone card                            | 1       | 07    |
 | 天体望遠鏡                  | Telescope                                             | 50      | 07    |
 | リラクゼーションマシーン           | Relaxation machine                                    | 50      | 07    |
@@ -1067,13 +1067,13 @@
 | うどん                    | Udon                                                  | 5       | 07    |
 | プレイステーションORテレビー        | PlayStation or TV                                     | 1       | 07    |
 | あんみつ                   | Anmitsu                                               | 51      | 07    |
-| ゲームソフト「ポケットファイター」(PS用)                 | Game software "Pocket Fighter" (PS version) | 1       | 07    |
+| ゲームソフト「ポケットファイター」(PS用) | Game software "Pocket Fighter" (PS version)           | 1       | 07    |
 | リュックサック                | Backpack                                              | 1       | 07    |
 | レストラン食事券               | Restaurant meal voucher                               | 10      | 07    |
 | ホテル宿泊券                 | Hotel accommodation voucher                           | 5       | 07    |
-| 携帯ゲーム「ペプシマン・パワージム」 他                  | Mobile game "Pepsiman Power Gym" and others                                          | 10      | 07    |
+| 携帯ゲーム「ペプシマン・パワージム」 他   | Mobile game "Pepsiman Power Gym" and others           | 10      | 07    |
 | 電気シェーバー                | Electric shaver                                       | 152     | 07    |
-| プラチナジュエリーオーダー券(10万円相当)         | Platinum jewelry order voucher  (worth 100,000 yen)                      | 50      | 07    |
+| プラチナジュエリーオーダー券(10万円相当) | Platinum jewelry order voucher  (worth 100,000 yen)   | 50      | 07    |
 | 米「あきたこまち」(10kg)        | Rice "Akitakomachi" (10kg)                            | 50      | 07    |
 | 化粧品セット                 | Cosmetics set                                         | 2       | 07    |
 | ジュース                   | Juice                                                 | 10      | 07    |
