@@ -1660,181 +1660,180 @@
 
 | 日本語                   | English                                          | Entries | Month |
 |-----------------------|--------------------------------------------------|---------|-------|
-| CD 「歌がうまくなるCD」        | CD "CD to improve your singing skills"           | x       | 11    |
-| スクーター                 | Scooter                                          | x       | 11    |
-| みそ                    | Miso                                             | x       | 11    |
-| ヨーグルト                 | Yogurt                                           | x       | 11    |
-| 缶ジュース                 | Canned juice                                     | x       | 11    |
-| 工具セット                 | Tool set                                         | x       | 11    |
-| 缶コーヒー                 | Canned coffee                                    | x       | 11    |
-| ツナサラダ                 | Tuna salad                                       | x       | 11    |
-| カップスープ                | Cup soup                                         | x       | 11    |
-| しょうゆ                  | Soy sauce                                        | x       | 11    |
-| 中華まん                  | Chinese steamed bun                              | x       | 11    |
-| 電子辞書                  | Electronic dictionary                            | x       | 11    |
-| ミニスキー板                | Mini skis                                        | x       | 11    |
-| 育毛剤                   | Hair growth tonic                                | x       | 11    |
-| 三菱 「パジェロミニ｣           | Mitsubishi "Pajero Mini"                         | x       | 11    |
-| フィギア「メーテル」            | Figure "Maetel"                                  | x       | 11    |
-| ゴン太くんの顔型 シートクッション     | Gonta-kun's face-shaped seat cushion             | x       | 11    |
-| サングラス                 | Sunglasses                                       | x       | 11    |
-| ラクリマ・クリスティテレ          | Lacryma Christiere                               | x       | 11    |
-| ティル・アン・グレイテレカ         | Til en Grey telephone card                       | x       | 11    |
-| トヨタ「スターレット」           | Toyota "Starlet"                                 | x       | 11    |
-| 財布                    | Wallet                                           | x       | 11    |
-| 松茸                    | Matsutake mushroom                               | x       | 11    |
-| 腕時計                   | Watch                                            | x       | 11    |
-| クッキー                  | Cookies                                          | x       | 11    |
-| ビデオ「七人の侍」             | Video "Seven Samurai"                            | x       | 11    |
-| PHS                   | PHS                                              | x       | 11    |
-| まくら                   | Pillow                                           | x       | 11    |
-| フォード「フェステバ」           | Ford "Festeva"                                   | x       | 11    |
-| デジタルスチールカメラ           | Digital still camera                             | x       | 11    |
-| インターネッ用ターミナル          | Internet terminal                                | x       | 11    |
-| カーナビ                  | Car navigation system                            | x       | 11    |
-| 松屋プリペイドカード(5万円分)      | Matsuya prepaid card (50,000 yen)                | x       | 11    |
-| ダイエット食品               | Diet food                                        | x       | 11    |
-| 双眼鏡                   | Binoculars                                       | x       | 11    |
-| スケートボード               | Skateboard                                       | x       | 11    |
-| ヌンチャクー                | Nunchaku                                         | x       | 11    |
-| ドコモ・ポケットボード           | DoCoMo Pocket Board                              | x       | 11    |
-| トヨタ「クレスタ」             | Toyota "Cresta"                                  | x       | 11    |
-| パソコン用デスク              | Computer desk                                    | x       | 11    |
-| バーチャル水槽               | Virtual aquarium                                 | x       | 11    |
-| 東京~石垣島 往復航空券          | Tokyo to Ishigaki Island Round-trip air ticket   | x       | 11    |
-| イギリス旅行                | Trip to England                                  | x       | 11    |
-| イタリア旅行                | Trip to Italy                                    | x       | 11    |
-| ハワイ旅行                 | Trip to Hawaii                                   | x       | 11    |
-| フィリピン旅行               | Trip to the Philippines                          | x       | 11    |
-| タイ旅行                  | Trip to Thailand                                 | x       | 11    |
-| オーストラリア旅行             | Trip to Australia                                | x       | 11    |
-| ドイツ旅行                 | Trip to Germany                                  | x       | 11    |
-| カナダ旅行                 | Trip to Canada                                   | x       | 11    |
-| スイス旅行                 | Trip to Switzerland                              | x       | 11    |
-| フィンランド旅行              | Trip to Finland                                  | x       | 11    |
-| ニュージーランド旅行            | Trip to New Zealand                              | x       | 11    |
-| 現金総額1,000万円           | Total cash of 10 million yen                     | x       | 11    |
-| 血圧計                   | Blood pressure monitor                           | x       | 11    |
-| 靴磨きセット                | Shoe shine set                                   | x       | 11    |
-| 栗もなか                  | Chestnut monaka                                  | x       | 11    |
-| 鳥肉                    | Chicken meat                                     | x       | 11    |
-| チョコレート                | Chocolate                                        | x       | 11    |
-| トヨタ「プログレ」             | Toyota "Progre"                                  | x       | 11    |
-| 子供用ブロック               | Children's blocks                                | x       | 11    |
-| マヨネーズ                 | Mayonnaise                                       | x       | 11    |
-| インスタントコーヒー            | Instant coffee                                   | x       | 11    |
-| 広末涼子 写真集              | Hirosue Ryoko photo book                         | x       | 11    |
-| 広末涼子クリアファイル           | Hirosue Ryoko clear file                         | x       | 11    |
-| 広末涼子目覚し時計             | Hirosue Ryoko alarm clock                        | x       | 11    |
-| 広末涼子 等身大看板            | Hirosue Ryoko life-size billboard                | x       | 11    |
-| 広末涼子 DoCoMoのノボリ       | Hirosue Ryoko DoCoMo banner                      | x       | 11    |
-| 広末涼子 スケジュールボードー       | Hirosue Ryoko schedule board                     | x       | 11    |
-| バンコク旅行                | Trip to Bangkok                                  | x       | 11    |
-| 東京〜ロサンゼルス往復航空券        | Tokyo to Los Angeles round-trip air ticket       | x       | 11    |
-| アメリカゴルフ観戦旅行           | Trip to watch golf in the US                     | x       | 11    |
-| テレビ                   | Television                                       | x       | 11    |
-| 現金100万円               | 1 million yen in cash                            | x       | 11    |
-| お掃除セット!               | Cleaning set!                                    | x       | 11    |
-| うどんセット                | Udon set                                         | x       | 11    |
-| ソース                   | Sauce                                            | x       | 11    |
-| チョコレート                | Chocolate                                        | x       | 11    |
-| プジョー 「306 STYLE」      | Peugeot "306 STYLE"                              | x       | 11    |
-| 三菱パジェロ・ミニ」「ミニカ」他      | Mitsubishi Pajero Mini, "Minica" and others      | x       | 11    |
-| 塩                     | Salt                                             | x       | 11    |
-| 豆乳                    | Soy milk                                         | x       | 11    |
-| 缶ジュース                 | Canned juice                                     | x       | 11    |
-| フライパン                 | Frying pan                                       | x       | 11    |
-| フィギュア「キン肉マン】世」        | Figure "Kinnikuman" World                        | x       | 11    |
-| ウルトラマン貯金箱             | Ultraman piggy bank                              | x       | 11    |
-| コーンスナック               | Corn snacks                                      | x       | 11    |
-| ライター                  | Lighter                                          | x       | 11    |
-| ポテトスナック               | Potato snacks                                    | x       | 11    |
-| ウクレレ                  | Ukulele                                          | x       | 11    |
-| 奥菜恵テレカ                | Okina Megumi telephone card                      | x       | 11    |
-| エレキギター OR マイク         | Electric guitar OR Microphone                    | x       | 11    |
-| マヨネーズ                 | Mayonnaise                                       | x       | 11    |
-| パスタ                   | Pasta                                            | x       | 11    |
-| ゼリー                   | Jelly                                            | x       | 11    |
-| ダウンコート                | Down coat                                        | x       | 11    |
-| ヘッドホン                 | Headphones                                       | x       | 11    |
-| アイスクリーム               | Ice cream                                        | x       | 11    |
-| 羊肉(1kg)               | Lamb (1kg)                                       | x       | 11    |
-| ダイハツ「MOVE」            | Daihatsu "MOVE"                                  | x       | 11    |
-| プレイステーション             | PlayStation                                      | x       | 11    |
-| バイク                   | Motorcycle                                       | x       | 11    |
-| 焼きそば                  | Yakisoba                                         | x       | 11    |
-| スパゲティ                 | Spaghetti                                        | x       | 11    |
-| 深田恭子 テレカ              | Fukada Kyoko phone card                          | x       | 11    |
-| CDミニコンポ               | CD mini component system                         | x       | 11    |
-| こしょう                  | Pepper                                           | x       | 11    |
-| かぼすのドレッシング OR かぼす     | Kabosu dressing OR Kabosu                        | x       | 11    |
-| 干し椎茸                  | Dried shiitake mushrooms                         | x       | 11    |
-| 海藻                    | Seaweed                                          | x       | 11    |
-| ちりめん                  | Chirimen                                         | x       | 11    |
-| ふりかけ                  | Furikake                                         | x       | 11    |
-| 雑炊                    | Rice porridge                                    | x       | 11    |
-| サバ・アジ                 | Mackerel/Horse mackerel                          | x       | 11    |
-| 広末涼子 テレカ & クリアファイル    | Hirosue Ryoko phone card & clear file            | x       | 11    |
-| 広末涼子 ビデオ              | Hirosue Ryoko video                              | x       | 11    |
-| カメラ                   | Camera                                           | x       | 11    |
-| 掃除機                   | Vacuum cleaner                                   | x       | 11    |
-| スピーカー                 | Speakers                                         | x       | 11    |
-| ふぐの唐揚げ&タレ             | Fried fugu & sauce                               | x       | 11    |
-| MDプレイヤー               | MD player                                        | x       | 11    |
-| ヘッドホン                 | Headphones                                       | x       | 11    |
-| ホンダ「ライフ」「Z」他          | Honda "Life" "Z" etc.                            | x       | 11    |
-| ノルウェー旅行               | Norway trip                                      | x       | 11    |
-| 金沢料亭の旅                | Kanazawa restaurant trip                         | x       | 11    |
-| ウルトラマン目覚し時計           | Ultraman alarm clock                             | x       | 11    |
-| プレイステーション & ゲームソフト    | PlayStation & game software                      | x       | 11    |
-| 焼きそば                  | Yakisoba                                         | x       | 11    |
-| みそ                    | Miso                                             | x       | 11    |
-| しょうゆセット               | Soy sauce set                                    | x       | 11    |
-| 香水「ジバンシイ」 OR 「フェンディ」他 | Perfume "Givenchy" OR "Fendi" etc.               | x       | 11    |
-| ホテル宿泊券                | Hotel accommodation voucher                      | x       | 11    |
-| おひつ                   | Rice container                                   | x       | 11    |
-| 机                     | Table                                            | x       | 11    |
-| せんべい                  | Rice crackers                                    | x       | 11    |
-| バイオリン                 | Violin                                           | x       | 11    |
-| 黒田美礼 テレカ              | Kuroda Mirei phone card                          | x       | 11    |
-| ラーメンー                 | Ramen                                            | x       | 11    |
-| コーンスナック               | Corn snacks                                      | x       | 11    |
-| ケーキ                   | Cake                                             | x       | 11    |
-| 鋼                     | Steel                                            | x       | 11    |
-| ネオジオポケット & 専用ゲームソフト   | Neo Geo Pocket & Dedicated game software         | x       | 11    |
-| 望遠鏡                   | Telescope                                        | x       | 11    |
-| 香港旅行                  | Trip to Hong Kong                                | x       | 11    |
-| スペイン旅行                | Trip to Spain                                    | x       | 11    |
-| 商品券10万円 OR 現金10万円     | 100,000 yen gift certificate OR 100,000 yen cash | x       | 11    |
-| 革靴                    | Leather shoes                                    | x       | 11    |
-| 携帯電話                  | Cell phone                                       | x       | 11    |
-| ビデオデッキ                | Video deck                                       | x       | 11    |
-| バッグ                   | Bag                                              | x       | 11    |
-| みかん(5kg)              | Tangerines (5kg)                                 | x       | 11    |
-| チョコレート                | Chocolate                                        | x       | 11    |
-| ステーキ肉                 | Steak meat                                       | x       | 11    |
-| コーンスナック               | Corn snacks                                      | x       | 11    |
-| スキー板                  | Skis                                             | x       | 11    |
-| 漬物                    | Pickles                                          | x       | 11    |
-| ホテル宿泊券                | Hotel accommodation vouchers                     | x       | 11    |
-| アクセサリー                | Accessories                                      | x       | 11    |
-| バッグ                   | Bag                                              | x       | 11    |
-| 飲む寒天                  | Drinkable agar                                   | x       | 11    |
-| 調味料                   | Seasonings                                       | x       | 11    |
-| せんべい                  | Rice crackers                                    | x       | 11    |
-| ポテトスナック               | Potato snacks                                    | x       | 11    |
-| フルーツ缶詰                | Canned fruit                                     | x       | 11    |
-| サラダ油                  | Salad oil                                        | x       | 11    |
-| のど飴                   | Throat lozenges                                  | x       | 11    |
-| ブラックビスケッツ サイン入りポラ     | Black Biscuits autographed polaroid              | x       | 11    |
-| マフラー(車用)              | Muffler (for car)                                | x       | 11    |
-| パソコン                  | Computer                                         | x       | 11    |
-| スノーボードレッスンビデオ         | Snowboard lesson video                           | x       | 11    |
-| 田中麗奈テレカ               | Tanaka Rena phone card                           | x       | 11    |
-| ビデオカメラ                | Video camera                                     | x       | 11    |
-| 広末涼子カレンダー             | Hirosue Ryoko calendar                           | x       | 11    |
-| 広末涼子 自筆プロフィール         | Hirosue Ryoko handwritten profile                | x       | 11    |
-| 広末涼子 使用済糸でんわ          | Hirosue Ryoko used thread phone                  | x       | 11    |
+| CD 「歌がうまくなるCD」        | CD "CD to improve your singing skills"           | 1       | 11    |
+| スクーター                 | Scooter                                          | 1       | 11    |
+| みそ                    | Miso                                             | 60      | 11    |
+| ヨーグルト                 | Yogurt                                           | 150     | 11    |
+| 缶ジュース                 | Canned juice                                     | 145     | 11    |
+| 工具セット                 | Tool set                                         | 5       | 11    |
+| 缶コーヒー                 | Canned coffee                                    | 60      | 11    |
+| ツナサラダ                 | Tuna salad                                       | 50      | 11    |
+| カップスープ                | Cup soup                                         | 5       | 11    |
+| しょうゆ                  | Soy sauce                                        | 5       | 11    |
+| 中華まん                  | Chinese steamed bun                              | 150     | 11    |
+| 電子辞書                  | Electronic dictionary                            | 6       | 11    |
+| ミニスキー板                | Mini skis                                        | 5       | 11    |
+| 育毛剤                   | Hair growth tonic                                | 5       | 11    |
+| 三菱 「パジェロミニ｣           | Mitsubishi "Pajero Mini"                         | 10      | 11    |
+| フィギア「メーテル」            | Figure "Maetel"                                  | 1       | 11    |
+| ゴン太くんの顔型 シートクッション     | Gonta-kun's face-shaped seat cushion             | 1       | 11    |
+| サングラス                 | Sunglasses                                       | 32      | 11    |
+| ラクリマ・クリスティテレ          | Lacryma Christiere                               | 1       | 11    |
+| ティル・アン・グレイテレカ         | Til en Grey telephone card                       | 1       | 11    |
+| トヨタ「スターレット」           | Toyota "Starlet"                                 | 10      | 11    |
+| 財布                    | Wallet                                           | 20      | 11    |
+| 松茸                    | Matsutake mushroom                               | 10      | 11    |
+| 腕時計                   | Watch                                            | 41      | 11    |
+| クッキー                  | Cookies                                          | 160     | 11    |
+| ビデオ「七人の侍」             | Video "Seven Samurai"                            | 1       | 11    |
+| PHS                   | PHS                                              | 1       | 11    |
+| まくら                   | Pillow                                           | 1       | 11    |
+| フォード「フェステバ」           | Ford "Festeva"                                   | 10      | 11    |
+| デジタルスチールカメラ           | Digital still camera                             | 10      | 11    |
+| インターネッ用ターミナル          | Internet terminal                                | 10      | 11    |
+| カーナビ                  | Car navigation system                            | 10      | 11    |
+| 松屋プリペイドカード(5万円分)      | Matsuya prepaid card (50,000 yen)                | 10      | 11    |
+| ダイエット食品               | Diet food                                        | 150     | 11    |
+| 双眼鏡                   | Binoculars                                       | 5       | 11    |
+| スケートボード               | Skateboard                                       | 5       | 11    |
+| ヌンチャクー                | Nunchaku                                         | 5       | 11    |
+| ドコモ・ポケットボード           | DoCoMo Pocket Board                              | 5       | 11    |
+| トヨタ「クレスタ」             | Toyota "Cresta"                                  | 10      | 11    |
+| パソコン用デスク              | Computer desk                                    | 40      | 11    |
+| バーチャル水槽               | Virtual aquarium                                 | 10      | 11    |
+| 東京~石垣島 往復航空券          | Tokyo to Ishigaki Island Round-trip air ticket   | 10      | 11    |
+| イギリス旅行                | Trip to England                                  | 10      | 11    |
+| イタリア旅行                | Trip to Italy                                    | 20      | 11    |
+| ハワイ旅行                 | Trip to Hawaii                                   | 10      | 11    |
+| フィリピン旅行               | Trip to the Philippines                          | 10      | 11    |
+| タイ旅行                  | Trip to Thailand                                 | 10      | 11    |
+| オーストラリア旅行             | Trip to Australia                                | 20      | 11    |
+| ドイツ旅行                 | Trip to Germany                                  | 10      | 11    |
+| カナダ旅行                 | Trip to Canada                                   | 15      | 11    |
+| スイス旅行                 | Trip to Switzerland                              | 10      | 11    |
+| フィンランド旅行              | Trip to Finland                                  | 10      | 11    |
+| ニュージーランド旅行            | Trip to New Zealand                              | 10      | 11    |
+| 現金総額1,000万円           | Total cash of 10 million yen                     | 10      | 11    |
+| 血圧計                   | Blood pressure monitor                           | 1       | 11    |
+| 靴磨きセット                | Shoe shine set                                   | 1       | 11    |
+| 栗もなか                  | Chestnut monaka                                  | 50      | 11    |
+| 鳥肉                    | Chicken meat                                     | 50      | 11    |
+| チョコレート                | Chocolate                                        | 50      | 11    |
+| トヨタ「プログレ」             | Toyota "Progre"                                  | 50      | 11    |
+| 子供用ブロック               | Children's blocks                                | 1       | 11    |
+| マヨネーズ                 | Mayonnaise                                       | 1       | 11    |
+| インスタントコーヒー            | Instant coffee                                   | 1       | 11    |
+| 広末涼子 写真集              | Hirosue Ryoko photo book                         | 1       | 11    |
+| 広末涼子クリアファイル           | Hirosue Ryoko clear file                         | 1       | 11    |
+| 広末涼子目覚し時計             | Hirosue Ryoko alarm clock                        | 1       | 11    |
+| 広末涼子 等身大看板            | Hirosue Ryoko life-size billboard                | 1       | 11    |
+| 広末涼子 DoCoMoのノボリ       | Hirosue Ryoko DoCoMo banner                      | 1       | 11    |
+| 広末涼子 スケジュールボードー       | Hirosue Ryoko schedule board                     | 1       | 11    |
+| バンコク旅行                | Trip to Bangkok                                  | 10      | 11    |
+| 東京〜ロサンゼルス往復航空券        | Tokyo to Los Angeles round-trip air ticket       | 10      | 11    |
+| アメリカゴルフ観戦旅行           | Trip to watch golf in the US                     | 10      | 11    |
+| テレビ                   | Television                                       | 10      | 11    |
+| 現金100万円               | 1 million yen in cash                            | 10      | 11    |
+| お掃除セット!               | Cleaning set!                                    | 10      | 11    |
+| うどんセット                | Udon set                                         | 62      | 11    |
+| ソース                   | Sauce                                            | 5       | 11    |
+| チョコレート                | Chocolate                                        | 100     | 11    |
+| プジョー 「306 STYLE」      | Peugeot "306 STYLE"                              | 30      | 11    |
+| 三菱パジェロ・ミニ」「ミニカ」他      | Mitsubishi Pajero Mini, "Minica" and others      | 11      | 11    |
+| 塩                     | Salt                                             | 11      | 11    |
+| 豆乳                    | Soy milk                                         | 10      | 11    |
+| 缶ジュース                 | Canned juice                                     | 10      | 11    |
+| フライパン                 | Frying pan                                       | 10      | 11    |
+| フィギュア「キン肉マン】世」        | Figure "Kinnikuman" World                        | 1       | 11    |
+| ウルトラマン貯金箱             | Ultraman piggy bank                              | 1       | 11    |
+| コーンスナック               | Corn snacks                                      | 50      | 11    |
+| ライター                  | Lighter                                          | 5       | 11    |
+| ポテトスナック               | Potato snacks                                    | 51      | 11    |
+| ウクレレ                  | Ukulele                                          | 1       | 11    |
+| 奥菜恵テレカ                | Okina Megumi telephone card                      | 1       | 11    |
+| エレキギター OR マイク         | Electric guitar OR Microphone                    | 1       | 11    |
+| マヨネーズ                 | Mayonnaise                                       | 10      | 11    |
+| パスタ                   | Pasta                                            | 10      | 11    |
+| ゼリー                   | Jelly                                            | 10      | 11    |
+| ダウンコート                | Down coat                                        | 10      | 11    |
+| ヘッドホン                 | Headphones                                       | 10      | 11    |
+| アイスクリーム               | Ice cream                                        | 100     | 11    |
+| 羊肉(1kg)               | Lamb (1kg)                                       | 1       | 11    |
+| ダイハツ「MOVE」            | Daihatsu "MOVE"                                  | 10      | 11    |
+| プレイステーション             | PlayStation                                      | 10      | 11    |
+| バイク                   | Motorcycle                                       | 20      | 11    |
+| 焼きそば                  | Yakisoba                                         | 50      | 11    |
+| スパゲティ                 | Spaghetti                                        | 100     | 11    |
+| 深田恭子 テレカ              | Fukada Kyoko phone card                          | 1       | 11    |
+| CDミニコンポ               | CD mini component system                         | 1       | 11    |
+| こしょう                  | Pepper                                           | 5       | 11    |
+| かぼすのドレッシング OR かぼす     | Kabosu dressing OR Kabosu                        | 10      | 11    |
+| 干し椎茸                  | Dried shiitake mushrooms                         | 5       | 11    |
+| 海藻                    | Seaweed                                          | 5       | 11    |
+| ちりめん                  | Chirimen                                         | 15      | 11    |
+| ふりかけ                  | Furikake                                         | 10      | 11    |
+| 雑炊                    | Rice porridge                                    | 10      | 11    |
+| サバ・アジ                 | Mackerel/Horse mackerel                          | 100     | 11    |
+| 広末涼子 テレカ & クリアファイル    | Hirosue Ryoko phone card & clear file            | 11      | 11    |
+| 広末涼子 ビデオ              | Hirosue Ryoko video                              | 1       | 11    |
+| カメラ                   | Camera                                           | 20      | 11    |
+| 掃除機                   | Vacuum cleaner                                   | 5       | 11    |
+| スピーカー                 | Speakers                                         | 5       | 11    |
+| ふぐの唐揚げ&タレ             | Fried fugu & sauce                               | 55      | 11    |
+| MDプレイヤー               | MD player                                        | 46      | 11    |
+| ヘッドホン                 | Headphones                                       | 6       | 11    |
+| ホンダ「ライフ」「Z」他          | Honda "Life" "Z" etc.                            | 30      | 11    |
+| ノルウェー旅行               | Norway trip                                      | 5       | 11    |
+| 金沢料亭の旅                | Kanazawa restaurant trip                         | 180     | 11    |
+| ウルトラマン目覚し時計           | Ultraman alarm clock                             | 1       | 11    |
+| プレイステーション & ゲームソフト    | PlayStation & game software                      | 2       | 11    |
+| 焼きそば                  | Yakisoba                                         | 2       | 11    |
+| みそ & しょうゆセット          | Miso & Soy sauce set                             | 100     | 11    |
+| 香水「ジバンシイ」 OR 「フェンディ」他 | Perfume "Givenchy" OR "Fendi" etc.               | 55      | 11    |
+| ホテル宿泊券                | Hotel accommodation voucher                      | 10      | 11    |
+| おひつ                   | Rice container                                   | 1       | 11    |
+| 机                     | Table                                            | 5       | 11    |
+| せんべい                  | Rice crackers                                    | 100     | 11    |
+| バイオリン                 | Violin                                           | 1       | 11    |
+| 黒田美礼 テレカ              | Kuroda Mirei phone card                          | 1       | 11    |
+| ラーメンー                 | Ramen                                            | 51      | 11    |
+| コーンスナック               | Corn snacks                                      | 50      | 11    |
+| ケーキ                   | Cake                                             | 50      | 11    |
+| 鋼                     | Steel                                            | 15      | 11    |
+| ネオジオポケット & 専用ゲームソフト   | Neo Geo Pocket & Dedicated game software         | 1       | 11    |
+| 望遠鏡                   | Telescope                                        | 1       | 11    |
+| 香港旅行                  | Trip to Hong Kong                                | 10      | 11    |
+| スペイン旅行                | Trip to Spain                                    | 10      | 11    |
+| 商品券10万円 OR 現金10万円     | 100,000 yen gift certificate OR 100,000 yen cash | 10      | 11    |
+| 革靴                    | Leather shoes                                    | 20      | 11    |
+| 携帯電話                  | Cell phone                                       | 10      | 11    |
+| ビデオデッキ                | Video deck                                       | 20      | 11    |
+| バッグ                   | Bag                                              | 130     | 11    |
+| みかん(5kg)              | Tangerines (5kg)                                 | 50      | 11    |
+| チョコレート                | Chocolate                                        | 50      | 11    |
+| ステーキ肉                 | Steak meat                                       | 50      | 11    |
+| コーンスナック               | Corn snacks                                      | 50      | 11    |
+| スキー板                  | Skis                                             | 5       | 11    |
+| 漬物                    | Pickles                                          | 100     | 11    |
+| ホテル宿泊券                | Hotel accommodation vouchers                     | 5       | 11    |
+| アクセサリー                | Accessories                                      | 56      | 11    |
+| バッグ                   | Bag                                              | 66      | 11    |
+| 飲む寒天                  | Drinkable agar                                   | 10      | 11    |
+| 調味料                   | Seasonings                                       | 100     | 11    |
+| せんべい                  | Rice crackers                                    | 100     | 11    |
+| ポテトスナック               | Potato snacks                                    | 50      | 11    |
+| フルーツ缶詰                | Canned fruit                                     | 50      | 11    |
+| サラダ油                  | Salad oil                                        | 5       | 11    |
+| のど飴                   | Throat lozenges                                  | 10      | 11    |
+| ブラックビスケッツ サイン入りポラ     | Black Biscuits autographed polaroid              | 1       | 11    |
+| マフラー(車用)              | Muffler (for car)                                | 1       | 11    |
+| パソコン                  | Computer                                         | 1       | 11    |
+| スノーボードレッスンビデオ         | Snowboard lesson video                           | 1       | 11    |
+| 田中麗奈テレカ               | Tanaka Rena phone card                           | 1       | 11    |
+| ビデオカメラ                | Video camera                                     | 50      | 11    |
+| 広末涼子カレンダー             | Hirosue Ryoko calendar                           | 39      | 11    |
+| 広末涼子 自筆プロフィール         | Hirosue Ryoko handwritten profile                | 1       | 11    |
+| 広末涼子 使用済糸でんわ          | Hirosue Ryoko used thread phone                  | 1       | 11    |
 
 | 日本語                   | English                                    | Entries | Month |
 |-----------------------|--------------------------------------------|---------|-------|
