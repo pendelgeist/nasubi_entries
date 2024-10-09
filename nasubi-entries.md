@@ -1837,90 +1837,90 @@
 
 | 日本語                   | English                                    | Entries | Month |
 |-----------------------|--------------------------------------------|---------|-------|
-| ラーメン                  | Ramen                                      | x       | 12    |
-| 飲茶セット                 | Dim sum set                                | x       | 12    |
-| ヨーグルト                 | Yogurt                                     | x       | 12    |
-| 羽毛枕                   | Feather pillow                             | x       | 12    |
-| かつおのタタキ & うつぼのタタキセット  | Seared bonito & seared moray eel set       | x       | 12    |
-| 中華の素                  | Chinese seasoning                          | x       | 12    |
-| あめ                    | Candy                                      | x       | 12    |
-| たれのセット                | Sauce set                                  | x       | 12    |
-| 腕時計                   | Watch                                      | x       | 12    |
-| プレイステーション & ゲームソフト    | PlayStation & video games                  | x       | 12    |
-| 中村美津子キーホルダー           | Nakamura Mitsuko keychain                  | x       | 12    |
-| モーニング娘。カレンダー          | Morning Musume. Calendar                   | x       | 12    |
-| バター                   | Butter                                     | x       | 12    |
-| 缶コーヒー                 | Canned coffee                              | x       | 12    |
-| ジュース                  | Juice                                      | x       | 12    |
-| ポップコーン                | Popcorn                                    | x       | 12    |
-| ゼリー                   | Jelly                                      | x       | 12    |
-| くつ下                   | Socks                                      | x       | 12    |
-| 飲む寒天                  | Drinkable agar                             | x       | 12    |
-| うどん                   | Udon                                       | x       | 12    |
-| ゴーグル                  | Goggles                                    | x       | 12    |
-| ポケットゲームー              | Pocket game                                | x       | 12    |
-| FAX OR 目覚し時計          | FAX OR Alarm clock                         | x       | 12    |
-| マツダ「ファミリア」            | Mazda "Familia"                            | x       | 12    |
-| チョコレート飲料              | Chocolate drink                            | x       | 12    |
-| 紅茶 & ケーキセット           | Tea & cake set                             | x       | 12    |
-| 海産物詰め合わせ              | Seafood assortment                         | x       | 12    |
-| イタリア旅行                | Trip to Italy                              | x       | 12    |
-| テレビ                   | Television                                 | x       | 12    |
-| 米(5kg)                | Rice (5kg)                                 | x       | 12    |
-| 広末涼子カレンダー             | Hirosue Ryoko calendar                     | x       | 12    |
-| 広末涼子自筆サイン入り フォトスタンド   | Photo stand with Hirosue Ryoko's autograph | x       | 12    |
-| アイスクリーム               | Ice cream                                  | x       | 12    |
-| サングラス                 | Sunglasses                                 | x       | 12    |
-| グアルジャー旅行              | Trip to Guaruja                            | x       | 12    |
-| オーストラリア旅行             | Trip to Australia                          | x       | 12    |
-| マイアミ旅行                | Trip to Miami                              | x       | 12    |
-| ハワイ旅行                 | Trip to Hawaii                             | x       | 12    |
-| みそ                    | Miso                                       | x       | 12    |
-| 中華まん                  | Chinese bun                                | x       | 12    |
-| バッグー                  | Bag                                        | x       | 12    |
-| スノーボード                | Snowboard                                  | x       | 12    |
-| ギター                   | Guitar                                     | x       | 12    |
-| 鋼                     | Steel                                      | x       | 12    |
-| ポテトスナック               | Potato snacks                              | x       | 12    |
-| 和菓子                   | Japanese sweets                            | x       | 12    |
-| BMW 318i              | BMW 318i                                   | x       | 12    |
-| ノートパソコン               | Laptop                                     | x       | 12    |
-| MDプレイヤー               | MD player                                  | x       | 12    |
-| ロンドン旅行                | Trip to London                             | x       | 12    |
-| カリフォルニア旅行             | Trip to California                         | x       | 12    |
-| コンパクトミラー              | Compact mirror                             | x       | 12    |
-| キャベッジ人形               | Cabbage doll                               | x       | 12    |
-| ジャム                   | Jam                                        | x       | 12    |
-| 塩                     | Salt                                       | x       | 12    |
-| 焼きそば                  | Fried noodles                              | x       | 12    |
-| ジャガイモ(10kg)           | Potatoes (10kg)                            | x       | 12    |
-| 野球盤ゲーム                | Baseball board game                        | x       | 12    |
-| ネクタイ                  | Tie                                        | x       | 12    |
-| DVDプレイヤー              | DVD player                                 | x       | 12    |
-| アンデス旅行                | Trip to the Andes                          | x       | 12    |
-| シドニー旅行                | Trip to Sydney                             | x       | 12    |
-| ソウル旅行                 | Trip to Seoul                              | x       | 12    |
-| 米(5kg)                | Rice (5kg)                                 | x       | 12    |
-| 旅行クーポン券10万円           | 100,000 yen travel coupon                  | x       | 12    |
-| 柿 (5kg) OR みかん (10kg) | Persimmon (5kg) OR Mandarin orange (10kg)  | x       | 12    |
-| スズキ「ワゴンR」 「ジムニー」他     | Suzuki "Wagon R" "Jimny" and others        | x       | 12    |
-| カーステレオ                | Car stereo                                 | x       | 12    |
-| CS用チューナー              | CS tuner                                   | x       | 12    |
-| パソコン                  | PC                                         | x       | 12    |
-| ステレオ                  | Stereo                                     | x       | 12    |
-| アクセサリー                | Accessories                                | x       | 12    |
-| 黒豚詰め合わせ               | Assorted black pork                        | x       | 12    |
-| 野菜ジュース                | Vegetable juice                            | x       | 12    |
-| 奈良漬け                  | Nara pickles                               | x       | 12    |
-| ダイエット栄養食              | Dietary food                               | x       | 12    |
-| ニットキャップ               | Knit cap                                   | x       | 12    |
-| ホテル宿泊券                | Hotel accommodation voucher                | x       | 12    |
-| デジタルカメラ&プリンター         | Digital camera & printer                   | x       | 12    |
-| 商品券1万円                | 10,000 yen gift certificate                | x       | 12    |
-| 天体望遠鏡                 | Telescope                                  | x       | 12    |
-| ビデオカメラ                | Video camera                               | x       | 12    |
-| CDコンボ                 | CD combo                                   | x       | 12    |
-| 電動シェーバー               | Electric shaver                            | x       | 12    |
-| うどん                   | Udon                                       | x       | 12    |
-| マシュマロ                 | Marshmallow                                | x       | 12    |
-| マッサージ機                | Massage machine                            | x       | 12    |
+| ラーメン                  | Ramen                                      | 90      | 12    |
+| 飲茶セット                 | Dim sum set                                | 50      | 12    |
+| ヨーグルト                 | Yogurt                                     | 160     | 12    |
+| 羽毛枕                   | Feather pillow                             | 1       | 12    |
+| かつおのタタキ & うつぼのタタキセット  | Seared bonito & seared moray eel set       | 50      | 12    |
+| 中華の素                  | Chinese seasoning                          | 100     | 12    |
+| あめ                    | Candy                                      | 60      | 12    |
+| たれのセット                | Sauce set                                  | 50      | 12    |
+| 腕時計                   | Watch                                      | 36      | 12    |
+| プレイステーション & ゲームソフト    | PlayStation & video games                  | 4       | 12    |
+| 中村美津子キーホルダー           | Nakamura Mitsuko keychain                  | 1       | 12    |
+| モーニング娘。カレンダー          | Morning Musume. Calendar                   | 1       | 12    |
+| バター                   | Butter                                     | 51      | 12    |
+| 缶コーヒー                 | Canned coffee                              | 30      | 12    |
+| ジュース                  | Juice                                      | 10      | 12    |
+| ポップコーン                | Popcorn                                    | 200     | 12    |
+| ゼリー                   | Jelly                                      | 160     | 12    |
+| くつ下                   | Socks                                      | 5       | 12    |
+| 飲む寒天                  | Drinkable agar                             | 10      | 12    |
+| うどん                   | Udon                                       | 2       | 12    |
+| ゴーグル                  | Goggles                                    | 1       | 12    |
+| ポケットゲームー              | Pocket game                                | 1       | 12    |
+| FAX OR 目覚し時計          | FAX OR Alarm clock                         | 2       | 12    |
+| マツダ「ファミリア」            | Mazda "Familia"                            | 10      | 12    |
+| チョコレート飲料              | Chocolate drink                            | 10      | 12    |
+| 紅茶 & ケーキセット           | Tea & cake set                             | 60      | 12    |
+| 海産物詰め合わせ              | Seafood assortment                         | 50      | 12    |
+| イタリア旅行                | Trip to Italy                              | 5       | 12    |
+| テレビ                   | Television                                 | 5       | 12    |
+| 米(5kg)                | Rice (5kg)                                 | 50      | 12    |
+| 広末涼子カレンダー             | Hirosue Ryoko calendar                     | 19      | 12    |
+| 広末涼子自筆サイン入り フォトスタンド   | Photo stand with Hirosue Ryoko's autograph | 1       | 12    |
+| アイスクリーム               | Ice cream                                  | 51      | 12    |
+| サングラス                 | Sunglasses                                 | 23      | 12    |
+| グアルジャー旅行              | Trip to Guaruja                            | 5       | 12    |
+| オーストラリア旅行             | Trip to Australia                          | 5       | 12    |
+| マイアミ旅行                | Trip to Miami                              | 5       | 12    |
+| ハワイ旅行                 | Trip to Hawaii                             | 5       | 12    |
+| みそ                    | Miso                                       | 100     | 12    |
+| 中華まん                  | Chinese bun                                | 300     | 12    |
+| バッグー                  | Bag                                        | 1       | 12    |
+| スノーボード                | Snowboard                                  | 1       | 12    |
+| ギター                   | Guitar                                     | 1       | 12    |
+| 鋼                     | Steel                                      | 1       | 12    |
+| ポテトスナック               | Potato snacks                              | 150     | 12    |
+| 和菓子                   | Japanese sweets                            | 50      | 12    |
+| BMW 318i              | BMW 318i                                   | 5       | 12    |
+| ノートパソコン               | Laptop                                     | 5       | 12    |
+| MDプレイヤー               | MD player                                  | 20      | 12    |
+| ロンドン旅行                | Trip to London                             | 5       | 12    |
+| カリフォルニア旅行             | Trip to California                         | 5       | 12    |
+| コンパクトミラー              | Compact mirror                             | 1       | 12    |
+| キャベッジ人形               | Cabbage doll                               | 1       | 12    |
+| ジャム                   | Jam                                        | 10      | 12    |
+| 塩                     | Salt                                       | 10      | 12    |
+| 焼きそば                  | Fried noodles                              | 50      | 12    |
+| ジャガイモ(10kg)           | Potatoes (10kg)                            | 50      | 12    |
+| 野球盤ゲーム                | Baseball board game                        | 51      | 12    |
+| ネクタイ                  | Tie                                        | 1       | 12    |
+| DVDプレイヤー              | DVD player                                 | 1       | 12    |
+| アンデス旅行                | Trip to the Andes                          | 10      | 12    |
+| シドニー旅行                | Trip to Sydney                             | 5       | 12    |
+| ソウル旅行                 | Trip to Seoul                              | 5       | 12    |
+| 米(5kg)                | Rice (5kg)                                 | 50      | 12    |
+| 旅行クーポン券10万円           | 100,000 yen travel coupon                  | 5       | 12    |
+| 柿 (5kg) OR みかん (10kg) | Persimmon (5kg) OR Mandarin orange (10kg)  | 5       | 12    |
+| スズキ「ワゴンR」 「ジムニー」他     | Suzuki "Wagon R" "Jimny" and others        | 30      | 12    |
+| カーステレオ                | Car stereo                                 | 5       | 12    |
+| CS用チューナー              | CS tuner                                   | 5       | 12    |
+| パソコン                  | PC                                         | 5       | 12    |
+| ステレオ                  | Stereo                                     | 5       | 12    |
+| アクセサリー                | Accessories                                | 5       | 12    |
+| 黒豚詰め合わせ               | Assorted black pork                        | 1       | 12    |
+| 野菜ジュース                | Vegetable juice                            | 1       | 12    |
+| 奈良漬け                  | Nara pickles                               | 50      | 12    |
+| ダイエット栄養食              | Dietary food                               | 50      | 12    |
+| ニットキャップ               | Knit cap                                   | 5       | 12    |
+| ホテル宿泊券                | Hotel accommodation voucher                | 15      | 12    |
+| デジタルカメラ&プリンター         | Digital camera & printer                   | 5       | 12    |
+| 商品券1万円                | 10,000 yen gift certificate                | 5       | 12    |
+| 天体望遠鏡                 | Telescope                                  | 1       | 12    |
+| ビデオカメラ                | Video camera                               | 1       | 12    |
+| CDコンボ                 | CD combo                                   | 1       | 12    |
+| 電動シェーバー               | Electric shaver                            | 1       | 12    |
+| うどん                   | Udon                                       | 11      | 12    |
+| マシュマロ                 | Marshmallow                                | 50      | 12    |
+| マッサージ機                | Massage machine                            | 5       | 12    |
