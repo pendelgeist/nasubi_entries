@@ -23,15 +23,15 @@
 | -- 大麦牛ステーキ肉(1kg)          | Barley beef steak meat (1kg)                               | 3000  | 03    |
 | -- 「電車でGO!」ソフト&コントローラー    | "Densha de GO!" software and controller                    | 11600 | 03    |
 | ------------------------  |------------------------------------------------------------|-------|-------|
-| バッチのチョコレート                | Batch chocolate                                            | 2000  | 04    |
-| 横浜・雄華樓飲茶セット               | Yokohama Yukaro Dim Sum Set                                | 3000  | 04    |
-| 力石徹の人形                    | Rikishi Toru doll                                          | 9800  | 04    |
-| ポケモンのデスクマット               | Pokemon desk mat                                           | 3600  | 04    |
-| 伊勢海老                      | Spiny lobster                                              | 15800 | 04    |
-| 掃除機                       | Vacuum cleaner                                             | 16000 | 04    |
-| 栃木トマト「桃太郎」                | Tochigi Tomato "Momotaro"                                  | 2500  | 04    |
-| ビクター14型カラーTV              | Victor 14-inch color TV                                    | 22000 | 04    |
-| サンスター 歯磨きセット              | Sunstar toothpaste set                                     | 400   | 04    |
+| -- バッチのチョコレート             | Batch chocolate                                            | 2000  | 04    |
+| -- 横浜・雄華樓飲茶セット            | Yokohama Yukaro Dim Sum Set                                | 3000  | 04    |
+| -- 力石徹の人形                 | Rikishi Toru doll                                          | 9800  | 04    |
+| -- ポケモンのデスクマット            | Pokemon desk mat                                           | 3600  | 04    |
+| -- 伊勢海老                   | Spiny lobster                                              | 15800 | 04    |
+| -- 掃除機                    | Vacuum cleaner                                             | 16000 | 04    |
+| -- 栃木トマト「桃太郎」             | Tochigi Tomato "Momotaro"                                  | 2500  | 04    |
+| -- ビクター14型カラーTV           | Victor 14-inch color TV                                    | 22000 | 04    |
+| -- サンスター 歯磨きセット           | Sunstar toothpaste set                                     | 400   | 04    |
 | ------------------------  |------------------------------------------------------------|-------|-------|
 | ビジネスシューズー                 | Business shoes                                             | 19800 | 05    |
 | バーベーキューコンロセット             | Barbecue stove set                                         | 5000  | 05    |
