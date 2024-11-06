@@ -181,7 +181,7 @@
 | キティとミミィのぬいぐるみ                 | Hello Kitty and Mimmy stuffed toys                             | 5       | 03          |             |       |
 | アーモンドミックスナッツセット               | Almond mixed nuts set                                          | 50      | 03          |             |       |
 | 野菜ジュース                        | Vegetable juice                                                | 100     | 03          |             |       |
-| マグカップ                         | Mug                                                            | 50      | 03          |             |       |
+| マグカップ                         | Mug                                                            | 50      | 03          | 05          | 0     |
 | 竹の子(福岡産2本)                    | Bamboo shoots (2 from Fukuoka)                                 | 50      | 03          |             |       |
 | 日本海の魚詰め合わせ                    | Assorted fish from the Sea of ​​Japan                          | 50      | 03          |             |       |
 | 現金100万円                       | 1 million yen in cash                                          | 50      | 03          |             |       |
@@ -197,7 +197,7 @@
 | MDコンポ                         | MD component                                                   | 1       | 03          |             |       |
 | 冷威庫一                          | Refrigerator                                                   | 1       | 03          |             |       |
 | コーヒーメーカー                      | Coffee maker                                                   | 1       | 03          |             |       |
-| 地球儀                           | Globe                                                          | 1       | 03          |             |       |
+| 地球儀                           | Globe                                                          | 1       | 03          | 05          | 9800  |
 | 天体望遠鏡                         | Telescope                                                      | 1       | 03          |             |       |
 | 手持望遠鏡                         | Handheld telescope                                             | 1       | 03          |             |       |
 | キティちゃんの鍋                      | Hello Kitty pot                                                | 1       | 03          |             |       |
@@ -284,7 +284,7 @@
 | 堂本光一、使用済のなべ・                  | Koichi Domoto, used pot                                        | 1       | 03          |             |       |
 | 大麦牛(ステーキ用850g)                | Barley beef (850g for steak)                                   | 50      | 03          | 03          | 3000  |
 | ステーキ用フライパン                    | Steak frying pan                                               | 50      | 03          |             |       |
-| フォークとナイフセット                   | Fork and knife set                                             | 50      | 03          |             |       |
+| フォークとナイフセット                   | Fork and knife set                                             | 50      | 03          | 05          | 20000 |
 | 辛子高菜                          | Mustard takana                                                 | 50      | 03          |             |       |
 | FAX                           | FAX                                                            | 50      | 03          |             |       |
 | ハンディーマッサージ「スーパーフィットくん」        | Handy massage "Super Fit-kun"                                  | 60      | 03          |             |       |
@@ -292,7 +292,7 @@
 | 掃除機                           | Vacuum cleaner                                                 | 10      | 03          | 04          | 16000 |
 | 毛動画(オレンジブラウン、アップルメイド、ハニーブラウン) | Hair video (orange brown, apple maid, honey brown)             | 51      | 03          |             |       |
 | 化粧品セット(UVカット製品他)              | Cosmetics set (UV cut products, etc.)                          | 50      | 03          |             |       |
-| ウィダーinゼリー(ポーチ付き)              | Weider in jelly (with pouch)                                   | 201     | 03          |             |       |
+| ウィダーinゼリー(ポーチ付き)              | Weider in jelly (with pouch)                                   | 201     | 03          | 05          | 1820  |
 | ポテトチップスセットー 52通               | Potato chips set - 52 letters                                  | 52      | 03          |             |       |
 | ストッキング(3点セット)・                | Stockings (3-piece set)                                        | 5       | 03          |             |       |
 | 栄養シリアル「イートシステム」               | Nutritional cereal "Eat System"                                | 50      | 03          |             |       |
@@ -317,7 +317,7 @@
 | 豪華客船10日間の旅                | 10-day luxury cruise                                                              | 1       | 04          |             |       |
 | ハワイ旅行                     | Trip to Hawaii                                                                    | 1       | 04          |             |       |
 | ナタデココヨーグルト(10個)           | Nata de coco yogurt (10 pieces)                                                   | 50      | 04          |             |       |
-| 納豆                        | Natto                                                                             | 50      | 04          |             |       |
+| 納豆                        | Natto                                                                             | 50      | 04          | 05          | 1800  |
 | 鍋 (直径20cm)                | Hot pot (20cm diameter)                                                           | 100     | 04          |             |       |
 | ウィダーinゼリー                 | Wheyder in jelly                                                                  | 100     | 04          |             |       |
 | テディベアのぬいぐるみ               | Teddy bear                                                                        | 5       | 04          |             |       |
@@ -327,7 +327,7 @@
 | スチームカーラー                  | Steam curler                                                                      | 10      | 04          |             |       |
 | BMWLOFアメリカOAギフトカード(10万円分) | BMW LOF America OA gift  card (100,000 yen)                                       | 50      | 04          |             |       |
 | チョコレート                    | Chocolate                                                                         | 100     | 04          |             |       |
-| ビジネスシューズ                  | Business shoes                                                                    | 10      | 04          |             |       |
+| ビジネスシューズ                  | Business shoes                                                                    | 10      | 04          | 05          | 19800 |
 | 歯みがきセット                   | Toothbrush set                                                                    | 157     | 04          |             |       |
 | 腕時計                       | Watch                                                                             | 40      | 04          |             |       |
 | CDプレイヤー                   | CD player                                                                         | 40      | 04          |             |       |
@@ -342,7 +342,7 @@
 | 海の幸セット                    | Seafood set                                                                       | 150     | 04          |             |       |
 | 松葉ガニ                      | Snow crab                                                                         | 50      | 04          |             |       |
 | 食器セット                     | Tableware set                                                                     | 50      | 04          |             |       |
-| 化粧品セット(マニキュア他)            | Cosmetics set (nail polish, etc.)                                                 | 50      | 04          |             |       |
+| 化粧品セット(マニキュア他)            | Cosmetics set (nail polish, etc.)                                                 | 50      | 04          | 05          | 25000 |
 | バランス栄養食「ハニックス・33バランス」     | Balanced nutritional food "Hanix 33 Balance"                                      | 50      | 04          |             |       |
 | 合鴨肉                       | Duck meat                                                                         | 50      | 04          |             |       |
 | 図書券 (3,000円分)             | Book voucher (3,000 yen)                                                          | 10      | 04          |             |       |
@@ -370,10 +370,10 @@
 | 電子手帳 「モバイルZ」              | Electronic organizer "Mobile Z"                                                   | 50      | 04          |             |       |
 | ネスカフェギフトセット               | Nescafe gift set                                                                  | 5       | 04          |             |       |
 | ロッテのガム                    | Lotte gum                                                                         | 50      | 04          |             |       |
-| 净水器                       | Water purifier                                                                    | 50      | 04          |             |       |
+| 净水器                       | Water purifier                                                                    | 50      | 04          | 05          | 15000 |
 | ティッシュペーパー                 | Tissue paper                                                                      | 100     | 04          |             |       |
 | テニスシューズ                   | Tennis shoes                                                                      | 50      | 04          |             |       |
-| 英会話レッスンチケット               | English conversation lesson ticket                                                | 1       | 04          |             |       |
+| 英会話レッスンチケット               | English conversation lesson ticket                                                | 1       | 04          | 05          | 10000 |
 | ポラロイドカメラ                  | Polaroid camera                                                                   | 50      | 04          |             |       |
 | ハンドバッグ                    | Handbag                                                                           | 50      | 04          |             |       |
 | 香水「フェラーリコロンウォーター」         | Ferrari Cologne Water perfume                                                     | 10      | 04          |             |       |
@@ -439,225 +439,226 @@
 | 干物詰め合わせ                   | Assortment of dried fish                                                          | 50      | 04          |             |       |
 | サーロインステーキ肉                | Sirloin steak meat                                                                | 50      | 04          |             |       |
 | 栃木のトマト                    | Tochigi tomatoes                                                                  | 50      | 04          | 04          | 2500  |
-| ドッグフードー                   | Dog food                                                                          | 225     | 04          |             |       |
+| ドッグフードー - Nama            | Dog food (raw)                                                                    | 225     | 04          | 05          | 3700  |
+| ドッグフードー - Dry             | Dog food (dry)                                                                    | ?       | 04          | 05          | 6400  |
 | キャットフード                   | Cat food                                                                          | 25      | 04          |             |       |
 
-| 日本語                            | English                                                           | Entries | Entry Month | Prize Month | JPY |
-|--------------------------------|-------------------------------------------------------------------|---------|-------------|-------------|-----|
-| 高級腕時計                          | Luxury watch                                                      | 72      | 05          |             |     |
-| キティちゃんのOR ピンクパンサーの通            | Hello Kitty OR Pink Panther                                       | 1       | 05          |             |     |
-| 電動シェーバー                        | Electric shaver                                                   | 2       | 05          |             |     |
-| 納豆                             | Natto                                                             | 50      | 05          |             |     |
-| ダイハツ「ストーリア」OR現金(10万円他)         | Daihatsu "Storia" OR cash (100,000 yen or more)                   | 30      | 05          |             |     |
-| ポテトスナック菓子                      | Potato snacks                                                     | 221     | 05          |             |     |
-| ゲームソフト「エヴァンゲリオン」               | Game software "Evangelion"                                        | 1       | 05          |             |     |
-| ディカプリオ写真集                      | DiCaprio photo book                                               | 1       | 05          |             |     |
-| ビデオ JUNONBOY 「雑菌俊明」「根本最大」      | Video JUNONBOY "Zakkin Shunmyo" "Nemoto Saikyo"                   | 2       | 05          |             |     |
-| 広末涼子フィギュア                      | Hirosue Ryoko figure                                              | 1       | 05          |             |     |
-| 広末涼子ノベルティバッグ                   | Hirosue Ryoko novelty bag                                         | 1       | 05          |             |     |
-| シャ乱 オリジナル鏡                     | Sharan original mirror                                            | 1       | 05          |             |     |
-| クッキーセット                        | Cookie set                                                        | 50      | 05          |             |     |
-| コンニャクスパゲティ                     | Konjac spaghetti                                                  | 50      | 05          |             |     |
-| 柏餅セット                          | Kashiwamochi set                                                  | 50      | 05          |             |     |
-| 富士通パソコン                        | Fujitsu computer                                                  | 30      | 05          |             |     |
-| パナソニックDVDプレーヤー                 | Panasonic DVD player                                              | 20      | 05          |             |     |
-| 東芝ワイドテレビ                       | Toshiba wide TV                                                   | 20      | 05          |             |     |
-| ケンウッドMDコンポ                     | Kenwood MD component                                              | 20      | 05          |             |     |
-| ソニーコードレス電話                     | Sony cordless phone                                               | 20      | 05          |             |     |
-| IBMノートパソコン                     | IBM notebook computer                                             | 20      | 05          |             |     |
-| 日立 電子手帳                        | Hitachi electronic organizer                                      | 20      | 05          |             |     |
-| NTTドコモ電子手帳                     | NTT Docomo electronic organizer                                   | 20      | 05          |             |     |
-| プラダリュック                        | Prada backpack                                                    | 1       | 05          |             |     |
-| 高級洋食器セット                       | Luxury Western tableware set                                      | 450     | 05          |             |     |
-| ステーキ肉                          | Steak meat                                                        | 50      | 05          |             |     |
-| 焼き海苔セット                        | Roasted seaweed set                                               | 1       | 05          |             |     |
-| 百科辞典 OR ネクタイ                   | Encyclopedia OR tie                                               | 1       | 05          |             |     |
-| うなぎの蒲焼き                        | Grilled eel                                                       | 50      | 05          |             |     |
-| 牛ロース肉の西京焼                      | Beef loin saikyoyaki                                              | 50      | 05          |             |     |
-| ビデオ「ワキガ治療法」                    | Video "Armpit odor treatment"                                     | 1       | 05          |             |     |
-| カップ                            | Cup                                                               | 124     | 05          |             |     |
-| くず餅                            | Kudzu mochi                                                       | 50      | 05          |             |     |
-| カミソリ シェービングクリーム                | Razor shaving cream                                               | 51      | 05          |             |     |
-| 仏ワールドカップ観戦ツアー                  | France World Cup viewing tour                                     | 151     | 05          |             |     |
-| 地中海旅行 (7日間) OAエプロン             | Mediterranean trip (7 days) OA apron                              | 50      | 05          |             |     |
-| 東京-札幌往復航空券                     | Tokyo-Sapporo round-trip air ticket                               | 20      | 05          |             |     |
-| ガンダム&キン肉マンのオモチャ                | Gundam & Kinnikuman toys                                          | 1       | 05          |             |     |
-| 日本海の魚詰合わせ                      | Assorted fish from the Sea of ​​Japan                             | 50      | 05          |             |     |
-| 真鍋一匹                           | Manabe Ippi                                                       | 50      | 05          |             |     |
-| ドッグフード各種                       | Various dog foods                                                 | 50      | 05          |             |     |
-| 象印・押すだけポット 「きゅうす」              | Zojirushi Press-only pot "Kyuusu"                                 | 5       | 05          |             |     |
-| ムワールドカップ記念ツアーDRデジタルビデオカメラ      | World Cup commemorative tour DR digital video camera              | 101     | 05          |             |     |
-| N.Y.ワシントンの旅 (88) OR ふとん        | New York Washington trip (88) OR futon                            | 50      | 05          |             |     |
-| タイ・エステの劇(8日OA セリーヌバックCA セリーヌ売  | Thai beauty salon drama (8th broadcast Celine bag CA Celine sales | 50      | 05          |             |     |
-| 日産「キューブ」                       | Nissan "Cube"                                                     | 50      | 05          |             |     |
-| ダイハツ「ミラ」                       | Daihatsu "Mira"                                                   | 50      | 05          |             |     |
-| ダイヤのネックレス(120万円)               | Diamond necklace (1.2 million yen)                                | 10      | 05          |             |     |
-| コクヨの机とイス                       | Kokuyo desk and chair                                             | 20      | 05          |             |     |
-| スプーンセット                        | Spoon set                                                         | 10      | 05          |             |     |
-| 野菜ジュース                         | Vegetable juice                                                   | 16      | 05          |             |     |
-| 東京湾クルージング招待券                   | Tokyo Bay cruise invitation ticket                                | 5       | 05          |             |     |
-| 栄養ドリンク「グロンサン」                  | Nutritional drink "Gronsan"                                       | 60      | 05          |             |     |
-| ペンダント(ムーンストーンORブルートパーズ)        | Pendant (moonstone OR blue topaz)                                 | 20      | 05          |             |     |
-| 電子レンジー                         | Microwave oven                                                    | 50      | 05          |             |     |
-| ゲームソフト「クレイマン・クレイマン」 PS         | Game software "Clayman Clayman" PS                                | 1       | 05          |             |     |
-| ゲームソフト「MYST」 PS版               | Game software "MYST" PS version                                   | 1       | 05          |             |     |
-| チーズの詰め合わせ                      | Assorted cheeses                                                  | 50      | 05          |             |     |
-| ビデオ「ロミオとジュリエット」                | Video "Romeo and Juliet"                                          | 1       | 05          |             |     |
-| ナタデココヨーグルト                     | Natadecoco yogurt                                                 | 50      | 05          |             |     |
-| 焼そば 「UFO」                      | Yakisoba "UFO"                                                    | 50      | 05          |             |     |
-| Power Mac OR GATE WAY2000-100L | Power Mac OR GATE WAY2000-100L                                    | 100     | 05          |             |     |
-| 日産「マーチ」購入資金50万円                | 500,000 yen to buy a Nissan March                                 | 5       | 05          |             |     |
-| UCギフトカード1万円分                   | 10,000 yen worth of UC gift cards                                 | 1       | 05          |             |     |
-| イタリアンレストラン「カ・テル・ボスコ」 食事券       | Ca'tel Bosco Italian restaurant meal tickets                      | 5       | 05          |             |     |
-| 広東料理店「廣州」食事券                   | Guangzhou Cantonese restaurant meal tickets                       | 5       | 05          |             |     |
-| ヨーグルト飲料                        | Yogurt drinks                                                     | 55      | 05          |             |     |
-| チョコレート                         | Chocolate                                                         | 200     | 05          |             |     |
-| JAL 香港往復航空券                    | JAL round trip Hong Kong air ticket                               | 10      | 05          |             |     |
-| アルプス電気プリンタ                     | Alps Electric printer                                             | 10      | 05          |             |     |
-| ダイハツ「MOVE」                     | Daihatsu MOVE                                                     | 20      | 05          |             |     |
-| 東芝ノートパソコン                      | Toshiba laptop                                                    | 20      | 05          |             |     |
-| 日立ワイドテレビ32型                    | Hitachi 32-inch widescreen TV                                     | 20      | 05          |             |     |
-| フィジー・マナ島の旅(5日間)                | Trip to Mana Island, Fiji (5 days)                                | 20      | 05          |             |     |
-| うどん詰め合わせ                       | Udon noodle assortment                                            | 60      | 05          |             |     |
-| ピクター ミニコンポ                     | Pictor mini component system                                      | 1       | 05          |             |     |
-| 温泉宿泊券                          | Hot spring accommodation tickets                                  | 3       | 05          |             |     |
-| ホンダ「Dio」                       | Honda Dio                                                         | 40      | 05          |             |     |
-| ケンウッド MDステレオー                  | Kenwood MD stereo                                                 | 10      | 05          |             |     |
-| シチズン腕時計                        | Citizen wristwatch                                                | 40      | 05          |             |     |
-| ニュージーランドの旅 (6日間)               | Trip to New Zealand (6 days)                                      | 10      | 05          |             |     |
-| トヨタ「スパシオ」                      | Toyota Spacio                                                     | 10      | 05          |             |     |
-| ハワイ OR N.Y.の旅                  | Trip to Hawaii OR N.Y.                                            | 20      | 05          |             |     |
-| 相田みつをの本「生きていてよかった」             | Mitsuo Aida's book "I'm glad to be alive"                         | 1       | 05          |             |     |
-| 本 「物凄い精力剤を見つけた!」               | Book "I found an amazing aphrodisiac!"                            | 1       | 05          |             |     |
-| シリアル食品セット                      | Cereal food set                                                   | 1       | 05          |             |     |
-| そば詰め合わせ                        | Soba noodle assortment                                            | 50      | 05          |             |     |
-| さくらんぼ                          | Cherries                                                          | 100     | 05          |             |     |
-| 栃木コシヒカリ「穂の香」 5kg               | Tochigi Koshihikari "Honoka" 5kg                                  | 360     | 05          |             |     |
-| まな板と包丁                         | Chopping board and knife                                          | 1       | 05          |             |     |
-| 鍋 (直径18cm)                     | Pot (18cm diameter)                                               | 50      | 05          |             |     |
-| 干物詰め合わせ                        | Assorted dried fish                                               | 100     | 05          |             |     |
-| チリ産ぶどう                         | Grapes from Chile                                                 | 150     | 05          |             |     |
-| リュックサック                        | Backpack                                                          | 1       | 05          |             |     |
-| アラスカ・オーロラ体験ツアー0A腕時計            | Alaska Aurora Experience Tour                                     | 50      | 05          |             |     |
-| ??? LAB ラスベガス旅行587BDA り        | ??? LAB Las Vegas trip                                            | 50      | 05          |             |     |
-| ハワイ旅行 4泊6日 OR アイスクリーム          | Hawaii trip 4 nights 6 days or ice cream                          | 50      | 05          |             |     |
-| パフィーのスニーカー (23.5cm)            | Puffy sneakers (23.5cm)                                           | 1       | 05          |             |     |
-| フィーのサイン入り写真シースサイン              | Phi's autographed photo sheath autograph                          | 1       | 05          |             |     |
-| 日産「ルキノ」                        | Nissan "Lucino"                                                   | 20      | 05          |             |     |
-| ルノー 「メガーヌ・セニック」                | Renault "Megane Scenic"                                           | 50      | 05          |             |     |
-| 桃のジュースー                        | Peach juice                                                       | 5       | 05          |             |     |
-| 寝顔美人マクラ                        | Beautiful sleeping face pillow                                    | 5       | 05          |             |     |
-| エステサロン優待券                      | Beauty salon coupon                                               | 5       | 05          |             |     |
-| ざくろ果実のジュース                     | Pomegranate juice                                                 | 5       | 05          |             |     |
-| クイーンアリス大使(1万6000円分)            | Queen Alice Ambassador (worth 16,000 yen)                         | 5       | 05          |             |     |
-| ハローキティー特製トースター                 | Hello Kitty special toaster                                       | 5       | 05          |             |     |
-| 後楽園ゆうえんちチケット                   | Korakuen Amusement Park ticket                                    | 5       | 05          |             |     |
-| あんみつセット                        | Anmitsu set                                                       | 105     | 05          |             |     |
-| ??? ALBA SPCON」OR「G-shock」-    | ??? ALBA SPCON" OR "G-shock"                                      | 7       | 05          |             |     |
-| モデルガン                          | Model gun                                                         | 5       | 05          |             |     |
-| 洗顔フォーム&バック・                    | Facial cleanser & bag                                             | 5       | 05          |             |     |
-| アメリカ旅行(大リーグ観戦&ハリウッド) 20通       | 20 US trips (watching major league games & Hollywood)             | 20      | 05          |             |     |
-| ラスベガス旅行3泊5日                    | 3 nights 5 days Las Vegas trip                                    | 5       | 05          |             |     |
-| フィギュア 岡部幸雄 騎手                  | Figure Yukio Okabe Jockey                                         | 1       | 05          |             |     |
-| 洋菓子                            | Western sweets                                                    | 120     | 05          |             |     |
-| 和菓子                            | Japanese sweets                                                   | 450     | 05          |             |     |
-| エメラルドの指輪                       | Emerald ring                                                      | 1       | 05          |             |     |
-| 婦入靴                            | Women's shoes                                                     | 1       | 05          |             |     |
-| ポータブルCDプレイヤー                   | Portable CD player                                                | 2       | 05          |             |     |
-| サングラス                          | Sunglasses                                                        | 21      | 05          |             |     |
-| 漬物詰め合わせ                        | Assorted pickles                                                  | 50      | 05          |             |     |
-| ローストビーフ                        | Roast beef                                                        | 50      | 05          |             |     |
-| 栃木トマト 「桃太郎」                    | Tochigi tomatoes "Momotaro"                                       | 50      | 05          |             |     |
-| らっきょう漬け                        | Pickled radishes                                                  | 50      | 05          |             |     |
-| バッグ                            | Bag                                                               | 1       | 05          |             |     |
-| リコー懐中時計                        | Ricoh pocket watch                                                | 5       | 05          |             |     |
-| ブルーベリーの缶詰                      | Canned blueberries                                                | 5       | 05          |             |     |
-| 藥用膏劑                           | Medicinal ointment                                                | 6       | 05          |             |     |
-| パナソニックMDプレーヤー                  | Panasonic MD player                                               | 1       | 05          |             |     |
-| 野球ゲーム (PS用)                    | Baseball game (for PS)                                            | 1       | 05          |             |     |
-| シャスナノベルティグッズ(ブラシ&調)            | Chuss Novelty goods (brushes & tones)                             | 1       | 05          |             |     |
-| ポラロイドカメラ&フィルム                  | Polaroid camera & film                                            | 20      | 05          |             |     |
-| NINTENDO64 & 野球ゲームソフト          | Nintendo 64 & baseball game software                              | 20      | 05          |             |     |
-| シルバー製ペンダント、ピアス、ブレスレット          | Silver pendants, earrings, bracelets                              | 20      | 05          |             |     |
-| 時計ベビーG OR データバンク他              | Watches BabyG OR Data Bank, etc.                                  | 22      | 05          |             |     |
-| 長山洋子コマ劇場公演チケット                 | Yoko Nagayama Koma Theater performance tickets                    | 1       | 05          |             |     |
-| ダイエット食品                        | Diet foods                                                        | 150     | 05          |             |     |
-| ハーブ栽培セット                       | Herb cultivation set                                              | 1       | 05          |             |     |
-| スニーカー (22cm~25cm)              | Sneakers (22cm~25cm)                                              | 1       | 05          |             |     |
-| オレンジ&マンゴジュース                   | Orange & mango juice                                              | 5       | 05          |             |     |
-| 東京ディズニーランド 15周年記念CD・           | Tokyo Disneyland 15th anniversary CD                              | 1       | 05          |             |     |
-| ミッキーマウスのビデオ5作品セット・             | Mickey Mouse video set of 5                                       | 1       | 05          |             |     |
-| LUNA SEAの鏡                     | LUNA SEA's mirror                                                 | 1       | 05          |             |     |
-| フィギュア「サンダーバード」8体セット            | Thunderbirds figure set of 8                                      | 1       | 05          |             |     |
-| マツダ「ロードスター」                    | Mazda Roadster                                                    | 50      | 05          |             |     |
-| 三菱「パジェロ」-                      | Mitsubishi Pajero -                                               | 50      | 05          |             |     |
-| ローバー「ミニクーパー」                   | Mini Cooper Rover                                                 | 50      | 05          |             |     |
-| フィギュア「ゴレンジャー」OR「ターミネーター」 20    | Goranger OR Terminator figure 20                                  | 20      | 05          |             |     |
-| タラコ                            | Tarako                                                            | 50      | 05          |             |     |
-| カステラ詰め合わせ                      | Assorted castella cakes                                           | 50      | 05          |             |     |
-| フルーツ&野菜ミックスジュース 50通            | 50 pieces of mixed fruit and vegetable juice                      | 50      | 05          |             |     |
-| カシオ電子手帳                        | Casio electronic organizer                                        | 1       | 05          |             |     |
-| 肩こり用湿布                         | Compress for stiff shoulders                                      | 5       | 05          |             |     |
-| ゲームソフト「G・ダライアス」 (PS用)          | Game software "G. Darius" (PS)                                    | 1       | 05          |             |     |
-| カーオーディオ                        | Car audio                                                         | 1       | 05          |             |     |
-| 冷 麺                            | Cold noodles                                                      | 50      | 05          |             |     |
-| ゼリー詰め合わせ                       | Assorted jellies                                                  | 50      | 05          |             |     |
-| 栃木のキュウリ(5kg)                   | Tochigi cucumbers (5kg)                                           | 50      | 05          |             |     |
-| 和菓子 「川越よふね」                    | Japanese sweets "Kawagoe Yofune"                                  | 50      | 05          |             |     |
-| 双眼鏡                            | Binoculars                                                        | 50      | 05          |             |     |
-| 自動翻訳機                          | Automatic translation machine                                     | 50      | 05          |             |     |
-| コクヨ オフィスチェアー                   | Kokuyo office chair                                               | 1       | 05          |             |     |
-| テレカ「安西ひろ子」                     | Telephone card "Anzai Hiroko"                                     | 1       | 05          |             |     |
-| スパイスガールス人形OR サッカーゲームソフト(PS)    | Spice Girls doll OR soccer game software (PS)                     | 1       | 05          |             |     |
-| マウンテンバイク                       | Mountain bike                                                     | 1       | 05          |             |     |
-| 広末涼子サイン入り写真ORカレンダー             | Signed photo of Hirosue Ryoko OR calendar                         | 1       | 05          |             |     |
-| 広末涼子 CD                        | Hirosue Ryoko CD                                                  | 1       | 05          |             |     |
-| ウニ                             | Sea urchin                                                        | 50      | 05          |             |     |
-| 米(10kg)                        | Rice (10kg)                                                       | 50      | 05          |             |     |
-| フライパン(直径24cm)                  | Frying pan (diameter 24cm)                                        | 1       | 05          |             |     |
-| 千草忠夫選集                         | Selected works of Chigusa Tadao                                   | 50      | 05          |             |     |
-| 写真集 「白鳥智香子」                    | Photo book "Shiratori Chikako"                                    | 1       | 05          |             |     |
-| ミントスナック                        | Mint snack                                                        | 1       | 05          |             |     |
-| フィギュア「エスメラルダ&海野広」              | Figure "Esmeralda & Umino Hiroshi"                                | 1       | 05          |             |     |
-| ハミガキ粉                          | Toothpaste                                                        | 10      | 05          |             |     |
-| ダイエット食品                        | Diet food                                                         | 51      | 05          |             |     |
-| デュポンのライター                      | DuPont lighter                                                    | 50      | 05          |             |     |
-| ダイヤの指輪                         | Diamond ring                                                      | 100     | 05          |             |     |
-| カメラ                            | Camera                                                            | 50      | 05          |             |     |
-| お茶                             | Tea                                                               | 1       | 05          |             |     |
-| オレンジジュース                       | Orange juice                                                      | 1       | 05          |             |     |
-| マウスウォッシュ「リステリン」                | Mouthwash "Listerine"                                             | 1       | 05          |             |     |
-| トマピー(15個)                      | Tomato peas (15 pieces)                                           | 50      | 05          |             |     |
-| 車海老(10)                        | Prawns (10)                                                       | 70      | 05          |             |     |
-| 近江牛ステーキ肉 (450g)                | Omi beef steak (450g)                                             | 50      | 05          |             |     |
-| 京都産松茸(200g)                    | Matsutake mushrooms from Kyoto (200g)                             | 150     | 05          |             |     |
-| 毛ガニ(2ハイ)                       | Hairy crab (2 high)                                               | 150     | 05          |             |     |
-| 反町隆史テレカ                        | Takashi Sorimachi phone card                                      | 1       | 05          |             |     |
-| CDプレイヤー「SHOCK WAVE」            | CD player "SHOCK WAVE"                                            | 1       | 05          |             |     |
-| 東京ヘイ「ブルーヘランダ」食事券 (4000円分)      | Tokyo Hey "Blue Helanda" meal ticket (4000 yen)                   | 1       | 05          |             |     |
-| ベネトン香水「ホットアンドゴールド」             | Benetton perfume "Hot and Gold"                                   | 1       | 05          |             |     |
-| フィギュア「エドワードシザーハンズ」             | Figure "Edward Scissorhands"                                      | 1       | 05          |             |     |
-| ナイキ OR バーバリーの財布                | Nike OR Burberry wallet                                           | 1       | 05          |             |     |
-| マスクメロン(2玉)                     | Musk melon (2 pieces)                                             | 50      | 05          |             |     |
-| 沖縄往復航空券 OR テレカ                 | Round-trip ticket to Okinawa OR phone card                        | 50      | 05          |             |     |
-| カーナビゲーション                      | Car navigation                                                    | 50      | 05          |             |     |
-| バッグ(カルティエORグッチ)                | Bag (Cartier OR Gucci)                                            | 50      | 05          |             |     |
-| ゲームソフト「ハロック」OR「シャイニングフォース(SS)  | Game software "Harlock" OR "Shining Force (SS)                    | 1       | 05          |             |     |
-| 藤崎奈々子テレカー                      | Fujisaki Nanako phone card                                        | 1       | 05          |             |     |
-| ???? JINRO GARDEN」食事券(3000円分)  | ???? JINRO GARDEN" meal ticket (3000 yen)                         | 1       | 05          |             |     |
-| NINTENDO64                     | Nintendo 64                                                       | 1       | 05          |             |     |
-| パソコン用ターミナルアダプタ                 | PC terminal adapter                                               | 1       | 05          |             |     |
-| ヴァレンティノのクッション                  | Valentino cushion                                                 | 1       | 05          |             |     |
-| カルティエの指輪                       | Cartier ring                                                      | 50      | 05          |             |     |
-| フルカリのネックレス                     | Fulcari necklace                                                  | 50      | 05          |             |     |
-| テレビ電話                          | Videophone                                                        | 5       | 05          |             |     |
-| ソファ&テーブル                       | Sofa & table                                                      | 5       | 05          |             |     |
-| デジタルカメラ&プリンター                  | Digital camera & printer                                          | 5       | 05          |             |     |
-| ワイドテレビ&CSチューナー                 | Wide-screen TV & CS tuner                                         | 5       | 05          |             |     |
-| ミニコンポ & 商品券3万円分                | Mini component system & 30,000 yen gift certificate               | 5       | 05          |             |     |
-| スキードーム 「ザウス」 1日券               | Ski Dome "Zeus" 1-day ticket                                      | 1       | 05          |             |     |
-| 広末涼子テレカ                        | Hirosue Ryoko phone card                                          | 2       | 05          |             |     |
-| 広末涼子ポスター                       | Hirosue Ryoko poster                                              | 8       | 05          |             |     |
+| 日本語                            | English                                                           | Entries | Entry Month | Prize Month | JPY  |
+|--------------------------------|-------------------------------------------------------------------|---------|-------------|-------------|------|
+| 高級腕時計                          | Luxury watch                                                      | 72      | 05          |             |      |
+| キティちゃんのOR ピンクパンサーの通            | Hello Kitty OR Pink Panther                                       | 1       | 05          |             |      |
+| 電動シェーバー                        | Electric shaver                                                   | 2       | 05          |             |      |
+| 納豆                             | Natto                                                             | 50      | 05          |             |      |
+| ダイハツ「ストーリア」OR現金(10万円他)         | Daihatsu "Storia" OR cash (100,000 yen or more)                   | 30      | 05          |             |      |
+| ポテトスナック菓子                      | Potato snacks                                                     | 221     | 05          |             |      |
+| ゲームソフト「エヴァンゲリオン」               | Game software "Evangelion"                                        | 1       | 05          |             |      |
+| ディカプリオ写真集                      | DiCaprio photo book                                               | 1       | 05          |             |      |
+| ビデオ JUNONBOY 「雑菌俊明」「根本最大」      | Video JUNONBOY "Zakkin Shunmyo" "Nemoto Saikyo"                   | 2       | 05          |             |      |
+| 広末涼子フィギュア                      | Hirosue Ryoko figure                                              | 1       | 05          |             |      |
+| 広末涼子ノベルティバッグ                   | Hirosue Ryoko novelty bag                                         | 1       | 05          |             |      |
+| シャ乱 オリジナル鏡                     | Sharan original mirror                                            | 1       | 05          |             |      |
+| クッキーセット                        | Cookie set                                                        | 50      | 05          |             |      |
+| コンニャクスパゲティ                     | Konjac spaghetti                                                  | 50      | 05          |             |      |
+| 柏餅セット                          | Kashiwamochi set                                                  | 50      | 05          |             |      |
+| 富士通パソコン                        | Fujitsu computer                                                  | 30      | 05          |             |      |
+| パナソニックDVDプレーヤー                 | Panasonic DVD player                                              | 20      | 05          |             |      |
+| 東芝ワイドテレビ                       | Toshiba wide TV                                                   | 20      | 05          |             |      |
+| ケンウッドMDコンポ                     | Kenwood MD component                                              | 20      | 05          |             |      |
+| ソニーコードレス電話                     | Sony cordless phone                                               | 20      | 05          |             |      |
+| IBMノートパソコン                     | IBM notebook computer                                             | 20      | 05          |             |      |
+| 日立 電子手帳                        | Hitachi electronic organizer                                      | 20      | 05          |             |      |
+| NTTドコモ電子手帳                     | NTT Docomo electronic organizer                                   | 20      | 05          |             |      |
+| プラダリュック                        | Prada backpack                                                    | 1       | 05          |             |      |
+| 高級洋食器セット                       | Luxury Western tableware set                                      | 450     | 05          |             |      |
+| ステーキ肉                          | Steak meat                                                        | 50      | 05          |             |      |
+| 焼き海苔セット                        | Roasted seaweed set                                               | 1       | 05          |             |      |
+| 百科辞典 OR ネクタイ                   | Encyclopedia OR tie                                               | 1       | 05          |             |      |
+| うなぎの蒲焼き                        | Grilled eel                                                       | 50      | 05          |             |      |
+| 牛ロース肉の西京焼                      | Beef loin saikyoyaki                                              | 50      | 05          |             |      |
+| ビデオ「ワキガ治療法」                    | Video "Armpit odor treatment"                                     | 1       | 05          |             |      |
+| カップ                            | Cup                                                               | 124     | 05          |             |      |
+| くず餅                            | Kudzu mochi                                                       | 50      | 05          |             |      |
+| カミソリ シェービングクリーム                | Razor shaving cream                                               | 51      | 05          |             |      |
+| 仏ワールドカップ観戦ツアー                  | France World Cup viewing tour                                     | 151     | 05          |             |      |
+| 地中海旅行 (7日間) OAエプロン             | Mediterranean trip (7 days) OA apron                              | 50      | 05          |             |      |
+| 東京-札幌往復航空券                     | Tokyo-Sapporo round-trip air ticket                               | 20      | 05          |             |      |
+| ガンダム&キン肉マンのオモチャ                | Gundam & Kinnikuman toys                                          | 1       | 05          |             |      |
+| 日本海の魚詰合わせ                      | Assorted fish from the Sea of ​​Japan                             | 50      | 05          |             |      |
+| 真鍋一匹                           | Manabe Ippi                                                       | 50      | 05          |             |      |
+| ドッグフード各種                       | Various dog foods                                                 | 50      | 05          |             |      |
+| 象印・押すだけポット 「きゅうす」              | Zojirushi Press-only pot "Kyuusu"                                 | 5       | 05          |             |      |
+| ムワールドカップ記念ツアーDRデジタルビデオカメラ      | World Cup commemorative tour DR digital video camera              | 101     | 05          |             |      |
+| N.Y.ワシントンの旅 (88) OR ふとん        | New York Washington trip (88) OR futon                            | 50      | 05          |             |      |
+| タイ・エステの劇(8日OA セリーヌバックCA セリーヌ売  | Thai beauty salon drama (8th broadcast Celine bag CA Celine sales | 50      | 05          |             |      |
+| 日産「キューブ」                       | Nissan "Cube"                                                     | 50      | 05          |             |      |
+| ダイハツ「ミラ」                       | Daihatsu "Mira"                                                   | 50      | 05          |             |      |
+| ダイヤのネックレス(120万円)               | Diamond necklace (1.2 million yen)                                | 10      | 05          |             |      |
+| コクヨの机とイス                       | Kokuyo desk and chair                                             | 20      | 05          |             |      |
+| スプーンセット                        | Spoon set                                                         | 10      | 05          |             |      |
+| 野菜ジュース                         | Vegetable juice                                                   | 16      | 05          |             |      |
+| 東京湾クルージング招待券                   | Tokyo Bay cruise invitation ticket                                | 5       | 05          |             |      |
+| 栄養ドリンク「グロンサン」                  | Nutritional drink "Gronsan"                                       | 60      | 05          |             |      |
+| ペンダント(ムーンストーンORブルートパーズ)        | Pendant (moonstone OR blue topaz)                                 | 20      | 05          |             |      |
+| 電子レンジー                         | Microwave oven                                                    | 50      | 05          |             |      |
+| ゲームソフト「クレイマン・クレイマン」 PS         | Game software "Clayman Clayman" PS                                | 1       | 05          |             |      |
+| ゲームソフト「MYST」 PS版               | Game software "MYST" PS version                                   | 1       | 05          |             |      |
+| チーズの詰め合わせ                      | Assorted cheeses                                                  | 50      | 05          |             |      |
+| ビデオ「ロミオとジュリエット」                | Video "Romeo and Juliet"                                          | 1       | 05          |             |      |
+| ナタデココヨーグルト                     | Natadecoco yogurt                                                 | 50      | 05          |             |      |
+| 焼そば 「UFO」                      | Yakisoba "UFO"                                                    | 50      | 05          |             |      |
+| Power Mac OR GATE WAY2000-100L | Power Mac OR GATE WAY2000-100L                                    | 100     | 05          |             |      |
+| 日産「マーチ」購入資金50万円                | 500,000 yen to buy a Nissan March                                 | 5       | 05          |             |      |
+| UCギフトカード1万円分                   | 10,000 yen worth of UC gift cards                                 | 1       | 05          |             |      |
+| イタリアンレストラン「カ・テル・ボスコ」 食事券       | Ca'tel Bosco Italian restaurant meal tickets                      | 5       | 05          |             |      |
+| 広東料理店「廣州」食事券                   | Guangzhou Cantonese restaurant meal tickets                       | 5       | 05          |             |      |
+| ヨーグルト飲料                        | Yogurt drinks                                                     | 55      | 05          |             |      |
+| チョコレート                         | Chocolate                                                         | 200     | 05          |             |      |
+| JAL 香港往復航空券                    | JAL round trip Hong Kong air ticket                               | 10      | 05          |             |      |
+| アルプス電気プリンタ                     | Alps Electric printer                                             | 10      | 05          |             |      |
+| ダイハツ「MOVE」                     | Daihatsu MOVE                                                     | 20      | 05          |             |      |
+| 東芝ノートパソコン                      | Toshiba laptop                                                    | 20      | 05          |             |      |
+| 日立ワイドテレビ32型                    | Hitachi 32-inch widescreen TV                                     | 20      | 05          |             |      |
+| フィジー・マナ島の旅(5日間)                | Trip to Mana Island, Fiji (5 days)                                | 20      | 05          |             |      |
+| うどん詰め合わせ                       | Udon noodle assortment                                            | 60      | 05          |             |      |
+| ピクター ミニコンポ                     | Pictor mini component system                                      | 1       | 05          |             |      |
+| 温泉宿泊券                          | Hot spring accommodation tickets                                  | 3       | 05          |             |      |
+| ホンダ「Dio」                       | Honda Dio                                                         | 40      | 05          |             |      |
+| ケンウッド MDステレオー                  | Kenwood MD stereo                                                 | 10      | 05          |             |      |
+| シチズン腕時計                        | Citizen wristwatch                                                | 40      | 05          |             |      |
+| ニュージーランドの旅 (6日間)               | Trip to New Zealand (6 days)                                      | 10      | 05          |             |      |
+| トヨタ「スパシオ」                      | Toyota Spacio                                                     | 10      | 05          |             |      |
+| ハワイ OR N.Y.の旅                  | Trip to Hawaii OR N.Y.                                            | 20      | 05          |             |      |
+| 相田みつをの本「生きていてよかった」             | Mitsuo Aida's book "I'm glad to be alive"                         | 1       | 05          |             |      |
+| 本 「物凄い精力剤を見つけた!」               | Book "I found an amazing aphrodisiac!"                            | 1       | 05          |             |      |
+| シリアル食品セット                      | Cereal food set                                                   | 1       | 05          |             |      |
+| そば詰め合わせ                        | Soba noodle assortment                                            | 50      | 05          |             |      |
+| さくらんぼ                          | Cherries                                                          | 100     | 05          |             |      |
+| 栃木コシヒカリ「穂の香」 5kg               | Tochigi Koshihikari "Honoka" 5kg                                  | 360     | 05          |             |      |
+| まな板と包丁                         | Chopping board and knife                                          | 1       | 05          |             |      |
+| 鍋 (直径18cm)                     | Pot (18cm diameter)                                               | 50      | 05          |             |      |
+| 干物詰め合わせ                        | Assorted dried fish                                               | 100     | 05          |             |      |
+| チリ産ぶどう                         | Grapes from Chile                                                 | 150     | 05          |             |      |
+| リュックサック                        | Backpack                                                          | 1       | 05          |             |      |
+| アラスカ・オーロラ体験ツアー0A腕時計            | Alaska Aurora Experience Tour                                     | 50      | 05          |             |      |
+| ??? LAB ラスベガス旅行587BDA り        | ??? LAB Las Vegas trip                                            | 50      | 05          |             |      |
+| ハワイ旅行 4泊6日 OR アイスクリーム          | Hawaii trip 4 nights 6 days or ice cream                          | 50      | 05          |             |      |
+| パフィーのスニーカー (23.5cm)            | Puffy sneakers (23.5cm)                                           | 1       | 05          |             |      |
+| フィーのサイン入り写真シースサイン              | Phi's autographed photo sheath autograph                          | 1       | 05          |             |      |
+| 日産「ルキノ」                        | Nissan "Lucino"                                                   | 20      | 05          |             |      |
+| ルノー 「メガーヌ・セニック」                | Renault "Megane Scenic"                                           | 50      | 05          |             |      |
+| 桃のジュースー                        | Peach juice                                                       | 5       | 05          |             |      |
+| 寝顔美人マクラ                        | Beautiful sleeping face pillow                                    | 5       | 05          |             |      |
+| エステサロン優待券                      | Beauty salon coupon                                               | 5       | 05          |             |      |
+| ざくろ果実のジュース                     | Pomegranate juice                                                 | 5       | 05          |             |      |
+| クイーンアリス大使(1万6000円分)            | Queen Alice Ambassador (worth 16,000 yen)                         | 5       | 05          |             |      |
+| ハローキティー特製トースター                 | Hello Kitty special toaster                                       | 5       | 05          |             |      |
+| 後楽園ゆうえんちチケット                   | Korakuen Amusement Park ticket                                    | 5       | 05          |             |      |
+| あんみつセット                        | Anmitsu set                                                       | 105     | 05          |             |      |
+| ??? ALBA SPCON」OR「G-shock」-    | ??? ALBA SPCON" OR "G-shock"                                      | 7       | 05          |             |      |
+| モデルガン                          | Model gun                                                         | 5       | 05          |             |      |
+| 洗顔フォーム&バック・                    | Facial cleanser & bag                                             | 5       | 05          |             |      |
+| アメリカ旅行(大リーグ観戦&ハリウッド) 20通       | 20 US trips (watching major league games & Hollywood)             | 20      | 05          |             |      |
+| ラスベガス旅行3泊5日                    | 3 nights 5 days Las Vegas trip                                    | 5       | 05          |             |      |
+| フィギュア 岡部幸雄 騎手                  | Figure Yukio Okabe Jockey                                         | 1       | 05          |             |      |
+| 洋菓子                            | Western sweets                                                    | 120     | 05          |             |      |
+| 和菓子                            | Japanese sweets                                                   | 450     | 05          |             |      |
+| エメラルドの指輪                       | Emerald ring                                                      | 1       | 05          |             |      |
+| 婦入靴                            | Women's shoes                                                     | 1       | 05          |             |      |
+| ポータブルCDプレイヤー                   | Portable CD player                                                | 2       | 05          |             |      |
+| サングラス                          | Sunglasses                                                        | 21      | 05          |             |      |
+| 漬物詰め合わせ                        | Assorted pickles                                                  | 50      | 05          |             |      |
+| ローストビーフ                        | Roast beef                                                        | 50      | 05          |             |      |
+| 栃木トマト 「桃太郎」                    | Tochigi tomatoes "Momotaro"                                       | 50      | 05          |             |      |
+| らっきょう漬け                        | Pickled radishes                                                  | 50      | 05          |             |      |
+| バッグ                            | Bag                                                               | 1       | 05          |             |      |
+| リコー懐中時計                        | Ricoh pocket watch                                                | 5       | 05          |             |      |
+| ブルーベリーの缶詰                      | Canned blueberries                                                | 5       | 05          |             |      |
+| 藥用膏劑                           | Medicinal ointment                                                | 6       | 05          |             |      |
+| パナソニックMDプレーヤー                  | Panasonic MD player                                               | 1       | 05          |             |      |
+| 野球ゲーム (PS用)                    | Baseball game (for PS)                                            | 1       | 05          |             |      |
+| シャスナノベルティグッズ(ブラシ&調)            | Chuss Novelty goods (brushes & tones)                             | 1       | 05          |             |      |
+| ポラロイドカメラ&フィルム                  | Polaroid camera & film                                            | 20      | 05          |             |      |
+| NINTENDO64 & 野球ゲームソフト          | Nintendo 64 & baseball game software                              | 20      | 05          |             |      |
+| シルバー製ペンダント、ピアス、ブレスレット          | Silver pendants, earrings, bracelets                              | 20      | 05          |             |      |
+| 時計ベビーG OR データバンク他              | Watches BabyG OR Data Bank, etc.                                  | 22      | 05          |             |      |
+| 長山洋子コマ劇場公演チケット                 | Yoko Nagayama Koma Theater performance tickets                    | 1       | 05          |             |      |
+| ダイエット食品                        | Diet foods                                                        | 150     | 05          | 05          | 2640 |
+| ハーブ栽培セット                       | Herb cultivation set                                              | 1       | 05          |             |      |
+| スニーカー (22cm~25cm)              | Sneakers (22cm~25cm)                                              | 1       | 05          |             |      |
+| オレンジ&マンゴジュース                   | Orange & mango juice                                              | 5       | 05          |             |      |
+| 東京ディズニーランド 15周年記念CD・           | Tokyo Disneyland 15th anniversary CD                              | 1       | 05          |             |      |
+| ミッキーマウスのビデオ5作品セット・             | Mickey Mouse video set of 5                                       | 1       | 05          |             |      |
+| LUNA SEAの鏡                     | LUNA SEA's mirror                                                 | 1       | 05          |             |      |
+| フィギュア「サンダーバード」8体セット            | Thunderbirds figure set of 8                                      | 1       | 05          |             |      |
+| マツダ「ロードスター」                    | Mazda Roadster                                                    | 50      | 05          |             |      |
+| 三菱「パジェロ」-                      | Mitsubishi Pajero -                                               | 50      | 05          |             |      |
+| ローバー「ミニクーパー」                   | Mini Cooper Rover                                                 | 50      | 05          |             |      |
+| フィギュア「ゴレンジャー」OR「ターミネーター」 20    | Goranger OR Terminator figure 20                                  | 20      | 05          |             |      |
+| タラコ                            | Tarako                                                            | 50      | 05          |             |      |
+| カステラ詰め合わせ                      | Assorted castella cakes                                           | 50      | 05          |             |      |
+| フルーツ&野菜ミックスジュース 50通            | 50 pieces of mixed fruit and vegetable juice                      | 50      | 05          |             |      |
+| カシオ電子手帳                        | Casio electronic organizer                                        | 1       | 05          |             |      |
+| 肩こり用湿布                         | Compress for stiff shoulders                                      | 5       | 05          |             |      |
+| ゲームソフト「G・ダライアス」 (PS用)          | Game software "G. Darius" (PS)                                    | 1       | 05          |             |      |
+| カーオーディオ                        | Car audio                                                         | 1       | 05          |             |      |
+| 冷 麺                            | Cold noodles                                                      | 50      | 05          |             |      |
+| ゼリー詰め合わせ                       | Assorted jellies                                                  | 50      | 05          |             |      |
+| 栃木のキュウリ(5kg)                   | Tochigi cucumbers (5kg)                                           | 50      | 05          |             |      |
+| 和菓子 「川越よふね」                    | Japanese sweets "Kawagoe Yofune"                                  | 50      | 05          |             |      |
+| 双眼鏡                            | Binoculars                                                        | 50      | 05          |             |      |
+| 自動翻訳機                          | Automatic translation machine                                     | 50      | 05          |             |      |
+| コクヨ オフィスチェアー                   | Kokuyo office chair                                               | 1       | 05          |             |      |
+| テレカ「安西ひろ子」                     | Telephone card "Anzai Hiroko"                                     | 1       | 05          |             |      |
+| スパイスガールス人形OR サッカーゲームソフト(PS)    | Spice Girls doll OR soccer game software (PS)                     | 1       | 05          |             |      |
+| マウンテンバイク                       | Mountain bike                                                     | 1       | 05          |             |      |
+| 広末涼子サイン入り写真ORカレンダー             | Signed photo of Hirosue Ryoko OR calendar                         | 1       | 05          |             |      |
+| 広末涼子 CD                        | Hirosue Ryoko CD                                                  | 1       | 05          |             |      |
+| ウニ                             | Sea urchin                                                        | 50      | 05          |             |      |
+| 米(10kg)                        | Rice (10kg)                                                       | 50      | 05          | 05          | 5800 |
+| フライパン(直径24cm)                  | Frying pan (diameter 24cm)                                        | 1       | 05          |             |      |
+| 千草忠夫選集                         | Selected works of Chigusa Tadao                                   | 50      | 05          |             |      |
+| 写真集 「白鳥智香子」                    | Photo book "Shiratori Chikako"                                    | 1       | 05          |             |      |
+| ミントスナック                        | Mint snack                                                        | 1       | 05          |             |      |
+| フィギュア「エスメラルダ&海野広」              | Figure "Esmeralda & Umino Hiroshi"                                | 1       | 05          |             |      |
+| ハミガキ粉                          | Toothpaste                                                        | 10      | 05          |             |      |
+| ダイエット食品                        | Diet food                                                         | 51      | 05          |             |      |
+| デュポンのライター                      | DuPont lighter                                                    | 50      | 05          |             |      |
+| ダイヤの指輪                         | Diamond ring                                                      | 100     | 05          |             |      |
+| カメラ                            | Camera                                                            | 50      | 05          |             |      |
+| お茶                             | Tea                                                               | 1       | 05          |             |      |
+| オレンジジュース                       | Orange juice                                                      | 1       | 05          |             |      |
+| マウスウォッシュ「リステリン」                | Mouthwash "Listerine"                                             | 1       | 05          |             |      |
+| トマピー(15個)                      | Tomato peas (15 pieces)                                           | 50      | 05          |             |      |
+| 車海老(10)                        | Prawns (10)                                                       | 70      | 05          |             |      |
+| 近江牛ステーキ肉 (450g)                | Omi beef steak (450g)                                             | 50      | 05          |             |      |
+| 京都産松茸(200g)                    | Matsutake mushrooms from Kyoto (200g)                             | 150     | 05          |             |      |
+| 毛ガニ(2ハイ)                       | Hairy crab (2 high)                                               | 150     | 05          |             |      |
+| 反町隆史テレカ                        | Takashi Sorimachi phone card                                      | 1       | 05          |             |      |
+| CDプレイヤー「SHOCK WAVE」            | CD player "SHOCK WAVE"                                            | 1       | 05          |             |      |
+| 東京ヘイ「ブルーヘランダ」食事券 (4000円分)      | Tokyo Hey "Blue Helanda" meal ticket (4000 yen)                   | 1       | 05          |             |      |
+| ベネトン香水「ホットアンドゴールド」             | Benetton perfume "Hot and Gold"                                   | 1       | 05          |             |      |
+| フィギュア「エドワードシザーハンズ」             | Figure "Edward Scissorhands"                                      | 1       | 05          |             |      |
+| ナイキ OR バーバリーの財布                | Nike OR Burberry wallet                                           | 1       | 05          |             |      |
+| マスクメロン(2玉)                     | Musk melon (2 pieces)                                             | 50      | 05          |             |      |
+| 沖縄往復航空券 OR テレカ                 | Round-trip ticket to Okinawa OR phone card                        | 50      | 05          |             |      |
+| カーナビゲーション                      | Car navigation                                                    | 50      | 05          |             |      |
+| バッグ(カルティエORグッチ)                | Bag (Cartier OR Gucci)                                            | 50      | 05          |             |      |
+| ゲームソフト「ハロック」OR「シャイニングフォース(SS)  | Game software "Harlock" OR "Shining Force (SS)                    | 1       | 05          |             |      |
+| 藤崎奈々子テレカー                      | Fujisaki Nanako phone card                                        | 1       | 05          |             |      |
+| ???? JINRO GARDEN」食事券(3000円分)  | ???? JINRO GARDEN" meal ticket (3000 yen)                         | 1       | 05          |             |      |
+| NINTENDO64                     | Nintendo 64                                                       | 1       | 05          |             |      |
+| パソコン用ターミナルアダプタ                 | PC terminal adapter                                               | 1       | 05          |             |      |
+| ヴァレンティノのクッション                  | Valentino cushion                                                 | 1       | 05          |             |      |
+| カルティエの指輪                       | Cartier ring                                                      | 50      | 05          |             |      |
+| フルカリのネックレス                     | Fulcari necklace                                                  | 50      | 05          |             |      |
+| テレビ電話                          | Videophone                                                        | 5       | 05          |             |      |
+| ソファ&テーブル                       | Sofa & table                                                      | 5       | 05          |             |      |
+| デジタルカメラ&プリンター                  | Digital camera & printer                                          | 5       | 05          |             |      |
+| ワイドテレビ&CSチューナー                 | Wide-screen TV & CS tuner                                         | 5       | 05          |             |      |
+| ミニコンポ & 商品券3万円分                | Mini component system & 30,000 yen gift certificate               | 5       | 05          |             |      |
+| スキードーム 「ザウス」 1日券               | Ski Dome "Zeus" 1-day ticket                                      | 1       | 05          |             |      |
+| 広末涼子テレカ                        | Hirosue Ryoko phone card                                          | 2       | 05          |             |      |
+| 広末涼子ポスター                       | Hirosue Ryoko poster                                              | 8       | 05          |             |      |
 
 | 日本語                         | English                                                     | Entries | Entry Month | Prize Month | JPY |
 |-----------------------------|-------------------------------------------------------------|---------|-------------|-------------|-----|

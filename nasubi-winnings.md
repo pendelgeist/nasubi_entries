@@ -33,20 +33,20 @@
 | -- ビクター14型カラーTV           | Victor 14-inch color TV                                    | 22000 | 04    |
 | -- サンスター 歯磨きセット           | Sunstar toothpaste set                                     | 400   | 04    |
 | ------------------------  |------------------------------------------------------------|-------|-------|
-| ビジネスシューズー                 | Business shoes                                             | 19800 | 05    |
+| -- ビジネスシューズー              | Business shoes                                             | 19800 | 05    |
 | バーベーキューコンロセット             | Barbecue stove set                                         | 5000  | 05    |
-| 地球儀                       | Globe                                                      | 9800  | 05    |
-| 英会話レッスンチケット               | English conversation lesson ticket                         | 10000 | 05    |
-| ドッグフード (生タイプ)             | Dog food (raw type)                                        | 3700  | 05    |
-| ドッグフード(ドライタイプ)            | Dog food (dry type)                                        | 6400  | 05    |
-| 納豆(26食分)                  | Natto (26 servings)                                        | 1800  | 05    |
-| フルーツゼリー(12個)              | Fruit jelly (12 pieces)                                    | 1820  | 05    |
-| 化粧品セット                    | Cosmetics set                                              | 25000 | 05    |
-| 浄水器トレビーノ                  | Treyvino water purifier                                    | 15000 | 05    |
-| マグカップ映画「デイライト」ノベルティー      | Mug "Daylight" movie novelty                               | 0     | 05    |
-| ダイエット健康茶(24缶)             | Diet health tea (24 cans)                                  | 2640  | 05    |
-| 高級洋食器 フォーク・スプーンセット        | Luxury Western tableware fork and spoon set                | 20000 | 05    |
-| 新潟産コシヒカリ(10kg)            | Niigata Koshihikari rice (10kg)                            | 5800  | 05    |
+| -- 地球儀                    | Globe                                                      | 9800  | 05    |
+| -- 英会話レッスンチケット            | English conversation lesson ticket                         | 10000 | 05    |
+| -- ドッグフード (生タイプ)          | Dog food (raw type)                                        | 3700  | 05    |
+| -- ドッグフード(ドライタイプ)         | Dog food (dry type)                                        | 6400  | 05    |
+| -- 納豆(26食分)               | Natto (26 servings)                                        | 1800  | 05    |
+| -- フルーツゼリー(12個)           | Fruit jelly (12 pieces)                                    | 1820  | 05    |
+| -- 化粧品セット                 | Cosmetics set                                              | 25000 | 05    |
+| -- 浄水器トレビーノ               | Treyvino water purifier                                    | 15000 | 05    |
+| -- マグカップ映画「デイライト」ノベルティー   | Mug "Daylight" movie novelty                               | 0     | 05    |
+| -- ダイエット健康茶(24缶)          | Diet health tea (24 cans)                                  | 2640  | 05    |
+| -- 高級洋食器 フォーク・スプーンセット     | Luxury Western tableware fork and spoon set                | 20000 | 05    |
+| -- 新潟産コシヒカリ(10kg)         | Niigata Koshihikari rice (10kg)                            | 5800  | 05    |
 | ------------------------  |------------------------------------------------------------|-------|-------|
 | アイスクリーム (24カップ)           | Ice cream (24 cups)                                        | 3000  | 06    |
 | 国産合鴨肉 (750g)              | Domestic duck meat (750g)                                  | 3500  | 06    |
