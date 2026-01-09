@@ -74,7 +74,7 @@ makes him look like the bad guy from ghost and goblins.
 ---
 
 ### Roll Over and Die
-**"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo ...**
+**Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo ...**
 
 The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats. And screens and
