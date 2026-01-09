@@ -5,7 +5,7 @@
 ---
 
 ### Jack-of-All-Trades, Party of None
-**Yuusha Party wo Oidasareta Kiyoubinbou**
+**勇者パーティを追い出された器用貧乏**
 
 First show of the season, I'm a minute and twenty seconds into it, and I'm already giving this four out of five Kirito's
 and four out of five Status Screen Overlays. Correction I'm going up this to five out of five for both of those so it's
@@ -16,7 +16,7 @@ a perfect show to start this season.
 ---
 
 ### The Demon King's Daughter Is Too Kind!!
-**Maou no Musume wa Yasashisugiru!!**
+**魔王の娘は優しすぎる!!**
 
 I mean I guess this show is fine? It's nothing special. The title of the show tells you the entire plot of the show.
 Nothing of here. Maybe the Manga is fine.
@@ -26,7 +26,7 @@ Nothing of here. Maybe the Manga is fine.
 ---
 
 ### Wash It All Away
-**Kirei ni Shitemoraemasu ka.**
+**綺麗にしてもらえますか。**
 
 They made a show about someone who is running a one person laundry shop in Atami which is down slightly south outside of
 Tokyo. it's actually kind of charming and kind of cool cause you get to see some more technical details of doing laundry
@@ -37,7 +37,7 @@ and I don't hate the first 8 minutes of it.
 ---
 
 ### There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her
-**Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.**
+**勇者パーティーにかわいい子がいたので、告白してみた。**
 
 I don't even know what the point of this is. The art is just atrociously bad, they apply all these dumb filters on top
 of everything, it's it's really really low quality. Why bother it's not like there's anything that's super special about
@@ -49,7 +49,7 @@ were gonna get to something that was a hook beyond the literally the title of th
 ---
 
 ### You Can't Be In a Rom-Com with Your Childhood Friends!
-**Osananajimi to wa Love Comedy ni Naranai**
+**幼馴染とはラブコメにならない**
 
 This one is like a super ecchi kind of version of To heart. It's fine for what it is. It's if you watch the first like
 minute or two of it and it entertains you then seems like it's gonna be more of that if it doesn't just stop. I'll give
@@ -60,7 +60,7 @@ it a point for actually having an opening they played during the first episode.
 ---
 
 ### Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-**Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru**
+**貴族転生 ～恵まれた生まれから最強の力を得る～**
 
 I didn't have high hopes for this and I have not been defeated. The episode started with the "skip recap" button and
 that's a good sign for a show to start out literally the first episode with the ability to skip the recap and I wish I
@@ -74,7 +74,7 @@ makes him look like the bad guy from ghost and goblins.
 ---
 
 ### Roll Over and Die
-**Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo ...**
+**「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい**
 
 The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats. And screens and
