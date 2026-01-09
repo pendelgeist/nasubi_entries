@@ -36,9 +36,8 @@ and I don't hate the first 8 minutes of it.
 
 ---
 
-### 4. Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
-
-**There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her**
+### There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her
+**Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.**
 
 I don't even know what the point of this is. The art is just atrociously bad, they apply all these dumb filters on top
 of everything, it's it's really really low quality. Why bother it's not like there's anything that's super special about
@@ -49,9 +48,8 @@ were gonna get to something that was a hook beyond the literally the title of th
 
 ---
 
-### 5. Osananajimi to wa Love Comedy ni Naranai
-
-**You Can't Be In a Rom-Com with Your Childhood Friends!**
+### You Can't Be In a Rom-Com with Your Childhood Friends!
+**Osananajimi to wa Love Comedy ni Naranai**
 
 This one is like a super ecchi kind of version of To heart. It's fine for what it is. It's if you watch the first like
 minute or two of it and it entertains you then seems like it's gonna be more of that if it doesn't just stop. I'll give
@@ -61,9 +59,8 @@ it a point for actually having an opening they played during the first episode.
 
 ---
 
-### 6. Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
-
-**Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power**
+### Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
+**Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru**
 
 I didn't have high hopes for this and I have not been defeated. The episode started with the "skip recap" button and
 that's a good sign for a show to start out literally the first episode with the ability to skip the recap and I wish I
@@ -76,9 +73,8 @@ makes him look like the bad guy from ghost and goblins.
 
 ---
 
-### 7. "Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo ...
-
-**Roll Over and Die**
+### Roll Over and Die
+**"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo ...**
 
 The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats. And screens and
