@@ -25,9 +25,8 @@ Nothing of here. Maybe the Manga is fine.
 
 ---
 
-### 3. Kirei ni Shitemoraemasu ka.
-
-**Wash It All Away**
+### Wash It All Away
+**Kirei ni Shitemoraemasu ka.**
 
 They made a show about someone who is running a one person laundry shop in Atami which is down slightly south outside of
 Tokyo. it's actually kind of charming and kind of cool cause you get to see some more technical details of doing laundry
