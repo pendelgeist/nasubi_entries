@@ -5,6 +5,7 @@
 ---
 
 ### Jack-of-All-Trades, Party of None
+
 **勇者パーティを追い出された器用貧乏**
 
 First show of the season, I'm a minute and twenty seconds into it, and I'm already giving this four out of five Kirito's
@@ -16,6 +17,7 @@ a perfect show to start this season.
 ---
 
 ### The Demon King's Daughter Is Too Kind!!
+
 **魔王の娘は優しすぎる!!**
 
 I mean I guess this show is fine? It's nothing special. The title of the show tells you the entire plot of the show.
@@ -26,6 +28,7 @@ Nothing of here. Maybe the Manga is fine.
 ---
 
 ### Wash It All Away
+
 **綺麗にしてもらえますか。**
 
 They made a show about someone who is running a one person laundry shop in Atami which is down slightly south outside of
@@ -37,6 +40,7 @@ and I don't hate the first 8 minutes of it.
 ---
 
 ### There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her
+
 **勇者パーティーにかわいい子がいたので、告白してみた。**
 
 I don't even know what the point of this is. The art is just atrociously bad, they apply all these dumb filters on top
@@ -49,6 +53,7 @@ were gonna get to something that was a hook beyond the literally the title of th
 ---
 
 ### You Can't Be In a Rom-Com with Your Childhood Friends!
+
 **幼馴染とはラブコメにならない**
 
 This one is like a super ecchi kind of version of To heart. It's fine for what it is. It's if you watch the first like
@@ -60,6 +65,7 @@ it a point for actually having an opening they played during the first episode.
 ---
 
 ### Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
+
 **貴族転生 ～恵まれた生まれから最強の力を得る～**
 
 I didn't have high hopes for this and I have not been defeated. The episode started with the "skip recap" button and
@@ -74,12 +80,38 @@ makes him look like the bad guy from ghost and goblins.
 ---
 
 ### Roll Over and Die
-**「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい**
+
+**お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい**
 
 The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats. And screens and
 stuff I don't actually see any direct screens for the person. The rest of it seems like it's kind ok. The animation
 quality is not great but I've definitely seen other things where I struggled to even make it through three minutes.
+
+**Recommendation:** ---
+
+---
+
+### Sentenced to Be a Hero
+**勇者刑に処す 懲罰勇者9004隊刑務記録**
+
+I wasn’t quite sure what to expect. I saw the first episode of was an hour long and I was, based on the title, very sus.
+But this show is proved to be pretty darn cool looking. The animation is top-notch production values across the whole
+thing are really good, script seems pretty solid. I haven’t seen any ridiculous dumb tropes or anything yet. So I have
+high hopes for this show.
+
+**Recommendation:** ---
+
+---
+
+### Kunon the Sorcerer Can See
+**魔術師クノンは見えている**
+
+I’m very confused by the show because it looked like it was trying to be a serious magic show something about a sorcerer
+person who can’t see but then the intro made it look like it might be almost like a silly school thing with the person
+out of place at a school kind of like a Mashle type thing and period and then it also makes it look like the main
+character who’s supposedly been blind forever, but has no adaptation to being blind at all. It’s very confusing and I’m
+not interested in it enough to find out if the confusion will ever be resolved.
 
 **Recommendation:** ---
 
@@ -91,7 +123,6 @@ quality is not great but I've definitely seen other things where I struggled to 
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Sousou no Frieren 2nd Season                                           | Frieren: Beyond Journey's End Season 2                                          |
 | Fate/strange Fake                                                      |                                                                                 |
-| Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku            | Sentenced to Be a Hero                                                          |
 | Vigilante: Boku no Hero Academia Illegals 2nd Season                   | My Hero Academia: Vigilantes Season 2                                           |
 | Seihantai na Kimi to Boku                                              | You and I Are Polar Opposites                                                   |
 | Uruwashi no Yoi no Tsuki                                               | In the Clear Moonlit Dusk                                                       |
@@ -105,7 +136,6 @@ quality is not great but I've definitely seen other things where I struggled to 
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru                 | The Villainess Is Adored by the Prince of the Neighbor Kingdom                  |
 | Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru | Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing |
 | Dead Account                                                           |                                                                                 |
-| Majutsushi Kunon wa Mieteiru                                           | Kunon the Sorcerer Can See                                                      |
 | Kaya-chan wa Kowakunai                                                 | Kaya-chan Isn't Scary                                                           |
 | Isekai no Sata wa Shachiku Shidai                                      | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        |
 | Hanazakari no Kimitachi e                                              | Hana-Kimi                                                                       |
