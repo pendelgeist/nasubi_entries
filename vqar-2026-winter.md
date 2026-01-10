@@ -25,7 +25,7 @@ Recommendation: **Finish Ep**
 
 ---
 
-### Roll Over and Die | お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+### Roll Over and Die | 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
 
 The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats and screens and
