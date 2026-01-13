@@ -2,6 +2,29 @@
 
 ## Reviewed (newest reviews at the top)
 
+### Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City | お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～
+
+The story, character designs aren't interesting. But... it has way too good animation and production for what it's
+doing. Example: if you watch the first minute of the show it has a really cool intro sequence, however, it's just to
+talk about being reincarnated into another young noble's body, which is a stupid waste of an actually really cool
+animation sequence. There are other interesting animation interaction choices and segments, but the whole story feels
+pretty dumb and not like something I'm gonna watch.
+
+Recommendation: **Meh**
+
+---
+
+### An Adventurer's Daily Grind at Age 29 | 29歳独身中堅冒険者の日常
+
+The show is the most definitive 5 out-of 10 that I may have ever seen. It's not terrible; nothing is terrible, nothing
+is good. Everything is there and boring and fine... I guess. It's another adventure dungeon show and this one's twist is
+that there's an abandoned little orphan girl; kind of a cute see Anya Forger kind of thing but not as well done. There
+is literally no reason to watch this. There's also no reason to hate it; no reason to like it.
+
+Recommendation: **5 out of 10**
+
+---
+
 ### Kunon the Sorcerer Can See | 魔術師クノンは見えている
 
 I'm very confused by the show because it looked like it was trying to be a serious magic show something about a sorcerer
@@ -101,17 +124,19 @@ Recommendation: **Streaming Garbage**
 
 ## Review Summary
 
-| Order | Title                                                                   | Recommendation                |
-|-------|-------------------------------------------------------------------------|-------------------------------|
-| 1     | Jack-of-All-Trades, Party of None                                       | Streaming Garbage             |
-| 2     | The Demon King's Daughter Is Too Kind!!                                 | Meh                           |
-| 3     | Wash It All Away                                                        | Nice Ep Broh                  |
-| 4     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her | Please No More Like This Ever |
-| 5     | You Can't Be In a Rom-Com with Your Childhood Friends!                  | Meh                           |
-| 6     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power        | I'd rather watch El-Hazard 2  |
-| 7     | Roll Over and Die                                                       | Meh                           |
-| 8     | Sentenced to Be a Hero                                                  | Finish Ep                     |
-| 9     | Kunon the Sorcerer Can See                                              | Streaming Garbage             |
+| Order | Title                                                                    | Recommendation                |
+|-------|--------------------------------------------------------------------------|-------------------------------|
+| 1     | Jack-of-All-Trades, Party of None                                        | Streaming Garbage             |
+| 2     | The Demon King's Daughter Is Too Kind!!                                  | Meh                           |
+| 3     | Wash It All Away                                                         | Nice Ep Broh                  |
+| 4     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her  | Please No More Like This Ever |
+| 5     | You Can't Be In a Rom-Com with Your Childhood Friends!                   | Meh                           |
+| 6     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power         | I'd rather watch El-Hazard 2  |
+| 7     | Roll Over and Die                                                        | Meh                           |
+| 8     | Sentenced to Be a Hero                                                   | Finish Ep                     |
+| 9     | Kunon the Sorcerer Can See                                               | Streaming Garbage             |
+| 10    | An Adventurer's Daily Grind at Age 29                                    | Meh                           |
+| 11    | Easygoing Territory Defense by the Optimistic Lord: Production Magic ... | Meh                           |
 
 ## To Review
 
@@ -136,10 +161,9 @@ Recommendation: **Streaming Garbage**
 | Isekai no Sata wa Shachiku Shidai                                      | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        |
 | Hanazakari no Kimitachi e                                              | Hana-Kimi                                                                       |
 | Odayaka Kizoku no Kyuuka no Susume.                                    | A Gentle Noble's Vacation Recommendation                                        |
-| Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu ...       | Easygoing Territory Defense by the Optimistic Lord: Production Magic ...        |
+| Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu ...       |                                                                                 |
 | Champignon no Majo                                                     | Champignon Witch                                                                |
 | Dark Moon: Tsuki no Saidan                                             | Dark Moon: The Blood Altar                                                      |
-| 29-sai Dokushin Chuuken Boukensha no Nichijou                          | An Adventurer's Daily Grind at Age 29                                           |
 | Arne no Jikenbo                                                        | The Case Book of Arne                                                           |
 | Yuusha no Kuzu                                                         | Scum of the Brave                                                               |
 | Tensei shitara Dragon no Tamago datta                                  | Reincarnated as a Dragon Hatchling                                              |
