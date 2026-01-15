@@ -2,13 +2,78 @@
 
 ## Reviewed (newest reviews at the top)
 
+### Isekai Office Worker: The Other World's Books Depend on the Bean Counter | 異世界の沙汰は社畜次第
+
+The show seems fine. The East Kai was a magical being dragged into another dimension, and the main character was
+accidentally dragged in with the chosen Savior maiden. So at least it wasn’t one of the dumb reincarnation or stat
+screen things. Beyond that I can’t quite tell if it’s going more into like a shoujo audience or what; but it seems fine.
+It’s not great. I probably won’t watch it, but I’ve seen plenty of worse things this season.  _[Reviewed: 2026-01-14]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
+### The Holy Grail of Eris | エリスの聖杯
+
+Five minutes in I’m still very unsure what type of show this is. I’ll take that as a good sign. The production values
+seem pretty good. Voices, character designs, etc, are all fine. I can’t tell if it’s gonna go really shoujo style or
+if it’s gonna be a little more interesting. But it’s not a dungeon adventure, and it’s not an isekai, so I’ll take this
+as a positive sign.  _[Reviewed: 2026-01-14]_
+
+Recommendation: **Meh**
+
+---
+
+### Chained Soldier S2 | 魔都精兵のスレイブ
+
+I don’t think I really have anything much to say about this show. It’s the same thing it was in the first one. I forgot
+that the key thing is that the main character is quite literally turned into a slave of the leading lady. It’s very bad.
+The coolest thing was that the monsters kind of look like Satchiel from Eva so that’s a thing. _[Reviewed: 2026-01-14]_
+
+Recommendation: **I'd rather watch El-Hazard 2**
+
+---
+
+### A Gentle Noble's Vacation Recommendation | 穏やか貴族の休暇のすすめ
+
+OK, so the show is fine, it's clearly a shoujo show. But I can't tell on this is if the main character has been isekai'd
+or is just someone who is out of place. So I guess that's a good thing that from the first five minutes it's not clear
+to me 100% of the things that will happen in the show. But I know there will definitely be _ikemen_.
+_[Reviewed: 2026-01-13]_
+
+Recommendation: **Meh**
+
+---
+
+### Reincarnated as a Dragon Hatchling | 転生したらドラゴンの卵だった ～最強以外目指さねぇ～
+
+So the title did not lie about the content of the show. We got a status screen and God voice overlay about 20 seconds
+into the show. All the production values are terrible. The opening is just garbage complete trash. I'd say the best
+thing about the opening is it kind of looks like a Pokémon thing, but then the audience is not a kids show audience from
+the vocabulary and everything they're doing so it's awful. _[Reviewed: 2026-01-13]_
+
+Recommendation: **I'd rather watch El-Hazard 2**
+
+---
+
+### Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing | ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～
+
+Another show for which the question is why? Why make this why anybody would spend any amount of time, effort, or energy
+to make this thing is beyond me. I hope they got paid at least I don't even know what to say. It's dumb. It took five
+minutes to get the skill screen to appear; this after the character just got literally sucked into a normal computer
+monitor. >_> _[Reviewed: 2026-01-13]_
+
+Recommendation: **Please No More Like This Ever**
+
+---
+
 ### Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City | お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～
 
 The story, character designs aren't interesting. But... it has way too good animation and production for what it's
 doing. Example: if you watch the first minute of the show it has a really cool intro sequence, however, it's just to
 talk about being reincarnated into another young noble's body, which is a stupid waste of an actually really cool
 animation sequence. There are other interesting animation interaction choices and segments, but the whole story feels
-pretty dumb and not like something I'm gonna watch.
+pretty dumb and not like something I'm gonna watch. _[Reviewed: 2026-01-12]_
 
 Recommendation: **Meh**
 
@@ -19,19 +84,21 @@ Recommendation: **Meh**
 The show is the most definitive 5 out-of 10 that I may have ever seen. It's not terrible; nothing is terrible, nothing
 is good. Everything is there and boring and fine... I guess. It's another adventure dungeon show and this one's twist is
 that there's an abandoned little orphan girl; kind of a cute see Anya Forger kind of thing but not as well done. There
-is literally no reason to watch this. There's also no reason to hate it; no reason to like it.
+is literally no reason to watch this. There's also no reason to hate it; no reason to like it. _[Reviewed: 2026-01-12]_
 
-Recommendation: **5 out of 10**
+Recommendation: **Streaming Garbage**
 
 ---
 
 ### Kunon the Sorcerer Can See | 魔術師クノンは見えている
 
-I'm very confused by the show because it looked like it was trying to be a serious magic show something about a sorcerer
-person who can't see but then the intro made it look like it might be almost like a silly school thing with the person
+I'm very confused by this show because it looked like it was trying to be a serious magic show something about a
+sorcerer
+person who can't see, but then the intro made it look like it might be almost like a silly school thing with the person
 out of place at a school like Mashle. Then it also makes the main character, who's supposedly been blind forever, but
 has made no adaptations to being blind at all -- literally walking around gingerly being lead by his kyounyuu servants.
-It's very confusing and I'm not interested in it enough to find out if the confusion will ever be resolved.
+It's very confusing, and I'm not interested in it enough to find out if the confusion will ever be resolved.
+_[Reviewed: 2026-01-10]_
 
 Recommendation: **Streaming Garbage**
 
@@ -42,7 +109,7 @@ Recommendation: **Streaming Garbage**
 I wasn't quite sure what to expect. I saw the first episode of was an hour long and I was, based on the title, very sus.
 But this show is proved to be pretty darn cool looking. The animation is top-notch, production values across the whole
 thing are excellent, script seems pretty solid. I haven't seen any ridiculous dumb tropes or anything yet. So I have
-high hopes for this show.
+high hopes for this show. _[Reviewed: 2026-01-10]_
 
 Recommendation: **Finish Ep**
 
@@ -50,10 +117,11 @@ Recommendation: **Finish Ep**
 
 ### Roll Over and Die | 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
 
-The show isn't great by any stretch of the imagination. But I did put it on and I sat there through 12 minutes and I
+The show isn't great by any stretch of the imagination. But I did put it on, and I sat there through 12 minutes and I
 didn't end my life. I think the worst part about it is the stupid thing of having something with stats and screens and
 such. But I don't actually see any direct screens for the person. The rest of it seems like it's kind ok. The animation
 quality is not great, but I've definitely seen other things where I struggled to even make it through three minutes.
+_[Reviewed: 2026-01-09]_
 
 Recommendation: **Meh**
 
@@ -66,7 +134,7 @@ that's a good sign for a show to start out literally the first episode with the 
 had a button that was "skip episode" or "skip show." ... Oh dear God, there's still another 30 seconds left and now
 we're into the exposition. After we've done the show the stats, but here's the twist in the show that everyone can see
 the stats when done by someone it's so dumb. The best thing about the show is that in the openging it shows the king's
-armor and makes him look like the bad guy from Ghosts and Goblins.
+armor and makes him look like the bad guy from Ghosts and Goblins. _[Reviewed: 2026-01-08]_
 
 Recommendation: **I'd rather watch El-Hazard 2**
 
@@ -76,7 +144,7 @@ Recommendation: **I'd rather watch El-Hazard 2**
 
 This one is like a super ecchi version of "To Heart." It's fine for what it is. If you watch the first minute or two of
 it and it entertains you, then it seems like That's The Show. I'll give it a point for actually having an opening they
-played during the first episode.
+played during the first episode. _[Reviewed: 2026-01-08]_
 
 Recommendation: **Streaming Garbage**
 
@@ -88,16 +156,17 @@ I don't even know what the point of this is. The art is just atrociously bad, th
 of everything; it's really, really low quality. Why bother? It's not like there's anything that's super special about
 this. I ended up watching it for 11 minutes and 18 seconds because I was folding laundry and I kept wondering if they
 were gonna get to something that was a hook beyond literally the title of the show. They did not.
+_[Reviewed: 2026-01-09]_
 
 Recommendation: **Please No More Like This Ever**
 
---- 
+---
 
 ### Wash It All Away | 綺麗にしてもらえますか。
 
 They made a show about someone who is running a one-person laundry shop in Atami (which is down slightly south of
 Tokyo). It's actually kind of charming and kind of cool cause you get to see some more technical details of doing
-laundry, and I don't hate the first 8 minutes of it.
+laundry, and I don't hate the first 8 minutes of it. _[Reviewed: 2026-01-07]_
 
 Recommendation: **Nice Ep Broh**
 
@@ -105,10 +174,10 @@ Recommendation: **Nice Ep Broh**
 
 ### The Demon King's Daughter Is Too Kind!! | 魔王の娘は優しすぎる!!
 
-I mean I guess this show is fine? It's nothing special. The title of the show tells you the entire plot of the show.
-Nothing of note here. Maybe the Manga is fine.
+I mean, I guess this show is fine? It's nothing special. The title of the show tells you the entire plot of the show.
+Nothing of note here. Maybe the Manga is fine. _[Reviewed: 2026-01-07]_
 
-Recommendation: **Meh**
+Recommendation: **Streaming Garbage**
 
 ---
 
@@ -116,74 +185,73 @@ Recommendation: **Meh**
 
 First show of the season, I'm a minute and twenty seconds into it, and I'm already giving this four out of five Kirito's
 and four out of five Status Screen Overlays. Correction, I'm going up this to five out of five for both of those, so
-it's a perfect show to start this season.
+it's a perfect show to start this season. _[Reviewed: 2026-01-07]_
 
-Recommendation: **Streaming Garbage**
+Recommendation: **Please No More Like This Ever**
 
 ---
 
 ## Review Summary
 
-| Order | Title                                                                    | Recommendation                |
-|-------|--------------------------------------------------------------------------|-------------------------------|
-| 1     | Jack-of-All-Trades, Party of None                                        | Streaming Garbage             |
-| 2     | The Demon King's Daughter Is Too Kind!!                                  | Meh                           |
-| 3     | Wash It All Away                                                         | Nice Ep Broh                  |
-| 4     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her  | Please No More Like This Ever |
-| 5     | You Can't Be In a Rom-Com with Your Childhood Friends!                   | Meh                           |
-| 6     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power         | I'd rather watch El-Hazard 2  |
-| 7     | Roll Over and Die                                                        | Meh                           |
-| 8     | Sentenced to Be a Hero                                                   | Finish Ep                     |
-| 9     | Kunon the Sorcerer Can See                                               | Streaming Garbage             |
-| 10    | An Adventurer's Daily Grind at Age 29                                    | Meh                           |
-| 11    | Easygoing Territory Defense by the Optimistic Lord: Production Magic ... | Meh                           |
+| Order | Title                                                                           | Recommendation                | Reviewed   |
+|-------|---------------------------------------------------------------------------------|-------------------------------|------------|
+| 1     | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        | Streaming Garbage             | 2026-01-14 |
+| 2     | The Holy Grail of Eris                                                          | Meh                           | 2026-01-14 |
+| 3     | Chained Soldier S2                                                              | I'd rather watch El-Hazard 2  | 2026-01-14 |
+| 4     | Jack-of-All-Trades, Party of None                                               | Please No More Like This Ever | 2026-01-07 |
+| 5     | The Demon King's Daughter Is Too Kind!!                                         | Streaming Garbage             | 2026-01-07 |
+| 6     | Wash It All Away                                                                | Nice Ep Broh                  | 2026-01-07 |
+| 7     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her         | Please No More Like This Ever | 2026-01-08 |
+| 8     | You Can't Be In a Rom-Com with Your Childhood Friends!                          | Streaming Garbage             | 2026-01-08 |
+| 9     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power                | I'd rather watch El-Hazard 2  | 2026-01-09 |
+| 10    | Roll Over and Die                                                               | Meh                           | 2026-01-09 |
+| 11    | Sentenced to Be a Hero                                                          | Finish Ep                     | 2026-01-10 |
+| 12    | Kunon the Sorcerer Can See                                                      | Streaming Garbage             | 2026-01-10 |
+| 13    | An Adventurer's Daily Grind at Age 29                                           | Streaming Garbage             | 2026-01-12 |
+| 14    | Easygoing Territory Defense by the Optimistic Lord: Production Magic ...        | Meh                           | 2026-01-12 |
+| 15    | Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing | Please No More Like This Ever | 2026-01-13 |
+| 16    | Reincarnated as a Dragon Hatchling                                              | I'd rather watch El-Hazard 2  | 2026-01-13 |
+| 17    | A Gentle Noble's Vacation Recommendation                                        | Meh                           | 2026-01-13 | 
 
 ## To Review
 
-| Title                                                                  | Subtitle                                                                        |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Sousou no Frieren 2nd Season                                           | Frieren: Beyond Journey's End Season 2                                          |
-| Fate/strange Fake                                                      |                                                                                 |
-| Vigilante: Boku no Hero Academia Illegals 2nd Season                   | My Hero Academia: Vigilantes Season 2                                           |
-| Seihantai na Kimi to Boku                                              | You and I Are Polar Opposites                                                   |
-| Uruwashi no Yoi no Tsuki                                               | In the Clear Moonlit Dusk                                                       |
-| Mayonaka Heart Tune                                                    | Tune In to the Midnight Heart                                                   |
-| Tamon-kun Ima Docchi!?                                                 | Tamon's B-Side                                                                  |
-| Ikoku Nikki                                                            | Journal with Witch                                                              |
-| Eris no Seihai                                                         | The Holy Grail of Eris                                                          |
-| Shibou Yuugi de Meshi wo Kuu.                                          | Shiboyugi: Playing Death Games to Put Food on the Table                         |
-| Darwin Jihen                                                           | The Darwin Incident                                                             |
-| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari             | The Invisible Man and His Soon-to-Be Wife                                       |
-| Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru                 | The Villainess Is Adored by the Prince of the Neighbor Kingdom                  |
-| Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru | Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing |
-| Dead Account                                                           |                                                                                 |
-| Kaya-chan wa Kowakunai                                                 | Kaya-chan Isn't Scary                                                           |
-| Isekai no Sata wa Shachiku Shidai                                      | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        |
-| Hanazakari no Kimitachi e                                              | Hana-Kimi                                                                       |
-| Odayaka Kizoku no Kyuuka no Susume.                                    | A Gentle Noble's Vacation Recommendation                                        |
-| Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu ...       |                                                                                 |
-| Champignon no Majo                                                     | Champignon Witch                                                                |
-| Dark Moon: Tsuki no Saidan                                             | Dark Moon: The Blood Altar                                                      |
-| Arne no Jikenbo                                                        | The Case Book of Arne                                                           |
-| Yuusha no Kuzu                                                         | Scum of the Brave                                                               |
-| Tensei shitara Dragon no Tamago datta                                  | Reincarnated as a Dragon Hatchling                                              |
-| Jingai Kyoushitsu no Ningengirai Kyoushi                               | A Misanthrope Teaches a Class for Demi-Humans                                   |
-| Goumon Baito-kun no Nichijou                                           | The Daily Life of a Part-time Torturer                                          |
-| Hikuidori: Ushuu Boro Tobi-gumi                                        |                                                                                 |
-| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!                      |                                                                                 |
-| High School! Kimengumi (2026)                                          |                                                                                 |
-| Omae wa Mada Gunma wo Shiranai: Reiwa-ban                              |                                                                                 |
-| #Kanagawa ni Sunderu Elf                                               |                                                                                 |
-| Hokuto no Ken: Kenougun Zako-tachi no Banka                            |                                                                                 |
-| Chou Kaguya-hime!                                                      | Cosmic Princess Kaguya!                                                         |
-| Prism Rondo                                                            | Love Through a Prism                                                            |
-| All You Need Is Kill                                                   |                                                                                 |
+| Title                                                      | Subtitle                                                       |
+|------------------------------------------------------------|----------------------------------------------------------------|
+| Sousou no Frieren 2nd Season                               | Frieren: Beyond Journey's End Season 2                         |
+| Fate/strange Fake                                          | Fate/strange Fake                                              |
+| Vigilante: Boku no Hero Academia Illegals 2nd Season       | My Hero Academia: Vigilantes Season 2                          |
+| Seihantai na Kimi to Boku                                  | You and I Are Polar Opposites                                  |
+| Uruwashi no Yoi no Tsuki                                   | In the Clear Moonlit Dusk                                      |
+| Mayonaka Heart Tune                                        | Tune In to the Midnight Heart                                  |
+| Tamon-kun Ima Docchi!?                                     | Tamon's B-Side                                                 |
+| Ikoku Nikki                                                | Journal with Witch                                             |
+| Shibou Yuugi de Meshi wo Kuu.                              | Shiboyugi: Playing Death Games to Put Food on the Table        |
+| Darwin Jihen                                               | The Darwin Incident                                            |
+| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife                      |
+| Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru     | The Villainess Is Adored by the Prince of the Neighbor Kingdom |
+| Dead Account                                               | Dead Account                                                   |
+| Kaya-chan wa Kowakunai                                     | Kaya-chan Isn't Scary                                          |
+| Hanazakari no Kimitachi e                                  | Hana-Kimi                                                      |
+| Champignon no Majo                                         | Champignon Witch                                               |
+| Dark Moon: Tsuki no Saidan                                 | Dark Moon: The Blood Altar                                     |
+| Arne no Jikenbo                                            | The Case Book of Arne                                          |
+| Yuusha no Kuzu                                             | Scum of the Brave                                              |
+| Jingai Kyoushitsu no Ningengirai Kyoushi                   | A Misanthrope Teaches a Class for Demi-Humans                  |
+| Goumon Baito-kun no Nichijou                               | The Daily Life of a Part-time Torturer                         |
+| Hikuidori: Ushuu Boro Tobi-gumi                            | Oedo Fire Slayer -The Legend of Phoenix-                       |
+| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!          | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!                |
+| High School! Kimengumi (2026)                              | High School! Kimengumi (2026)                                  |
+| Omae wa Mada Gunma wo Shiranai: Reiwa-ban                  | You don't know Gunma yet.: Reiwa version                       |
+| #Kanagawa ni Sunderu Elf                                   | Kanagawa Elves                                                 |
+| Hokuto no Ken: Kenougun Zako-tachi no Banka                | Fist of the North Star: Elegy of Ken-Oh's Army Grunts          |
+| Chou Kaguya-hime!                                          | Cosmic Princess Kaguya!                                        |
+| Prism Rondo                                                | Love Through a Prism                                           |
+| All You Need Is Kill                                       | All You Need Is Kill                                           |
 
 ## Skipping
 
 | Title                                                             | Subtitle                                                                  |
 |-------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Mato Seihei no Slave 2                                            | Chained Soldier Season 2                                                  |
 | Trigun Stargaze                                                   |                                                                           |
 | Jigokuraku 2nd Season                                             | Hell's Paradise Season 2                                                  |
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen                          | Jujutsu Kaisen: The Culling Game Part 1                                   |
