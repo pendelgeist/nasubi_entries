@@ -195,23 +195,23 @@ Recommendation: **Please No More Like This Ever**
 
 | Order | Title                                                                           | Recommendation                | Reviewed   |
 |-------|---------------------------------------------------------------------------------|-------------------------------|------------|
-| 1     | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        | Streaming Garbage             | 2026-01-14 |
-| 2     | The Holy Grail of Eris                                                          | Meh                           | 2026-01-14 |
-| 3     | Chained Soldier S2                                                              | I'd rather watch El-Hazard 2  | 2026-01-14 |
-| 4     | Jack-of-All-Trades, Party of None                                               | Please No More Like This Ever | 2026-01-07 |
-| 5     | The Demon King's Daughter Is Too Kind!!                                         | Streaming Garbage             | 2026-01-07 |
-| 6     | Wash It All Away                                                                | Nice Ep Broh                  | 2026-01-07 |
-| 7     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her         | Please No More Like This Ever | 2026-01-08 |
-| 8     | You Can't Be In a Rom-Com with Your Childhood Friends!                          | Streaming Garbage             | 2026-01-08 |
-| 9     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power                | I'd rather watch El-Hazard 2  | 2026-01-09 |
-| 10    | Roll Over and Die                                                               | Meh                           | 2026-01-09 |
-| 11    | Sentenced to Be a Hero                                                          | Finish Ep                     | 2026-01-10 |
-| 12    | Kunon the Sorcerer Can See                                                      | Streaming Garbage             | 2026-01-10 |
-| 13    | An Adventurer's Daily Grind at Age 29                                           | Streaming Garbage             | 2026-01-12 |
-| 14    | Easygoing Territory Defense by the Optimistic Lord: Production Magic ...        | Meh                           | 2026-01-12 |
-| 15    | Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing | Please No More Like This Ever | 2026-01-13 |
-| 16    | Reincarnated as a Dragon Hatchling                                              | I'd rather watch El-Hazard 2  | 2026-01-13 |
-| 17    | A Gentle Noble's Vacation Recommendation                                        | Meh                           | 2026-01-13 | 
+| 1     | Jack-of-All-Trades, Party of None                                               | Please No More Like This Ever | 2026-01-07 |
+| 2     | The Demon King's Daughter Is Too Kind!!                                         | Streaming Garbage             | 2026-01-07 |
+| 3     | Wash It All Away                                                                | Nice Ep Broh                  | 2026-01-07 |
+| 4     | There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her         | Please No More Like This Ever | 2026-01-08 |
+| 5     | You Can't Be In a Rom-Com with Your Childhood Friends!                          | Streaming Garbage             | 2026-01-08 |
+| 6     | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power                | I'd rather watch El-Hazard 2  | 2026-01-09 |
+| 7     | Roll Over and Die                                                               | Meh                           | 2026-01-09 |
+| 8     | Sentenced to Be a Hero                                                          | Finish Ep                     | 2026-01-10 |
+| 9     | Kunon the Sorcerer Can See                                                      | Streaming Garbage             | 2026-01-10 |
+| 10    | An Adventurer's Daily Grind at Age 29                                           | Streaming Garbage             | 2026-01-12 |
+| 11    | Easygoing Territory Defense by the Optimistic Lord: Production Magic ...        | Meh                           | 2026-01-12 |
+| 12    | Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing | Please No More Like This Ever | 2026-01-13 |
+| 13    | Reincarnated as a Dragon Hatchling                                              | I'd rather watch El-Hazard 2  | 2026-01-13 |
+| 14    | A Gentle Noble's Vacation Recommendation                                        | Meh                           | 2026-01-13 |
+| 15    | Chained Soldier S2                                                              | I'd rather watch El-Hazard 2  | 2026-01-14 |
+| 16    | The Holy Grail of Eris                                                          | Meh                           | 2026-01-14 |
+| 17    | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        | Streaming Garbage             | 2026-01-14 |
 
 ## To Review
 
