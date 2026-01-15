@@ -2,6 +2,25 @@
 
 ## Reviewed (newest reviews at the top)
 
+### Champignon Witch | シャンピニオンの魔女
+
+Actually, fairly interesting begin to the show. Cool musical intro I liked the opening. I’m not quite sure how I feel
+about the animation style yet. But it seems to be fairly reasonably done. This show has potential to be
+interesting. _[Reviewed: 2026-01-15]_
+
+Recommendation: **Finish Ep**
+
+---
+
+### Dark Moon: The Blood Altar | DARK MOON -黒の月: 月の祭壇-
+
+K-pop boys vampire reverse harem show. Seems fine for that, so if that’s what you’re into go for it.
+_[Reviewed: 2026-01-15]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
 ### Isekai Office Worker: The Other World's Books Depend on the Bean Counter | 異世界の沙汰は社畜次第
 
 The show seems fine. The East Kai was a magical being dragged into another dimension, and the main character was
@@ -212,6 +231,8 @@ Recommendation: **Please No More Like This Ever**
 | 15    | Chained Soldier S2                                                              | I'd rather watch El-Hazard 2  | 2026-01-14 |
 | 16    | The Holy Grail of Eris                                                          | Meh                           | 2026-01-14 |
 | 17    | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        | Streaming Garbage             | 2026-01-14 |
+| 18    | Dark Moon: The Blood Altar                                                      | Streaming Garbage             | 2026-01-15 |
+| 19    | Champignon Witch                                                                | Finish Ep                     | 2026-01-15 |
 
 ## To Review
 
@@ -232,8 +253,6 @@ Recommendation: **Please No More Like This Ever**
 | Dead Account                                               | Dead Account                                                   |
 | Kaya-chan wa Kowakunai                                     | Kaya-chan Isn't Scary                                          |
 | Hanazakari no Kimitachi e                                  | Hana-Kimi                                                      |
-| Champignon no Majo                                         | Champignon Witch                                               |
-| Dark Moon: Tsuki no Saidan                                 | Dark Moon: The Blood Altar                                     |
 | Arne no Jikenbo                                            | The Case Book of Arne                                          |
 | Yuusha no Kuzu                                             | Scum of the Brave                                              |
 | Jingai Kyoushitsu no Ningengirai Kyoushi                   | A Misanthrope Teaches a Class for Demi-Humans                  |
