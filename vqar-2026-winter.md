@@ -2,6 +2,57 @@
 
 ## Reviewed (newest reviews at the top)
 
+### Tatsuki Fujimoto 17-26 | 藤本タツキ 17-26 [out of season review]
+
+I finally watched an episode of this, so this is an out-of-order review. S-tier. It’s fabulous. At least episode one; it
+was incredible, so well done, one of those things that you watch, and you’re like: "yeah just make good anime and
+everything in the world will be better." _[Reviewed: 2026-01-20]_
+
+Recommendation: **Restored Some Faith In Humanity**
+
+---
+
+### You don't know Gunma yet.: Reiwa version | お前はまだグンマを知らない～令和版～
+
+Well, this show was fabulous. It’s a series of 12 three-minute episodes that are done as kind-of a weird suspense-horror
+show, and then the ED is adorable, and then you learn something about different parts of Gunma: the food, the culture.
+This is definitely an A+ show. Would it be as highly rated if the episodes were longer? No way, but they knew how long
+to make these episodes. _[Reviewed: 2026-01-20]_
+
+Recommendation: **Nice Ep Broh**
+
+---
+
+### Fate/strange Fake | Fate/strange Fake
+
+So I haven’t really watched any fate stuff for maybe ever. It seems fine. It’s A1 pictures and a good budget. Am I gonna
+watch more probably not but mostly just cause there’s a lot of technobabble behind it and it’s hard to tell if I’m
+expected to know this cause I should’ve been watching fate shows for the last 25 years. _[Reviewed: 2026-01-20]_
+
+Recommendation: **Meh**
+
+---
+
+### You and I Are Polar Opposites | 正反対な君と僕
+
+Nice production values, a fun OP; it looks like it could be an interesting show. Is it probably gonna
+be some show that changes my life? No, but I often find I have a high-school-something show that I watch most seasons
+and this one might be the one that I watch this season. Solid first five minutes. _[Reviewed: 2026-01-20]_
+
+Recommendation: **Finish Ep**
+
+---
+
+### Scum of the Brave | 勇者のクズ
+
+Kind of a fun show. I get some very 90's action vibes from it; like that "Blue Seed" kind of feeling. It’s definitely a
+modern show, but I still get some of those feelings, so I’ve got hopes that it could be a fun action show.
+_[Reviewed: 2026-01-16]_
+
+Recommendation: **Finish Ep**
+
+---
+
 ### Champignon Witch | シャンピニオンの魔女
 
 Actually, fairly interesting begin to the show. Cool musical intro I liked the opening. I’m not quite sure how I feel
@@ -26,7 +77,7 @@ Recommendation: **Streaming Garbage**
 The show seems fine. The East Kai was a magical being dragged into another dimension, and the main character was
 accidentally dragged in with the chosen Savior maiden. So at least it wasn’t one of the dumb reincarnation or stat
 screen things. Beyond that I can’t quite tell if it’s going more into like a shoujo audience or what; but it seems fine.
-It’s not great. I probably won’t watch it, but I’ve seen plenty of worse things this season.  _[Reviewed: 2026-01-14]_
+It’s not great. I probably won’t watch it, but I’ve seen plenty of worse things this season. _[Reviewed: 2026-01-14]_
 
 Recommendation: **Streaming Garbage**
 
@@ -55,8 +106,8 @@ Recommendation: **I'd rather watch El-Hazard 2**
 
 ### A Gentle Noble's Vacation Recommendation | 穏やか貴族の休暇のすすめ
 
-OK, so the show is fine, it's clearly a shoujo show. But I can't tell on this is if the main character has been isekai'd
-or is just someone who is out of place. So I guess that's a good thing that from the first five minutes it's not clear
+OK, so the show is fine, it's a shoujo show. But I can't tell on this is if the main character has been isekai'd
+or is just someone out of place. So I guess that's a good thing that from the first five minutes it's not clear
 to me 100% of the things that will happen in the show. But I know there will definitely be _ikemen_.
 _[Reviewed: 2026-01-13]_
 
@@ -69,7 +120,7 @@ Recommendation: **Meh**
 So the title did not lie about the content of the show. We got a status screen and God voice overlay about 20 seconds
 into the show. All the production values are terrible. The opening is just garbage complete trash. I'd say the best
 thing about the opening is it kind of looks like a Pokémon thing, but then the audience is not a kids show audience from
-the vocabulary and everything they're doing so it's awful. _[Reviewed: 2026-01-13]_
+the vocabulary and everything they're doing, so it's awful. _[Reviewed: 2026-01-13]_
 
 Recommendation: **I'd rather watch El-Hazard 2**
 
@@ -233,15 +284,17 @@ Recommendation: **Please No More Like This Ever**
 | 17    | Isekai Office Worker: The Other World's Books Depend on the Bean Counter        | Streaming Garbage             | 2026-01-14 |
 | 18    | Dark Moon: The Blood Altar                                                      | Streaming Garbage             | 2026-01-15 |
 | 19    | Champignon Witch                                                                | Finish Ep                     | 2026-01-15 |
+| 20    | Scum of the Brave                                                               | Finish Ep                     | 2026-01-16 |
+| 21    | You and I Are Polar Opposites                                                   | Finish Ep                     | 2026-01-20 |
+| 22    | Fate/strange Fake                                                               | Meh                           | 2026-01-20 |
+| 23    | You don't know Gunma yet.: Reiwa version                                        | Nice Ep Broh                  | 2026-01-20 |
 
 ## To Review
 
 | Title                                                      | Subtitle                                                       |
 |------------------------------------------------------------|----------------------------------------------------------------|
 | Sousou no Frieren 2nd Season                               | Frieren: Beyond Journey's End Season 2                         |
-| Fate/strange Fake                                          | Fate/strange Fake                                              |
 | Vigilante: Boku no Hero Academia Illegals 2nd Season       | My Hero Academia: Vigilantes Season 2                          |
-| Seihantai na Kimi to Boku                                  | You and I Are Polar Opposites                                  |
 | Uruwashi no Yoi no Tsuki                                   | In the Clear Moonlit Dusk                                      |
 | Mayonaka Heart Tune                                        | Tune In to the Midnight Heart                                  |
 | Tamon-kun Ima Docchi!?                                     | Tamon's B-Side                                                 |
@@ -254,18 +307,15 @@ Recommendation: **Please No More Like This Ever**
 | Kaya-chan wa Kowakunai                                     | Kaya-chan Isn't Scary                                          |
 | Hanazakari no Kimitachi e                                  | Hana-Kimi                                                      |
 | Arne no Jikenbo                                            | The Case Book of Arne                                          |
-| Yuusha no Kuzu                                             | Scum of the Brave                                              |
 | Jingai Kyoushitsu no Ningengirai Kyoushi                   | A Misanthrope Teaches a Class for Demi-Humans                  |
 | Goumon Baito-kun no Nichijou                               | The Daily Life of a Part-time Torturer                         |
 | Hikuidori: Ushuu Boro Tobi-gumi                            | Oedo Fire Slayer -The Legend of Phoenix-                       |
 | Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!          | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!                |
 | High School! Kimengumi (2026)                              | High School! Kimengumi (2026)                                  |
-| Omae wa Mada Gunma wo Shiranai: Reiwa-ban                  | You don't know Gunma yet.: Reiwa version                       |
 | #Kanagawa ni Sunderu Elf                                   | Kanagawa Elves                                                 |
 | Hokuto no Ken: Kenougun Zako-tachi no Banka                | Fist of the North Star: Elegy of Ken-Oh's Army Grunts          |
 | Chou Kaguya-hime!                                          | Cosmic Princess Kaguya!                                        |
 | Prism Rondo                                                | Love Through a Prism                                           |
-| All You Need Is Kill                                       | All You Need Is Kill                                           |
 
 ## Skipping
 
