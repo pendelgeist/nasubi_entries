@@ -2,6 +2,70 @@
 
 ## Reviewed (newest reviews at the top)
 
+### The Villainess Is Adored by the Prince of the Neighbor Kingdom | 悪役令嬢は隣国の王太子に溺愛される
+
+Blah lame. This is the worst version of several other shows that I’ve done recently that are actually pretty good. The
+"excuse me may I hit you one last time," and the "oyaji gets transferred into the shoujo game" shows. Plus, from the
+opening, it appears this show also has 85 other things that it’s doing, so it feels like it’s got too much that it’s
+trying to
+do and nothing is interesting. Pass.  _[Reviewed: 2026-01-24]_
+
+Recommendation: **Please No More Like This Ever**
+
+---
+
+### Journal with Witch | 違国日記
+
+Nice opening and first segment; I think it probably gives a good feeling for what the entire show is in the
+feels and the vibes and everything there. Pretty good production values nice look at kitchen food preparation type
+things. It’s a show that you watch the first minutes and if you’re not interested in the characters and where they’re
+gonna go then just immediately bail cause I hope that it’s not gonna betray that anyway. It looks like it could be
+pretty good. _[Reviewed: 2026-01-24]_
+
+Recommendation: **Finish Ep**
+
+---
+
+### The Invisible Man and His Soon-to-Be Wife | 透明男と人間女～そのうち夫婦になるふたり～
+
+I wonder if the purpose of having the main character be invisible is just to have the person be literally the epitome of
+the non-character. It’s fine. I guess it’s one of those kind of romantic shows. The only thing that’s kind of
+interesting is it appears as though the world is filled with a bunch of people that have different answer with amorphic
+types and things, but I’m not interested enough to find out more. _[Reviewed: 2026-01-23]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
+### Tune In to the Midnight Heart | 真夜中ハートチューン
+
+It’s pretty boring. The main guy is very unlikable, and there are some cute girls, and it’s high school, and blah blah
+blah. Skip. Next. _[Reviewed: 2026-01-22]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
+### In the Clear Moonlit Dusk | うるわしの宵の月
+
+The Show is fine; potentially kind of cool. The main character is Utena-ish, but with less combat. There are two princes
+so it’s basically a Spin Doctors song. _[Reviewed: 2026-01-21]_
+
+Recommendation: **Meh**
+
+---
+
+### The Darwin Incident | ダーウィン事変
+
+Could be interesting? Seems like it’s gonna be a high school setting, coming of age with animal rights, and terrorist
+stuff. The character designs look very much like Urosawa stuff; production seems fine. I’m probably not gonna watch it;
+if just because it’s on Amazon, which for me means that I have a pile of ads and I don’t think about loading Amazon so
+it has to be exceptional for me to watch something on Amazon. _[Reviewed: 2026-01-20]_
+
+Recommendation: **Meh**
+
+---
+
 ### Tatsuki Fujimoto 17-26 | 藤本タツキ 17-26 [out of season review]
 
 I finally watched an episode of this, so this is an out-of-order review. S-tier. It’s fabulous. At least episode one; it
@@ -288,34 +352,34 @@ Recommendation: **Please No More Like This Ever**
 | 21    | You and I Are Polar Opposites                                                   | Finish Ep                     | 2026-01-20 |
 | 22    | Fate/strange Fake                                                               | Meh                           | 2026-01-20 |
 | 23    | You don't know Gunma yet.: Reiwa version                                        | Nice Ep Broh                  | 2026-01-20 |
+| 24    | The Darwin Incident                                                             | Meh                           | 2026-01-11 |
+| 25    | In the Clear Moonlit Dusk                                                       | Meh                           | 2026-01-21 |
+| 26    | Tune In to the Midnight Heart                                                   | Streaming Garbage             | 2026-01-22 |
+| 27    | The Invisible Man and His Soon-to-Be Wife                                       | Streaming Garbage             | 2026-01-24 |
+| 28    | Journal with Witch                                                              | Finish Ep                     | 2026-01-24 |
+| 28    | The Villainess Is Adored by the Prince of the Neighbor Kingdom                  | Please No More Like This Ever | 2026-01-24 |
 
 ## To Review
 
-| Title                                                      | Subtitle                                                       |
-|------------------------------------------------------------|----------------------------------------------------------------|
-| Sousou no Frieren 2nd Season                               | Frieren: Beyond Journey's End Season 2                         |
-| Vigilante: Boku no Hero Academia Illegals 2nd Season       | My Hero Academia: Vigilantes Season 2                          |
-| Uruwashi no Yoi no Tsuki                                   | In the Clear Moonlit Dusk                                      |
-| Mayonaka Heart Tune                                        | Tune In to the Midnight Heart                                  |
-| Tamon-kun Ima Docchi!?                                     | Tamon's B-Side                                                 |
-| Ikoku Nikki                                                | Journal with Witch                                             |
-| Shibou Yuugi de Meshi wo Kuu.                              | Shiboyugi: Playing Death Games to Put Food on the Table        |
-| Darwin Jihen                                               | The Darwin Incident                                            |
-| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife                      |
-| Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru     | The Villainess Is Adored by the Prince of the Neighbor Kingdom |
-| Dead Account                                               | Dead Account                                                   |
-| Kaya-chan wa Kowakunai                                     | Kaya-chan Isn't Scary                                          |
-| Hanazakari no Kimitachi e                                  | Hana-Kimi                                                      |
-| Arne no Jikenbo                                            | The Case Book of Arne                                          |
-| Jingai Kyoushitsu no Ningengirai Kyoushi                   | A Misanthrope Teaches a Class for Demi-Humans                  |
-| Goumon Baito-kun no Nichijou                               | The Daily Life of a Part-time Torturer                         |
-| Hikuidori: Ushuu Boro Tobi-gumi                            | Oedo Fire Slayer -The Legend of Phoenix-                       |
-| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!          | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!                |
-| High School! Kimengumi (2026)                              | High School! Kimengumi (2026)                                  |
-| #Kanagawa ni Sunderu Elf                                   | Kanagawa Elves                                                 |
-| Hokuto no Ken: Kenougun Zako-tachi no Banka                | Fist of the North Star: Elegy of Ken-Oh's Army Grunts          |
-| Chou Kaguya-hime!                                          | Cosmic Princess Kaguya!                                        |
-| Prism Rondo                                                | Love Through a Prism                                           |
+| Title                                                | Subtitle                                                |
+|------------------------------------------------------|---------------------------------------------------------|
+| Sousou no Frieren 2nd Season                         | Frieren: Beyond Journey's End Season 2                  |
+| Vigilante: Boku no Hero Academia Illegals 2nd Season | My Hero Academia: Vigilantes Season 2                   |
+| Tamon-kun Ima Docchi!?                               | Tamon's B-Side                                          |
+| Shibou Yuugi de Meshi wo Kuu.                        | Shiboyugi: Playing Death Games to Put Food on the Table |
+| Dead Account                                         | Dead Account                                            |
+| Kaya-chan wa Kowakunai                               | Kaya-chan Isn't Scary                                   |
+| Hanazakari no Kimitachi e                            | Hana-Kimi                                               |
+| Arne no Jikenbo                                      | The Case Book of Arne                                   |
+| Jingai Kyoushitsu no Ningengirai Kyoushi             | A Misanthrope Teaches a Class for Demi-Humans           |
+| Goumon Baito-kun no Nichijou                         | The Daily Life of a Part-time Torturer                  |
+| Hikuidori: Ushuu Boro Tobi-gumi                      | Oedo Fire Slayer -The Legend of Phoenix-                |
+| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!    | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!         |
+| High School! Kimengumi (2026)                        | High School! Kimengumi (2026)                           |
+| #Kanagawa ni Sunderu Elf                             | Kanagawa Elves                                          |
+| Hokuto no Ken: Kenougun Zako-tachi no Banka          | Fist of the North Star: Elegy of Ken-Oh's Army Grunts   |
+| Chou Kaguya-hime!                                    | Cosmic Princess Kaguya!                                 |
+| Prism Rondo                                          | Love Through a Prism                                    |
 
 ## Skipping
 
