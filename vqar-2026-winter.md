@@ -2,6 +2,50 @@
 
 ## Reviewed (newest reviews at the top)
 
+### Oedo Fire Slayer -The Legend of Phoenix- | 火喰鳥 羽州ぼろ鳶組
+
+So it looks like it’s gonna be some sort of sentai show about Tokugawa era super firefighters that are also samurai. The
+character art is done with heavily 3D CG stuff; It looks fine. Is this going to be a good show? I’m not interested
+enough to spend my time watching to find out.  _[Reviewed: 2026-01-28]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
+### Shiboyugi: Playing Death Games to Put Food on the Table | 死亡遊戯で飯を食う。
+
+The first episode is ~50 minutes long, so I watched it for about 15 minutes. I still have no idea about the: characters,
+plot, art style, production, ... really anything. It’s supposed to be a death-game-type-thing, but it feels kind of
+like a weird version of _Bakemonogatari_ in terms of some of the art style and overlays. But... it’s not done as well
+and I’m not interested in caring about whether these people will make it out alive or not. That sucks because I love me
+a good death game and this is just not working for me. There’s no death and there’s no game.
+_[Reviewed: 2026-01-27]_
+
+Recommendation: **Please No More Like This Ever**
+
+---
+
+### The Case Book of Arne | アルネの事件簿
+
+Fine? I guess I mean it doesn’t seem bad. It also doesn’t have anything really making me say "all right, this is
+totally worth my time to watch." It could be a show that it gets good and interesting, but I’ve got my suspicions. It’s
+gonna be stupid. _[Reviewed: 2026-01-26]_
+
+Recommendation: **Streaming Garbage**
+
+---
+
+### Tamon's B-Side | 多聞くん今どっち！？
+
+Face Off the group?!?! The show is fine. It actually is kind of fun as a thing where a 16-year-old girl meets her
+_oshi_; she gets a job as his house cleaner, and the dude is a total weirdo; that’s fine. I’m not going to keep
+watching it, but it seems OK. I have no idea how it will evolve. I assume it will, and I won’t find out.
+_[Reviewed: 2026-01-26]_
+
+Recommendation: **Not My PET Bottle of Hojicha**
+
+---
+
 ### The Villainess Is Adored by the Prince of the Neighbor Kingdom | 悪役令嬢は隣国の王太子に溺愛される
 
 Blah lame. This is the worst version of several other shows that I’ve done recently that are actually pretty good. The
@@ -357,29 +401,29 @@ Recommendation: **Please No More Like This Ever**
 | 26    | Tune In to the Midnight Heart                                                   | Streaming Garbage             | 2026-01-22 |
 | 27    | The Invisible Man and His Soon-to-Be Wife                                       | Streaming Garbage             | 2026-01-24 |
 | 28    | Journal with Witch                                                              | Finish Ep                     | 2026-01-24 |
-| 28    | The Villainess Is Adored by the Prince of the Neighbor Kingdom                  | Please No More Like This Ever | 2026-01-24 |
+| 29    | The Villainess Is Adored by the Prince of the Neighbor Kingdom                  | Please No More Like This Ever | 2026-01-24 |
+| 30    | Tamon's B-Side                                                                  | Not My PET Bottle of Hojicha  | 2026-01-26 |
+| 31    | The Case Book of Arne                                                           | Streaming Garbage             | 2026-01-26 |
+| 32    | Shiboyugi: Playing Death Games to Put Food on the Table                         | Please No More Like This Ever | 2026-01-26 |
+| 33    | Oedo Fire Slayer -The Legend of Phoenix-                                        | Streaming Garbage             | 2026-01-28 |
 
 ## To Review
 
-| Title                                                | Subtitle                                                |
-|------------------------------------------------------|---------------------------------------------------------|
-| Sousou no Frieren 2nd Season                         | Frieren: Beyond Journey's End Season 2                  |
-| Vigilante: Boku no Hero Academia Illegals 2nd Season | My Hero Academia: Vigilantes Season 2                   |
-| Tamon-kun Ima Docchi!?                               | Tamon's B-Side                                          |
-| Shibou Yuugi de Meshi wo Kuu.                        | Shiboyugi: Playing Death Games to Put Food on the Table |
-| Dead Account                                         | Dead Account                                            |
-| Kaya-chan wa Kowakunai                               | Kaya-chan Isn't Scary                                   |
-| Hanazakari no Kimitachi e                            | Hana-Kimi                                               |
-| Arne no Jikenbo                                      | The Case Book of Arne                                   |
-| Jingai Kyoushitsu no Ningengirai Kyoushi             | A Misanthrope Teaches a Class for Demi-Humans           |
-| Goumon Baito-kun no Nichijou                         | The Daily Life of a Part-time Torturer                  |
-| Hikuidori: Ushuu Boro Tobi-gumi                      | Oedo Fire Slayer -The Legend of Phoenix-                |
-| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!    | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!         |
-| High School! Kimengumi (2026)                        | High School! Kimengumi (2026)                           |
-| #Kanagawa ni Sunderu Elf                             | Kanagawa Elves                                          |
-| Hokuto no Ken: Kenougun Zako-tachi no Banka          | Fist of the North Star: Elegy of Ken-Oh's Army Grunts   |
-| Chou Kaguya-hime!                                    | Cosmic Princess Kaguya!                                 |
-| Prism Rondo                                          | Love Through a Prism                                    |
+| Title                                                | Subtitle                                              |
+|------------------------------------------------------|-------------------------------------------------------|
+| Sousou no Frieren 2nd Season                         | Frieren: Beyond Journey's End Season 2                |
+| Vigilante: Boku no Hero Academia Illegals 2nd Season | My Hero Academia: Vigilantes Season 2                 |
+| Dead Account                                         | Dead Account                                          |
+| Kaya-chan wa Kowakunai                               | Kaya-chan Isn't Scary                                 |
+| Hanazakari no Kimitachi e                            | Hana-Kimi                                             |
+| Jingai Kyoushitsu no Ningengirai Kyoushi             | A Misanthrope Teaches a Class for Demi-Humans         |
+| Goumon Baito-kun no Nichijou                         | The Daily Life of a Part-time Torturer                |
+| Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!    | Saioshi no Gikei o Mederu Tame, Nagaikishimasu!       |
+| High School! Kimengumi (2026)                        | High School! Kimengumi (2026)                         |
+| #Kanagawa ni Sunderu Elf                             | Kanagawa Elves                                        |
+| Hokuto no Ken: Kenougun Zako-tachi no Banka          | Fist of the North Star: Elegy of Ken-Oh's Army Grunts |
+| Chou Kaguya-hime!                                    | Cosmic Princess Kaguya!                               |
+| Prism Rondo                                          | Love Through a Prism                                  |
 
 ## Skipping
 
