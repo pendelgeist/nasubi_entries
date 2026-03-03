@@ -294,22 +294,22 @@ for assorted pickles. 351 for cup ramen. All zeroes.
 
 ### Food Subcategory Breakdown
 
-| Subcategory              | Items | Postcards | Wins | Win Rate | Value Won       |
-|--------------------------|-------|-----------|------|----------|-----------------|
-| Snacks & Sweets          | 113   | 8,629     | 7    | 6.2%     | 18,454 JPY      |
-| Vegetables & Mushrooms   | 65    | 2,877     | 3    | 4.6%     | 18,500 JPY      |
-| Noodles & Pasta          | 50    | 2,619     | 1    | 2.0%     | 3,800 JPY       |
-| Prepared & Convenience   | 53    | 2,435     | 1    | 1.9%     | 3,000 JPY       |
-| Beverages                | 73    | 2,419     | 1    | 1.4%     | 15,000 JPY      |
-| Seafood & Seaweed        | 50    | 2,287     | 4    | 8.0%     | 26,150 JPY      |
-| Pickles & Fermented      | 24    | 2,113     | 4    | 16.7%    | 11,400 JPY      |
-| Fruit                    | 39    | 1,781     | 4    | 10.3%    | 7,300 JPY       |
-| Meat                     | 43    | 1,464     | 4    | 9.3%     | 26,300 JPY      |
-| Rice                     | 27    | 1,437     | 4    | 14.8%    | 15,800 JPY      |
-| Condiments & Pantry      | 58    | 1,360     | 4    | 6.9%     | 2,540 JPY       |
-| Diet & Health Food       | 17    | 799       | 1    | 5.9%     | 2,640 JPY       |
-| Dairy & Soy              | 12    | 541       | 1    | 8.3%     | 1,530 JPY       |
-| Pet Food                 | 7     | 320       | 2    | 28.6%    | 10,100 JPY      |
+| Subcategory            | Items | Postcards | Wins | Win Rate | Value Won  |
+|------------------------|-------|-----------|------|----------|------------|
+| Snacks & Sweets        | 113   | 8,629     | 7    | 6.2%     | 18,454 JPY |
+| Vegetables & Mushrooms | 65    | 2,877     | 3    | 4.6%     | 18,500 JPY |
+| Noodles & Pasta        | 50    | 2,619     | 1    | 2.0%     | 3,800 JPY  |
+| Prepared & Convenience | 53    | 2,435     | 1    | 1.9%     | 3,000 JPY  |
+| Beverages              | 73    | 2,419     | 1    | 1.4%     | 15,000 JPY |
+| Seafood & Seaweed      | 50    | 2,287     | 4    | 8.0%     | 26,150 JPY |
+| Pickles & Fermented    | 24    | 2,113     | 4    | 16.7%    | 11,400 JPY |
+| Fruit                  | 39    | 1,781     | 4    | 10.3%    | 7,300 JPY  |
+| Meat                   | 43    | 1,464     | 4    | 9.3%     | 26,300 JPY |
+| Rice                   | 27    | 1,437     | 4    | 14.8%    | 15,800 JPY |
+| Condiments & Pantry    | 58    | 1,360     | 4    | 6.9%     | 2,540 JPY  |
+| Diet & Health Food     | 17    | 799       | 1    | 5.9%     | 2,640 JPY  |
+| Dairy & Soy            | 12    | 541       | 1    | 8.3%     | 1,530 JPY  |
+| Pet Food               | 7     | 320       | 2    | 28.6%    | 10,100 JPY |
 
 The pattern here mirrors the overall dataset: **the unglamorous categories win**. Pickles & fermented foods had a 16.7%
 win rate. Rice hit 14.8%. Meanwhile, the things you'd actually crave — noodles, prepared meals, beverages — came in
@@ -324,19 +324,19 @@ win dog food. Nasubi won two batches — raw and dry — worth a combined 10,100
 
 ### The Survival Timeline: When Did Food Actually Arrive?
 
-| Prize Month | Food Wins | Notable Items                                    |
-|-------------|-----------|--------------------------------------------------|
-| Feb         | 2         | Fiber jelly, spaghetti set                       |
-| Mar         | 7         | Natto, strawberries, beef, pickled konjiri       |
-| Apr         | 4         | Lobster, tomatoes, chocolate, dim sum             |
-| May         | 6         | Rice (10kg), dog food (x2), natto, diet foods     |
-| Jun         | 4         | Duck meat, seaweed, ice cream                     |
-| Jul         | 0         | —                                                |
-| Aug         | 4         | Jelly, rice (2kg), pickled eggplant, watermelon   |
-| Sep         | 1         | *(non-food item miscategorized)*                  |
+| Prize Month | Food Wins | Notable Items                                       |
+|-------------|-----------|-----------------------------------------------------|
+| Feb         | 2         | Fiber jelly, spaghetti set                          |
+| Mar         | 7         | Natto, strawberries, beef, pickled konjiri          |
+| Apr         | 4         | Lobster, tomatoes, chocolate, dim sum               |
+| May         | 6         | Rice (10kg), dog food (x2), natto, diet foods       |
+| Jun         | 4         | Duck meat, seaweed, ice cream                       |
+| Jul         | 0         | —                                                   |
+| Aug         | 4         | Jelly, rice (2kg), pickled eggplant, watermelon     |
+| Sep         | 1         | *(non-food item miscategorized)*                    |
 | Oct         | 4         | Hairy crab, anmitsu, potato snacks, vegetable juice |
-| Nov         | 5         | Sirloin steak, matsutake, rice (10kg), mayonnaise |
-| Dec         | 2         | Furikake, rice (2kg)                              |
+| Nov         | 5         | Sirloin steak, matsutake, rice (10kg), mayonnaise   |
+| Dec         | 2         | Furikake, rice (2kg)                                |
 
 **July was a total food blackout** — not a single edible item arrived. This aligns with the broader mid-year drought
 visible in the overall data.
@@ -359,18 +359,18 @@ Not all food wins were equal. Of his 41 food-related wins:
 
 The high-survival wins paint a picture of feast-or-famine (mostly famine). His most sustaining wins were:
 
-| Item                           | Month | Survival Value                    |
-|--------------------------------|-------|-----------------------------------|
-| Rice (10kg)                    | May   | Staple calories for weeks         |
-| Barley beef (850g)             | Mar   | Real protein                      |
-| Spaghetti gift set             | Feb   | Carbs + bulk                      |
-| Lobster                        | Apr   | Luxury protein, one meal          |
-| Duck meat                      | Jun   | Protein                           |
-| Rice: Koshihikari (10kg)       | Nov   | Staple calories for weeks         |
-| Sirloin steak                  | Nov   | High-quality protein, one meal    |
-| Matsutake mushroom             | Nov   | Nutritionally minimal, symbolically enormous |
-| Ice cream (24 cups)            | Jun   | Calories, morale                  |
-| Natto (x2)                     | Mar, May | Protein, fermented nutrition   |
+| Item                     | Month    | Survival Value                               |
+|--------------------------|----------|----------------------------------------------|
+| Rice (10kg)              | May      | Staple calories for weeks                    |
+| Barley beef (850g)       | Mar      | Real protein                                 |
+| Spaghetti gift set       | Feb      | Carbs + bulk                                 |
+| Lobster                  | Apr      | Luxury protein, one meal                     |
+| Duck meat                | Jun      | Protein                                      |
+| Rice: Koshihikari (10kg) | Nov      | Staple calories for weeks                    |
+| Sirloin steak            | Nov      | High-quality protein, one meal               |
+| Matsutake mushroom       | Nov      | Nutritionally minimal, symbolically enormous |
+| Ice cream (24 cups)      | Jun      | Calories, morale                             |
+| Natto (x2)               | Mar, May | Protein, fermented nutrition                 |
 
 The two 10 kg rice deliveries (May and November) were probably the most important wins of the entire challenge — not by
 declared value, but by survival value. Rice keeps you alive. Lobster is one dinner.
@@ -380,18 +380,18 @@ declared value, but by survival value. Rice keeps you alive. Lobster is one dinn
 The cruelest dimension of the food data is what Nasubi desperately wanted but never received. His highest-volume food
 entries that returned nothing:
 
-| Postcards | Item                    |
-|-----------|-------------------------|
-| 480       | Miso and soy sauce      |
-| 450       | Japanese sweets         |
-| 440       | Assorted pickles        |
-| 420       | Snacks                  |
-| 351       | Cup ramen               |
-| 300       | Chinese buns            |
-| 225       | Jelly                   |
-| 221       | Potato snacks           |
-| 220       | Chocolate               |
-| 220       | Snacks                  |
+| Postcards | Item               |
+|-----------|--------------------|
+| 480       | Miso and soy sauce |
+| 450       | Japanese sweets    |
+| 440       | Assorted pickles   |
+| 420       | Snacks             |
+| 351       | Cup ramen          |
+| 300       | Chinese buns       |
+| 225       | Jelly              |
+| 221       | Potato snacks      |
+| 220       | Chocolate          |
+| 220       | Snacks             |
 
 480 postcards for miso and soy sauce — the most basic Japanese pantry staples. 351 for cup ramen — the cheapest,
 most ubiquitous food in Japan. Nothing. These are items that cost a few hundred yen at any convenience store, and he
