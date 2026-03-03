@@ -9,7 +9,9 @@ roughly $7,700 USD at 1998 rates).
 
 What follows is a data-driven look at his 11-month ordeal.
 
-In 2023, the documentary [*The Contestant*](https://www.hulu.com/movie/the-contestant-4a768bab-31b1-437c-821c-3b050ede1ab6) (dir. Clair Titley) brought Nasubi's story to an international audience, premiering at TIFF before releasing on Hulu in May 2024.
+In 2023, the documentary [*The
+Contestant*](https://www.hulu.com/movie/the-contestant-4a768bab-31b1-437c-821c-3b050ede1ab6) (dir. Clair Titley) brought
+Nasubi's story to an international audience, premiering at TIFF before releasing on Hulu in May 2024.
 
 ---
 
@@ -96,25 +98,27 @@ closing the gap.
 
 ## The Biggest Wins
 
-| Value      | Item                          | Month |
-|------------|-------------------------------|-------|
-| 99,800 JPY | Kokuyo desk and chair (コクヨの机とイス)             | Jun   |
-| 85,000 JPY | VCR (video deck) (ビデオデッキ)                      | Oct   |
-| 84,000 JPY | Tires (4) (タイヤ (4本))                             | Dec   |
-| 78,000 JPY | Tent (3-5 person) (テント)                           | Nov   |
-| 41,800 JPY | Folding bicycle (折りたたみ自転車)                     | Mar   |
-| 36,000 JPY | Attaché case (ノートパソコン用ケースー)                 | Dec   |
-| 35,000 JPY | Automatic translation machine (自動翻訳機)            | Jun   |
-| 28,000 JPY | High-end lighter (ライター)                          | Aug   |
-| 25,000 JPY | Cosmetics set (化粧品セット(マニキュア他))              | May   |
-| 22,000 JPY | Victor 14-inch color TV (ワイドテレビ)                 | Apr   |
+| Value      | Item                                  | Month |
+|------------|---------------------------------------|-------|
+| 99,800 JPY | Kokuyo desk and chair (コクヨの机とイス)      | Jun   |
+| 85,000 JPY | VCR (video deck) (ビデオデッキ)             | Oct   |
+| 84,000 JPY | Tires (4) (タイヤ (4本))                  | Dec   |
+| 78,000 JPY | Tent (3-5 person) (テント)               | Nov   |
+| 41,800 JPY | Folding bicycle (折りたたみ自転車)            | Mar   |
+| 36,000 JPY | Attaché case (ノートパソコン用ケースー)           | Dec   |
+| 35,000 JPY | Automatic translation machine (自動翻訳機) | Jun   |
+| 28,000 JPY | High-end lighter (ライター)               | Aug   |
+| 25,000 JPY | Cosmetics set (化粧品セット(マニキュア他))        | May   |
+| 22,000 JPY | Victor 14-inch color TV (ワイドテレビ)      | Apr   |
 
 The top 10 wins alone account for **535,400 JPY** — more than half his total. This is a power-law distribution: a
-handful of lucky high-value wins carried the entire enterprise. Without the Kokuyo desk (コクヨの机とイス) or the VCR (ビデオデッキ), he might still be in
+handful of lucky high-value wins carried the entire enterprise. Without the Kokuyo desk (コクヨの机とイス) or the VCR (
+ビデオデッキ), he might still be in
 that apartment.
 
 Notably, most of these "jackpot" items were things Nasubi had absolutely no personal use for — a man sitting naked in an
-empty room does not need golf shoes (ゴルフシューズ), a cosmetics set (化粧品セット), or an attaché case (ノートパソコン用ケースー). But value is value.
+empty room does not need golf shoes (ゴルフシューズ), a cosmetics set (化粧品セット), or an attaché case (
+ノートパソコン用ケースー). But value is value.
 
 ---
 
@@ -133,40 +137,41 @@ guide**. The universe has a dark sense of humor.
 
 ### Best ROI (JPY returned per postcard sent)
 
-| JPY/card | Item                      | Cards Sent | Value  |
-|----------|---------------------------|------------|--------|
-| 84,000   | Tires (4) (タイヤ (4本))                           | 1          | 84,000 |
-| 12,800   | Docomo Pocket Board (ドコモ 「ポケットボード」)     | 1          | 12,800 |
-| 10,000   | English lesson ticket (英会話レッスンチケット)      | 1          | 10,000 |
+| JPY/card | Item                                      | Cards Sent | Value  |
+|----------|-------------------------------------------|------------|--------|
+| 84,000   | Tires (4) (タイヤ (4本))                      | 1          | 84,000 |
+| 12,800   | Docomo Pocket Board (ドコモ 「ポケットボード」)       | 1          | 12,800 |
+| 10,000   | English lesson ticket (英会話レッスンチケット)       | 1          | 10,000 |
 | 10,000   | CD-ROM encyclopedia (CD-ROM版 マルチメディア百科辞典) | 1          | 10,000 |
-| 9,800    | Globe (地球儀)                                     | 1          | 9,800  |
-| 8,500    | VCR (ビデオデッキ)                                  | 10         | 85,000 |
-| 8,000    | Feather pillow (羽毛枕)                             | 1          | 8,000  |
-| 7,800    | Tent (テント)                                       | 10         | 78,000 |
-| 4,990    | Kokuyo desk and chair (コクヨの机とイス)             | 20         | 99,800 |
-| 4,800    | Keirin Championship video (競輪日本選手権ビデオ)     | 1          | 4,800  |
+| 9,800    | Globe (地球儀)                               | 1          | 9,800  |
+| 8,500    | VCR (ビデオデッキ)                              | 10         | 85,000 |
+| 8,000    | Feather pillow (羽毛枕)                      | 1          | 8,000  |
+| 7,800    | Tent (テント)                                | 10         | 78,000 |
+| 4,990    | Kokuyo desk and chair (コクヨの机とイス)          | 20         | 99,800 |
+| 4,800    | Keirin Championship video (競輪日本選手権ビデオ)    | 1          | 4,800  |
 
 The single best return: **1 postcard yielded 84,000 JPY in tires**. Several other single-card wins delivered excellent
 value. The lesson: lottery-style low-entry wins vastly outperformed his volume strategy.
 
 ### Worst ROI (JPY returned per postcard sent)
 
-| JPY/card | Item                     | Cards Sent | Value |
-|----------|--------------------------|------------|-------|
-| 12       | Ice cream (アイスクリーム) (24 cups)              | 250        | 3,000 |
-| 12       | Potato snacks (ポテトスナック)                     | 250        | 3,000 |
-| 11       | Mayonnaise (マヨネーズ) (3)                        | 50         | 540   |
-| 10       | Chocolate (チョコレート)                           | 210        | 2,000 |
+| JPY/card | Item                                    | Cards Sent | Value |
+|----------|-----------------------------------------|------------|-------|
+| 12       | Ice cream (アイスクリーム) (24 cups)           | 250        | 3,000 |
+| 12       | Potato snacks (ポテトスナック)                 | 250        | 3,000 |
+| 11       | Mayonnaise (マヨネーズ) (3)                  | 50         | 540   |
+| 10       | Chocolate (チョコレート)                      | 210        | 2,000 |
 | 9        | Weider in Jelly (ウィダーinゼリー(ポーチ付き)) (21) | 201        | 1,820 |
-| 8        | Toothbrush set (歯みがきセット)                    | 50         | 400   |
-| 7        | Mandarin liquor (温州みかん酒(6缶)) (6 cans)      | 162        | 1,200 |
-| 7        | Salmon backbone snack (鮭の中骨スナック)           | 50         | 350   |
-| 3        | Furikake (ふりかけ)                                | 160        | 500   |
+| 8        | Toothbrush set (歯みがきセット)                | 50         | 400   |
+| 7        | Mandarin liquor (温州みかん酒(6缶)) (6 cans)   | 162        | 1,200 |
+| 7        | Salmon backbone snack (鮭の中骨スナック)        | 50         | 350   |
+| 3        | Furikake (ふりかけ)                         | 160        | 500   |
 
 At the bottom: 250 postcards for 3,000 JPY worth of ice cream. That's 12 JPY per postcard, on postcards that cost 50 JPY
 each. A net loss of 9,500 JPY to win ice cream.
 
-The **furikake** (ふりかけ) is the crown jewel of futility: 160 postcards (8,000 JPY in postage) to win 500 JPY of rice seasoning.
+The **furikake** (ふりかけ) is the crown jewel of futility: 160 postcards (8,000 JPY in postage) to win 500 JPY of rice
+seasoning.
 A 94% loss on investment.
 
 ---
@@ -187,8 +192,8 @@ Nasubi's approach was simple: drown the odds in volume. His biggest postcard bat
 | 351   | Cup ramen                     | No      |
 | 300   | Chinese buns                  | No      |
 | 253   | Watch                         | No      |
-| 250   | Ice cream (アイスクリーム)                     | **Yes** |
-| 250   | Potato snacks (ポテトスナック)                  | **Yes** |
+| 250   | Ice cream (アイスクリーム)           | **Yes** |
+| 250   | Potato snacks (ポテトスナック)       | **Yes** |
 
 The top 10 highest-volume entries **all lost**. 480 postcards for miso and soy sauce — nothing. 450 for a tableware
 set — nothing. 440 for assorted pickles — nothing. The two 250-card items that did win returned some of the worst ROI in
@@ -224,7 +229,8 @@ Key findings:
 - **Travel contests were a total shutout**: 105 entries, 2,720 postcards, zero wins. Everyone wants a free trip to
   Hawaii.
 - **Noodles/Pasta**: 3,355 postcards for a single 3,800 JPY spaghetti set (スパゲティギフトセット) win. Brutal.
-- **Vehicles** had a terrible win rate (2.7%) but delivered 125,800 JPY on just 2 wins (the bicycle (折りたたみ自転車) and tires (タイヤ)).
+- **Vehicles** had a terrible win rate (2.7%) but delivered 125,800 JPY on just 2 wins (the bicycle (折りたたみ自転車)
+  and tires (タイヤ)).
 
 ---
 
@@ -232,21 +238,21 @@ Key findings:
 
 Some items Nasubi entered relentlessly across many months:
 
-| Months | Total Cards | Item                        | Won? |
-|--------|-------------|-----------------------------|------|
-| 9      | 1,265       | Chocolate (チョコレート)                           | Yes  |
-| 8      | 460         | Sunglasses                                         | No   |
-| 7      | 807         | Ice cream (アイスクリーム)                          | Yes  |
-| 7      | 277         | Electric shaver                                    | No   |
-| 6      | 701         | Hotel accommodation voucher (ホテル宿泊券)          | Yes  |
-| 6      | 555         | Jelly (ゼリー)                                      | Yes  |
-| 6      | 431         | Cookies                                            | No   |
-| 6      | 350         | Accessories                                        | No   |
-| 6      | 285         | Bag                                                | No   |
-| 6      | 257         | MD player                                          | No   |
-| 5      | 933         | Potato snacks (ポテトスナック)                       | Yes  |
-| 5      | 585         | Watch                                              | No   |
-| 5      | 261         | 1 million yen cash                                 | No   |
+| Months | Total Cards | Item                                 | Won? |
+|--------|-------------|--------------------------------------|------|
+| 9      | 1,265       | Chocolate (チョコレート)                   | Yes  |
+| 8      | 460         | Sunglasses                           | No   |
+| 7      | 807         | Ice cream (アイスクリーム)                  | Yes  |
+| 7      | 277         | Electric shaver                      | No   |
+| 6      | 701         | Hotel accommodation voucher (ホテル宿泊券) | Yes  |
+| 6      | 555         | Jelly (ゼリー)                          | Yes  |
+| 6      | 431         | Cookies                              | No   |
+| 6      | 350         | Accessories                          | No   |
+| 6      | 285         | Bag                                  | No   |
+| 6      | 257         | MD player                            | No   |
+| 5      | 933         | Potato snacks (ポテトスナック)              | Yes  |
+| 5      | 585         | Watch                                | No   |
+| 5      | 261         | 1 million yen cash                   | No   |
 
 Nasubi entered chocolate contests for **9 consecutive months** (1,265 postcards). He eventually won — 2,000 JPY of
 chocolate. He tried for 1 million yen in cash for 5 months (261 postcards). Never won.
@@ -257,7 +263,8 @@ The man wanted sunglasses badly — 8 months, 460 postcards, never got them.
 
 ## The Hirosue Ryoko Obsession
 
-Nasubi entered **62 separate Hirosue Ryoko (広末涼子)-related contests** — posters, phone cards, novelty bags, clear files,
+Nasubi entered **62 separate Hirosue Ryoko (広末涼子)-related contests** — posters, phone cards, novelty bags, clear
+files,
 autographed items, CDs, figures, videos, and calendars. He sent 405 postcards for Hirosue items.
 
 He won 3 of them:
@@ -273,8 +280,10 @@ and cost roughly 20,250 JPY in postage.
 
 ## The Used Panties
 
-Yes, this was a thing in 1990s Japanese magazine contests. Nasubi entered **10 different "model's used panties" (モデルさん使用済パンティ) contests
-** across multiple months, with names like Mai-chan, Arare-chan, Hitomi-chan (ひとみチャン), Emi-chan, Yumiko-chan, Saki-chan,
+Yes, this was a thing in 1990s Japanese magazine contests. Nasubi entered **10 different "model's used panties" (
+モデルさん使用済パンティ) contests
+** across multiple months, with names like Mai-chan, Arare-chan, Hitomi-chan (ひとみチャン), Emi-chan, Yumiko-chan,
+Saki-chan,
 Haruka-chan, and Kairi-chan.
 
 He won one: **Hitomi-chan's used panties**, valued at 1,800 JPY.
@@ -315,10 +324,12 @@ for assorted pickles. 351 for cup ramen. All zeroes.
 
 The pattern here mirrors the overall dataset: **the unglamorous categories win**. Pickles & fermented foods had a 16.7%
 win rate. Rice hit 14.8%. Meanwhile, the things you'd actually crave — noodles, prepared meals, beverages — came in
-under 2%. Nobody else was competing for natto (納豆) and pickled konjiri (スナック風漬物こんじり). Everyone was competing for cup ramen.
+under 2%. Nobody else was competing for natto (納豆) and pickled konjiri (スナック風漬物こんじり). Everyone was
+competing for cup ramen.
 
 Meat and seafood tell an interesting story. Individually, the win rates (9.3% and 8.0%) are respectable, and these
-categories delivered real value — a 15,800 JPY lobster (ロブスター), 15,000 JPY sirloin steak (サーロインステーキ肉), hairy crab (毛ガニ), duck meat (合鴨肉). When Nasubi
+categories delivered real value — a 15,800 JPY lobster (ロブスター), 15,000 JPY sirloin steak (サーロインステーキ肉),
+hairy crab (毛ガニ), duck meat (合鴨肉). When Nasubi
 won protein, it mattered.
 
 The **pet food** line is darkly funny. At 28.6%, it had the highest win rate of any food subcategory. Nobody wants to
@@ -326,19 +337,19 @@ win dog food. Nasubi won two batches — raw and dry — worth a combined 10,100
 
 ### The Survival Timeline: When Did Food Actually Arrive?
 
-| Prize Month | Food Wins | Notable Items                                       |
-|-------------|-----------|-----------------------------------------------------|
-| Feb         | 2         | Fiber jelly (飲むゼリー「ファイバーゼリー」), spaghetti set (スパゲティギフトセット) |
-| Mar         | 7         | Natto (納豆), strawberries (栃木のいちご), beef (大麦牛), pickled konjiri (スナック風漬物こんじり) |
-| Apr         | 4         | Lobster (ロブスター), tomatoes (栃木のトマト), chocolate (チョコレート), dim sum (飲茶セット) |
-| May         | 6         | Rice (米(10kg)), dog food (ドッグフードー) (x2), natto (納豆), diet foods (ダイエット食品) |
-| Jun         | 4         | Duck meat (合鴨肉), seaweed (高級のり), ice cream (アイスクリーム) |
-| Jul         | 0         | —                                                   |
-| Aug         | 4         | Jelly (ゼリー), rice (米「たくわえくん」(2kg)), pickled eggplant (水なす漬), watermelon (スイカ) |
-| Sep         | 1         | *(non-food item miscategorized)*                    |
-| Oct         | 4         | Hairy crab (毛ガニ), anmitsu (あんみつ), potato snacks (ポテトスナック), vegetable juice (野菜ジュース) |
+| Prize Month | Food Wins | Notable Items                                                                          |
+|-------------|-----------|----------------------------------------------------------------------------------------|
+| Feb         | 2         | Fiber jelly (飲むゼリー「ファイバーゼリー」), spaghetti set (スパゲティギフトセット)                             |
+| Mar         | 7         | Natto (納豆), strawberries (栃木のいちご), beef (大麦牛), pickled konjiri (スナック風漬物こんじり)           |
+| Apr         | 4         | Lobster (ロブスター), tomatoes (栃木のトマト), chocolate (チョコレート), dim sum (飲茶セット)                |
+| May         | 6         | Rice (米(10kg)), dog food (ドッグフードー) (x2), natto (納豆), diet foods (ダイエット食品)              |
+| Jun         | 4         | Duck meat (合鴨肉), seaweed (高級のり), ice cream (アイスクリーム)                                   |
+| Jul         | 0         | —                                                                                      |
+| Aug         | 4         | Jelly (ゼリー), rice (米「たくわえくん」(2kg)), pickled eggplant (水なす漬), watermelon (スイカ)          |
+| Sep         | 1         | *(non-food item miscategorized)*                                                       |
+| Oct         | 4         | Hairy crab (毛ガニ), anmitsu (あんみつ), potato snacks (ポテトスナック), vegetable juice (野菜ジュース)    |
 | Nov         | 5         | Sirloin steak (サーロインステーキ肉), matsutake (松茸), rice (米 「コシヒカリ」(10kg)), mayonnaise (マヨネーズ) |
-| Dec         | 2         | Furikake (ふりかけ), rice (米「コシヒカリ」&「ササニシキ」(各2kg)) |
+| Dec         | 2         | Furikake (ふりかけ), rice (米「コシヒカリ」&「ササニシキ」(各2kg))                                         |
 
 **July was a total food blackout** — not a single edible item arrived. This aligns with the broader mid-year drought
 visible in the overall data.
@@ -347,7 +358,8 @@ The early months (Feb–May) were relatively generous. March alone delivered 7 f
 beans. May brought his first major rice haul (10 kg). These months likely kept him from total collapse.
 
 The late surge is notable too. October through November delivered crab, steak, matsutake mushrooms (松茸), and 10 kg of
-premium Koshihikari rice (米 「コシヒカリ」) — the most calorically significant stretch of the entire ordeal. By then he'd been starving for
+premium Koshihikari rice (米 「コシヒカリ」) — the most calorically significant stretch of the entire ordeal. By then he'd
+been starving for
 nearly a year.
 
 ### What He Could Actually Eat
@@ -361,18 +373,18 @@ Not all food wins were equal. Of his 41 food-related wins:
 
 The high-survival wins paint a picture of feast-or-famine (mostly famine). His most sustaining wins were:
 
-| Item                     | Month    | Survival Value                               |
-|--------------------------|----------|----------------------------------------------|
-| Rice (米(10kg))                                    | May      | Staple calories for weeks                    |
-| Barley beef (大麦牛(ステーキ用850g))                 | Mar      | Real protein                                 |
-| Spaghetti gift set (スパゲティギフトセット)            | Feb      | Carbs + bulk                                 |
-| Lobster (ロブスター)                                 | Apr      | Luxury protein, one meal                     |
-| Duck meat (合鴨肉)                                   | Jun      | Protein                                      |
-| Rice: Koshihikari (米 「コシヒカリ」(10kg))            | Nov      | Staple calories for weeks                    |
-| Sirloin steak (サーロインステーキ肉)                  | Nov      | High-quality protein, one meal               |
-| Matsutake mushroom (松茸)                            | Nov      | Nutritionally minimal, symbolically enormous |
-| Ice cream (アイスクリーム) (24 cups)                  | Jun      | Calories, morale                             |
-| Natto (納豆) (x2)                                    | Mar, May | Protein, fermented nutrition                 |
+| Item                                | Month    | Survival Value                               |
+|-------------------------------------|----------|----------------------------------------------|
+| Rice (米(10kg))                      | May      | Staple calories for weeks                    |
+| Barley beef (大麦牛(ステーキ用850g))        | Mar      | Real protein                                 |
+| Spaghetti gift set (スパゲティギフトセット)    | Feb      | Carbs + bulk                                 |
+| Lobster (ロブスター)                     | Apr      | Luxury protein, one meal                     |
+| Duck meat (合鴨肉)                     | Jun      | Protein                                      |
+| Rice: Koshihikari (米 「コシヒカリ」(10kg)) | Nov      | Staple calories for weeks                    |
+| Sirloin steak (サーロインステーキ肉)          | Nov      | High-quality protein, one meal               |
+| Matsutake mushroom (松茸)             | Nov      | Nutritionally minimal, symbolically enormous |
+| Ice cream (アイスクリーム) (24 cups)       | Jun      | Calories, morale                             |
+| Natto (納豆) (x2)                     | Mar, May | Protein, fermented nutrition                 |
 
 The two 10 kg rice deliveries (May and November) were probably the most important wins of the entire challenge — not by
 declared value, but by survival value. Rice keeps you alive. Lobster is one dinner.
@@ -382,18 +394,18 @@ declared value, but by survival value. Rice keeps you alive. Lobster is one dinn
 The cruelest dimension of the food data is what Nasubi desperately wanted but never received. His highest-volume food
 entries that returned nothing:
 
-| Postcards | Item               |
-|-----------|--------------------|
-| 480       | Miso and soy sauce |
-| 450       | Japanese sweets    |
-| 440       | Assorted pickles   |
-| 420       | Snacks             |
-| 351       | Cup ramen          |
-| 300       | Chinese buns       |
-| 225       | Jelly (ゼリー)              |
+| Postcards | Item                    |
+|-----------|-------------------------|
+| 480       | Miso and soy sauce      |
+| 450       | Japanese sweets         |
+| 440       | Assorted pickles        |
+| 420       | Snacks                  |
+| 351       | Cup ramen               |
+| 300       | Chinese buns            |
+| 225       | Jelly (ゼリー)             |
 | 221       | Potato snacks (ポテトスナック) |
 | 220       | Chocolate (チョコレート)      |
-| 220       | Snacks             |
+| 220       | Snacks                  |
 
 480 postcards for miso and soy sauce — the most basic Japanese pantry staples. 351 for cup ramen — the cheapest,
 most ubiquitous food in Japan. Nothing. These are items that cost a few hundred yen at any convenience store, and he
